@@ -21,5 +21,5 @@ I have also created [a set of Jupyter notebooks](https://github.com/academicpage
 )
 
 
-(/images/CloudTypesNC.jpg)
+![Clouds](/images/CloudTypesNC.jpg)
 
