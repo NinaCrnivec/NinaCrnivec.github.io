@@ -8,18 +8,17 @@ redirect_from:
    - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
+I am a PhD student of Meteorology at Ludwig Maximilian University of Munich working on [Waves To Weather project B4] 
+(https://w2w.meteo.physik.uni-muenchen.de/research_areas/phase1/b4/index.html). 
 
 
 Research Highlights
 ------
 
-
 **Shallow cumulus clouds**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-)
+Coming soon...
 
 
+**Clouds**
 ![Clouds](/images/CloudTypesNC.jpg)
 
