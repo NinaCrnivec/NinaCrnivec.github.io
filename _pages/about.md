@@ -8,7 +8,9 @@ redirect_from:
    - /about.html
 ---
 
-I am a PhD student of Meteorology at Ludwig Maximilian University of Munich working on [Waves To Weather project B4](https://w2w.meteo.physik.uni-muenchen.de/research_areas/phase1/b4/index.html). 
+I am a PhD student of Meteorology at Ludwig Maximilian University of Munich working on [Waves To Weather](https://w2w.meteo.physik.uni-muenchen.de/) [project B4](https://w2w.meteo.physik.uni-muenchen.de/research_areas/phase1/b4/index.html) "*Radiative heating and cooling at cloud scale and its impact on dynamics*".
+
+Working group: Remote sensing and radiative transfer (Prof. Dr. Bernhard Mayer)
 
 Research Interests
 ------
