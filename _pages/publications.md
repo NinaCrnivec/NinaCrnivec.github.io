@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+_2019_
 
-{% include base_path %}
+**Črnivec, N.** and Mayer, B.: Quantifying the bias of radiative heating rates in numerical weather prediction models for shallow cumulus clouds, Atmos. Chem. Phys., 19, 8083-8100, [https://doi.org/10.5194/acp-19-8083-2019](https://doi.org/10.5194/acp-19-8083-2019), 2019. 
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+_2016_
+
+**Črnivec, N.** and Smith, R. K.: Mean radiosonde soundings for the Australian monsoon/cyclone season. Intern. J. Clim., 37, 66-78, [https://doi.org/10.1002/joc.4687](https://doi.org/10.1002/joc.4687), 2016.
+
+**Črnivec, N.**, Smith, R. K. and Kilroy, G.: Dependence of tropical cyclone intensification rate on sea surface temperature. Quart. J. Roy. Meteor. Soc., 142, 1618-1627, [https://doi.org/10.1002/qj.2752](https://doi.org/10.1002/qj.2752), 2016.
