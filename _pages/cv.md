@@ -9,51 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* M.Sc. Meteorology, Faculty of Physics, Ludwig-Maximilians University of Munich (10/2015)
+* B.Sc. Meteorology with Geophysics, Faculty of Mathematics and Physics, University of Ljubljana (09/2014)
+* B.Sc. Physics, Faculty of Mathematics and Physics, University of Ljubljana (06/2013)
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  See Publications tab.
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Teaching assistant for master studies course “*Clouds: Microphysics and Convection*” at Ludwig-Maximilians University of Munich (SS 2016, SS 2017, SS 2018).
   
-Service and leadership
+Attended Conferences, Workshops, Summer Schools
 ======
-* Currently signed in to 43 different slack teams
+* Waves To Weather (W2W) Early Career Scientists (ECS) Workshop, Kaub, Germany (06/2016), Talk: “Atmospheric radiation and its impact on weather” (Coauthor: Prof. Dr. Bernhard Mayer).
+* Waves To Weather (W2W) Visualization Workshop, Technical University of Munich (TUM), Garching, Germany (04/2016).
+* Waves To Weather (W2W) Early Career Scientists (ECS) Workshop, Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany (10/2015).
+* NASA Hurricane and Severe Storm Sentinel (HS3) Science Team Meeting, NASA Ames Research Park, Mountain View, California (05/2015).
+  
+Membership
+======
+* Member of [“Slovensko meteorološko društvo (SMD)”](http://www.smd.v-izdelavi.si/domov/) (Slovenian Meteorological Society)
+* Member of [“Društvo v tujini izobraženih Slovencev (Društvo VTIS)”](https://www.drustvovtis.si/) (Association of Slovenes Educated Abroad) 
