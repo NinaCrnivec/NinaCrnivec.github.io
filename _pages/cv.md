@@ -24,7 +24,7 @@ Teaching
 ======
 Teaching assistant for master studies course “*Clouds: Microphysics and Convection*” at Ludwig-Maximilians University of Munich (SS 2016, SS 2017, SS 2018).
   
-Scientific activities
+Conferences, Workshops & Summer Schools
 ======
 * Waves To Weather (W2W) 4th Annual Meeting, Landau, Germany (11/2018), Poster: “Radiative heating and cooling at cloud scale and its impact on dynamics”.
 * Waves To Weather (W2W) Early Career Scientists (ECS) Workshop on Machine Learning and Neural Networks, Zugspitze, Germany (09/2018).
@@ -42,8 +42,14 @@ Scientific activities
 * Waves To Weather (W2W) Visualization Workshop, Technical University of Munich (TUM), Garching, Germany (04/2016).
 * Waves To Weather (W2W) Early Career Scientists (ECS) Workshop, Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany (10/2015).
 * NASA Hurricane and Severe Storm Sentinel (HS3) Science Team Meeting, NASA Ames Research Park, Mountain View, California (05/2015).
+
+Awards and Scholarships
+======
+* *Ad Futura Scholarship* for studying abroad, awarded by the Slovene Human Resources Development and Scholarship Fund (10/2013 – 09/2015).
+* *Erasmus Grant* for studying abroad (09/2011 – 07/2012).
+* *Zois Scholarship* for talented students, awarded by the Slovene Human Resources Development and Scholarship Fund (entire secondary school and university studying period in Slovenia: 2005 – 2013).
   
 Membership
 ======
 * Member of [“Slovensko meteorološko društvo (SMD)”](http://www.smd.v-izdelavi.si/domov/) (Slovenian Meteorological Society)
-* Member of [“Društvo v tujini izobraženih Slovencev (Društvo VTIS)”](https://www.drustvovtis.si/) (Association of Slovenes Educated Abroad) 
+* Member of ["Društvo v tujini izobraženih Slovencev (Društvo VTIS)"](https://www.drustvovtis.si/) (Association of Slovenes Educated Abroad) 
