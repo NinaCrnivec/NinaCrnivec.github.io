@@ -21,5 +21,5 @@ I have also created [a set of Jupyter notebooks](https://github.com/academicpage
 )
 
 
-![Editing a markdown file for a talk](/images/editing-talk.png)
+(/images/CloudTypesNC.jpg)
 
