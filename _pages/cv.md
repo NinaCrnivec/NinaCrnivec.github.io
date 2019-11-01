@@ -12,9 +12,9 @@ redirect_from:
 
 Education
 ======
-* M.Sc. Meteorology, Faculty of Physics, Ludwig-Maximilians University of Munich (10/2015)
-* B.Sc. Meteorology with Geophysics, Faculty of Mathematics and Physics, University of Ljubljana (09/2014)
-* B.Sc. Physics, Faculty of Mathematics and Physics, University of Ljubljana (06/2013)
+* **M.Sc. Meteorology**, Faculty of Physics, Ludwig-Maximilians University of Munich (10/2015)
+* **B.Sc. Meteorology with Geophysics**, Faculty of Mathematics and Physics, University of Ljubljana (09/2014)
+* **B.Sc. Physics**, Faculty of Mathematics and Physics, University of Ljubljana (06/2013)
 
 Publications
 ======
@@ -27,7 +27,7 @@ Teaching assistant for master studies course “*Clouds: Microphysics and Convec
 Conferences, Workshops & Summer Schools
 ======
 * Waves To Weather (W2W) 4th Annual Meeting, Landau, Germany (11/2018), Poster: “Radiative heating and cooling at cloud scale and its impact on dynamics”.
-* Waves To Weather (W2W) Early Career Scientists (ECS) Workshop on Machine Learning and Neural Networks, Zugspitze, Germany (09/2018).
+* Waves To Weather (W2W) Early Career Scientists (ECS) Workshop on Machine Learning and Neural Networks, Zugspitze, Germany (09/2018) [Link](https://www.wavestoweather.de/meetings/workshop_neural_networks_sep18/index.html).
 * Waves To Weather (W2W) Research Area B (RAB; “Cloud-scale uncertainties”) Meeting, Johannes Gutenberg University Mainz, Mainz, Germany (03/2018), Talk: “Radiative heating and cooling at cloud scale and its impact on dynamics”.
 * Waves To Weather (W2W) Early Career Scientists (ECS) Workshop, Heidelberg University, Heidelberg, Germany (03/2018).
 * Waves To Weather (W2W) 3nd Annual Meeting, Kempten, Germany (11/2017), Poster: “Radiative heating and cooling at cloud scale and its impact on dynamics”.
@@ -42,12 +42,6 @@ Conferences, Workshops & Summer Schools
 * Waves To Weather (W2W) Visualization Workshop, Technical University of Munich (TUM), Garching, Germany (04/2016).
 * Waves To Weather (W2W) Early Career Scientists (ECS) Workshop, Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany (10/2015).
 * NASA Hurricane and Severe Storm Sentinel (HS3) Science Team Meeting, NASA Ames Research Park, Mountain View, California (05/2015).
-
-Awards and Scholarships
-======
-* *Ad Futura Scholarship* for studying abroad, awarded by the Slovene Human Resources Development and Scholarship Fund (10/2013 – 09/2015).
-* *Erasmus Grant* for studying abroad (09/2011 – 07/2012).
-* *Zois Scholarship* for talented students, awarded by the Slovene Human Resources Development and Scholarship Fund (entire secondary school and university studying period in Slovenia: 2005 – 2013).
   
 Membership
 ======
