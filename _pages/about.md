@@ -10,14 +10,19 @@ redirect_from:
 
 I am a PhD student of Meteorology at Ludwig Maximilian University of Munich working on [Waves To Weather project B4](https://w2w.meteo.physik.uni-muenchen.de/research_areas/phase1/b4/index.html). 
 
+Research Interests
+------
+- Cloud-radiation interaction
+
+- Shallow cumulus clouds
+
+- Tropical cyclone intensification
 
 Research Highlights
 ------
+Quantifying the bias of radiative heating rates in numerical weather prediction models for shallow cumulus clouds. [Read more](https://www.atmos-chem-phys.net/19/8083/2019/)
 
-**Shallow cumulus clouds**
-Coming soon...
-
-
-**Clouds**
+Cloud Gallery
+------
 ![Clouds](/images/CloudTypesNC.jpg)
 
