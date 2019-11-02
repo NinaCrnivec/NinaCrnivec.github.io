@@ -18,19 +18,19 @@ Education
 
 Publications
 ======
-See [Publications tab](https://ninacrnivec.github.io/publications/).
+See [Publications tab](https://ninacrnivec.github.io/publications/)
   
 Teaching
 ======
-See [Teaching tab](https://ninacrnivec.github.io/teaching/).
+See [Teaching tab](https://ninacrnivec.github.io/teaching/)
   
 Conferences
 ======
-See [Events tab](https://ninacrnivec.github.io/events/).
+See [Events tab](https://ninacrnivec.github.io/events/)
 
 Workshops
 ======
-See [Events tab](https://ninacrnivec.github.io/events/).
+See [Events tab](https://ninacrnivec.github.io/events/)
 
 Summer Schools
 ======
