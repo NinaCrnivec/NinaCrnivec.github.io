@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+_In preparation_
+
+Zaplotnik, Ž., Boljka, L., **Črnivec, N.**, and A. Slameršak, 2019: Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za omilitev podnebnih sprememb. Odprto pismo slovenski vladi, 7 pp. (An open letter to the Slovenian government, urging them to improve the climate change mitigation policy).
+
 _2019_
 
 **Črnivec, N.** and Mayer, B.: Quantifying the bias of radiative heating rates in numerical weather prediction models for shallow cumulus clouds, Atmos. Chem. Phys., 19, 8083-8100, [https://doi.org/10.5194/acp-19-8083-2019](https://doi.org/10.5194/acp-19-8083-2019), 2019. 
