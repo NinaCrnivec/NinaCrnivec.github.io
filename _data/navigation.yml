@@ -5,16 +5,16 @@ main:
 
   - title: "Publications"
     url: /publications/
+    
+  - title: "Teaching"
+    url: /teaching/   
 
   #- title: "Talks"
   #  url: /talks/  
   
   - title: "Events"
     url: /events/  
-
-  #- title: "Teaching"
-  #  url: /teaching/   
-               
+    
   - title: "Blog"
     url: /year-archive/
       
