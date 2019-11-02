@@ -22,7 +22,7 @@ See [Publications tab](https://ninacrnivec.github.io/publications/).
   
 Teaching
 ======
-See Teaching tab.
+See [Teaching tab](https://ninacrnivec.github.io/teaching/).
   
 Conferences
 ======
