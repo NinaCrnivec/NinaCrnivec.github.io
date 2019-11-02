@@ -13,7 +13,10 @@ main:
   #  url: /talks/  
   
   - title: "Events"
-    url: /events/  
+    url: /events/ 
+    
+  - title: "Outreach"
+    url: /outreach/  
     
   - title: "Blog"
     url: /year-archive/
