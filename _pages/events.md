@@ -7,7 +7,7 @@ author_profile: true
 
 Conferences
 ======
-* Waves To Weather 4th Annual Meeting, Landau, Germany (11/2018)<br/>Poster: “Radiative heating and cooling at cloud scale and its impact on dynamics”
+* Waves To Weather 4th Annual Meeting, Landau, Germany (11/2018)<br/>_Poster: “Radiative heating and cooling at cloud scale and its impact on dynamics”_
 * Waves To Weather Research Area B (“Cloud-scale uncertainties”) Meeting, Johannes Gutenberg University Mainz, Mainz, Germany (03/2018)<br/>_Talk: “Radiative heating and cooling at cloud scale and its impact on dynamics”_
 * Waves To Weather 3nd Annual Meeting, Kempten, Germany (11/2017)<br/>_Poster: “Radiative heating and cooling at cloud scale and its impact on dynamics”_
 * Waves To Weather Research Area B (“Cloud-scale uncertainties”) Meeting, Johannes Gutenberg University Mainz, Mainz, Germany (05/2017)<br/>_Talk: “1-D versus 3-D radiation from NWP perspective”_
