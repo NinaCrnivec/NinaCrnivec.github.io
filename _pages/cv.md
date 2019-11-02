@@ -34,7 +34,7 @@ See [Events tab](https://ninacrnivec.github.io/events/)
 
 Summer Schools
 ======
-See [Events tab](https://ninacrnivec.github.io/events/).
+See [Events tab](https://ninacrnivec.github.io/events/)
   
 Membership
 ======
