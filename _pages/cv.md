@@ -12,9 +12,18 @@ redirect_from:
 
 Education
 ======
-* **M.Sc. Meteorology**, Faculty of Physics, Ludwig-Maximilians University of Munich (10/2015)
-* **B.Sc. Meteorology with Geophysics**, Faculty of Mathematics and Physics, University of Ljubljana (09/2014)
-* **B.Sc. Physics**, Faculty of Mathematics and Physics, University of Ljubljana (06/2013)
+_2013-2015_<br/>
+**Master of Science in Meteorology**<br/> 
+Faculty of Physics, Ludwig-Maximilians University of Munich, Germany
+
+_2011-2014_<br/>
+**Bachelor of Science in Meteorology with Geophysics**<br/>
+Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
+
+_2009-2013_<br/>
+**Bachelor of Science in Physics**<br/>
+Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
+
 
 Publications
 ======
