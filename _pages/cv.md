@@ -14,7 +14,9 @@ Education
 ======
 _2013-2015_<br/>
 **Master of Science in Meteorology**<br/> 
-Faculty of Physics, Ludwig-Maximilians University of Munich, Germany
+Faculty of Physics, Ludwig-Maximilians University of Munich, Germany<br/> 
+_Thesis title: Dependence of tropical cyclone intensification on latitude and sea surface temperature_<br/> 
+_Thesis supervisor: Prof. Dr. Roger K. Smith_
 
 _2011-2014_<br/>
 **Bachelor of Science in Meteorology with Geophysics**<br/>
@@ -22,8 +24,9 @@ Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
 
 _2009-2013_<br/>
 **Bachelor of Science in Physics**<br/>
-Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
-
+Faculty of Mathematics and Physics, University of Ljubljana, Slovenia<br/>
+* _2011-2012_<br/> (3rd academic year)
+  Faculty of Mathematics and Natural Sciences, Technical University of Berlin, Germany
 
 Publications
 ======
