@@ -25,8 +25,8 @@ Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
 _2009-2013_<br/>
 **Bachelor of Science in Physics**<br/>
 Faculty of Mathematics and Physics, University of Ljubljana, Slovenia<br/>
-* _2011-2012_<br/> (3rd academic year)
-  Faculty of Mathematics and Natural Sciences, Technical University of Berlin, Germany
+  * _2011-2012_ (3rd academic year of Bachelor of Science in Physics)<br/>
+    Faculty of Mathematics and Natural Sciences, Technical University of Berlin, Germany
 
 Publications
 ======
