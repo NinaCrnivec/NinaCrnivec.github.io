@@ -18,23 +18,23 @@ Education
 
 Publications
 ======
-See Publications tab.
+See [Publications tab](https://ninacrnivec.github.io/publications/).
   
 Teaching
 ======
-Teaching assistant for master studies course “*Clouds: Microphysics and Convection*” at Ludwig-Maximilians University of Munich (SS 2016, SS 2017, SS 2018).
+See Teaching tab.
   
 Conferences
 ======
-See Events tab.
+See [Events tab](https://ninacrnivec.github.io/events/).
 
 Workshops
 ======
-See Events tab.
+See [Events tab](https://ninacrnivec.github.io/events/).
 
 Summer Schools
 ======
-See Events tab.
+See [Events tab](https://ninacrnivec.github.io/events/).
   
 Membership
 ======
