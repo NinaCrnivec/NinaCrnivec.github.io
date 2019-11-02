@@ -20,6 +20,8 @@ Research Interests
 
 - Tropical cyclone intensification
 
+[Read more](https://ninacrnivec.github.io/research/)
+
 Research Highlights
 ------
 Quantifying the bias of radiative heating rates in numerical weather prediction models for shallow cumulus clouds. [Read more](https://www.atmos-chem-phys.net/19/8083/2019/)
