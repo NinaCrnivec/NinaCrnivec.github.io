@@ -9,6 +9,8 @@ _In preparation_
 
 Zaplotnik, Ž., Boljka, L., **Črnivec, N.**, and Slameršak, A.: Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za omilitev podnebnih sprememb. Odprto pismo slovenski vladi, 7 pp. (An open letter to the Slovenian government, urging them to improve the climate change mitigation policy), 2019.
 
+Montgomery, M. T., Kilroy, G., Smith, R. K., and **Črnivec, N.**: Tropical cyclone life cycle in a three-dimensional numerical simulation: Part II: Unbalanced and non-axisymmetric dynamical processes. Quart. J. Roy. Meteor. Soc. (in revision), 2019.
+
 _2019_
 
 **Črnivec, N.** and Mayer, B.: Quantifying the bias of radiative heating rates in numerical weather prediction models for shallow cumulus clouds. Atmos. Chem. Phys., 19, 8083-8100, [https://doi.org/10.5194/acp-19-8083-2019](https://doi.org/10.5194/acp-19-8083-2019), 2019. 
