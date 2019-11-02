@@ -12,7 +12,7 @@ In particular, I investigated how various environmental factors, such as latitud
 For this purpose, I first implemented a TC-like vortex as a new initalization option into CM1 model.
 Numerical experiments relate to the prototype problem for TC intensification on an f-plane and use Dunion moist tropical sounding to characterize the background thermodynamic TC environment, which is widely employed in idealized TC modelling. The Dunion sounding is based on the observations in the Carribean and the question that we addressed in a follow-up study of [Črnivec and Smith, 2016](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/joc.4687) was to what extent is this sounding appropriate to TC environments in other parts of the globe. I thereby derived mean radiosonde soundings for the Australian monsoon/cyclone season (for the Willis Island, Darwin and Weipa stations), documented their various characteristics and finally investigated how do they impact vortex amplification.
 The discussion was based on an axisymmetric perspective, invoking the classical axisymmetric spin‐up mechanism.
-As the TC flow generally exhibits departures from axial symmetry, we currently investigate the relevance of the non-axisymmetric issues on intensification process (Smith et al., 2019; in review; Montgomery et al., 2019, in review).
+As the TC flow generally exhibits departures from axial symmetry, we currently investigate the relevance of non-axisymmetric features on intensification process (Montgomery et al., 2019, in review).
 
 
 Cloud-radiation interaction
