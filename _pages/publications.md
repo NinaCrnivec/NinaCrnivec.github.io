@@ -11,7 +11,7 @@ Zaplotnik, Ž., Boljka, L., **Črnivec, N.**, and Slameršak, A., 2019: Zahteva 
 
 _2019_
 
-**Črnivec, N.** and Mayer, B.: Quantifying the bias of radiative heating rates in numerical weather prediction models for shallow cumulus clouds, Atmos. Chem. Phys., 19, 8083-8100, [https://doi.org/10.5194/acp-19-8083-2019](https://doi.org/10.5194/acp-19-8083-2019), 2019. 
+**Črnivec, N.** and Mayer, B.: Quantifying the bias of radiative heating rates in numerical weather prediction models for shallow cumulus clouds. Atmos. Chem. Phys., 19, 8083-8100, [https://doi.org/10.5194/acp-19-8083-2019](https://doi.org/10.5194/acp-19-8083-2019), 2019. 
 
 _2016_
 
