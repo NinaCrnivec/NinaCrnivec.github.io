@@ -12,6 +12,13 @@ redirect_from:
 
 Education
 ======
+
+_May-June 2015_<br/> 
+**Visiting scientist**<br/> 
+Naval Postgraduate School, Monterey, California<br/> 
+Department of Meteorology, Prof. Dr. Michael Montgomery
+
+
 _2013-2015_<br/>
 **Master of Science in Meteorology**<br/> 
 Faculty of Physics, Ludwig-Maximilians University of Munich, Germany<br/> 
