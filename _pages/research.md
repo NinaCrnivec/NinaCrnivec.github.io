@@ -11,7 +11,7 @@ Tropical cyclones (TCs) are among nature's most powerful phenomena, yet accurate
 In particular, I investigated how various environmental factors, such as latitude and sea surface temperature, affect early period of TC intensification, including that of rapid intensification ([Črnivec et al., 2016](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2752)). 
 For this purpose, I first implemented a TC-like vortex as a new initalization option into CM1 model.
 Numerical experiments relate to the prototype problem for TC intensification assuming an f-plane and employ Dunion moist tropical sounding to characterize the background thermodynamic TC environment, which is widely used in idealized TC modelling. The Dunion sounding, however, is based on the observations in the Carribean and the question that we addressed in a follow-up study ([Črnivec and Smith, 2016](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/joc.4687)) is to what extent is the Dunion sounding representative to TC environments in other parts of the globe. I thereby derived mean radiosonde soundings for the Australian monsoon/cyclone season (for the Willis Island, Darwin and Weipa stations), documented their various characteristics and finally examined how do they control vortex amplification.
-The discussion was based on an axisymmetric perspective, invoking the classical axisymmetric spin‐up mechanism.
+The arguments were based on an axisymmetric perspective, invoking the classical axisymmetric spin‐up mechanism.
 As an upgrade, we currently investigate the relevance of non-axisymmetric features on intensification process (Montgomery et al., 2019, in review).
 
 
