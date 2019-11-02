@@ -8,13 +8,4 @@ tags:
   - HS3 Meeting
 ---
 
-We attended NASA HS3 Meeting...
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
+Coming soon...
