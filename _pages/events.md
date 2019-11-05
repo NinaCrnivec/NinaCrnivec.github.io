@@ -7,6 +7,7 @@ author_profile: true
 
 Conferences
 ======
+* Institutional seminar, Ludwig-Maximilians University of Munich, Munich, Germany (02/2019)<br/>_Talk: “An improved treatment of unresolved cloud-radiation interaction in numerical models” (Doctoral dissertation final report)_
 * Waves To Weather 4th Annual Meeting, Landau, Germany (11/2018)<br/>_Poster: “Radiative heating and cooling at cloud scale and its impact on dynamics”_
 * Waves To Weather Research Area B (“Cloud-scale uncertainties”) Meeting, Johannes Gutenberg University Mainz, Mainz, Germany (03/2018)<br/>_Talk: “Radiative heating and cooling at cloud scale and its impact on dynamics”_
 * Waves To Weather 3nd Annual Meeting, Kempten, Germany (11/2017)<br/>_Poster: “Radiative heating and cooling at cloud scale and its impact on dynamics”_
@@ -25,7 +26,8 @@ Workshops
 * Waves To Weather Visualization Workshop, Technical University of Munich, Garching, Germany (04/2016)
 * Waves To Weather Early Career Scientists Workshop, Karlsruhe Institute of Technology, Karlsruhe, Germany (10/2015)
 
-Summer Schools
+Summer Schools & Practical Training Courses
 ======
 * COSMO Training Course, Deutscher Wetterdienst (DWD), Langen, Germany (03/2017)
 * Summer School on Aerosol-Cloud Interactions, International Centre for Theoretical Physics (ICTP), Trieste, Italy (06/2016)
+* Practical Training at the Department of Meteorology, Slovenian Environment Agency (ARSO), Ministry of Agriculture and Environment (09/2012)
