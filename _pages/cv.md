@@ -57,15 +57,15 @@ See [Events tab](https://ninacrnivec.github.io/events/)
   
 Scholarships
 ======   
-* _Ad Futura Scholarship_ for studying abroad, awarded by the Slovene Human Resources Development and Scholarship Fund (10/2013 – 09/2015).
-* _Erasmus Grant_ for studying abroad (09/2011 – 07/2012).
-* _Zois Scholarship_ for distinctly talented students, awarded by the Slovene Human Resources Development and Scholarship Fund (entire secondary school and university studying period in Slovenia: 2005 – 2013).
+* Ad Futura Scholarship for studying abroad, awarded by the Slovene Human Resources Development and Scholarship Fund (2013 – 2015)
+* Erasmus Grant for studying abroad (2011 – 2012)
+* Zois Scholarship for distinctly talented students, awarded by the Slovene Human Resources Development and Scholarship Fund (entire secondary school and university studying period in Slovenia: 2005 – 2013)
   
 Awards
 ======  
-* Golden Matura - state award for outstanding achievements at secondary school final examination and special award for top final grades in all subjects (2009).
-* Gold Award at 51th National Mathematics Competition of Slovenia (2007).
-* Silver Awards at 50th and 51th National Mathematics Competitions of Slovenia (2006, 2007).
+* Golden Matura Award for outstanding achievements at secondary school final examination and special award for top final grades in all subjects (2009)
+* Gold Award at 51th National Mathematics Competition of Slovenia (2007)
+* Silver Awards at 50th and 51th National Mathematics Competitions of Slovenia (2006, 2007)
   
 Membership
 ======
