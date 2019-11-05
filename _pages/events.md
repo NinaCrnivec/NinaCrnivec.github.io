@@ -30,4 +30,4 @@ Summer Schools & Practical Training Courses
 ======
 * COSMO Training Course, Deutscher Wetterdienst (DWD), Langen, Germany (03/2017)
 * Summer School on Aerosol-Cloud Interactions, International Centre for Theoretical Physics (ICTP), Trieste, Italy (06/2016)
-* Practical Training at the Department of Meteorology, Slovenian Environment Agency (ARSO), Ministry of Agriculture and Environment (09/2012)
+* Practical Training at Department of Meteorology, Slovenian Environment Agency (ARSO), Ministry of Agriculture and Environment (09/2012)
