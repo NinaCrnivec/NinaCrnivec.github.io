@@ -23,6 +23,9 @@ main:
     
   - title: "Blog"
     url: /year-archive/
+    
+  - title: "MeteoSI"
+    url: /meteoSI/ 
       
   #- title: "Portfolio"
   #  url: /portfolio/
