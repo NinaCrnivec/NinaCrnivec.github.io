@@ -59,8 +59,8 @@ Awards & Scholarships
 ======   
 * Ad Futura Scholarship for studying abroad, awarded by the Slovene Human Resources Development and Scholarship Fund (2013 – 2015)
 * Erasmus Grant for studying abroad (2011 – 2012)
-* Zois Scholarship for distinctly talented students, awarded by the Slovene Human Resources Development and Scholarship Fund (entire secondary school and university studying period in Slovenia: 2005 – 2013)
-* Golden Matura Award for outstanding achievements at secondary school final examination and special award for top final grades in all subjects (2009)
+* Zois Scholarship for distinctly talented students (top 0.1 % nationwide), awarded by the Slovene Human Resources Development and Scholarship Fund (entire secondary school and university studying period in Slovenia: 2005 – 2013)
+* Golden Matura Award for outstanding achievements at secondary school final examination and Special Award for top final grades in all subjects (2009)
 * Gold Award at 51th National Mathematics Competition of Slovenia (2007)
 * Silver Awards at 50th and 51th National Mathematics Competitions of Slovenia (2006, 2007)
   
