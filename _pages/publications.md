@@ -23,4 +23,4 @@ _2016_
 
 _2015_
 
-**Črnivec, N.**: Dependence of tropical cyclone intensification on latitude and sea surface temperature. Master thesis, Ludwig-Maximilians University of Munich, 09/2015.
+**Črnivec, N.**: Dependence of tropical cyclone intensification on latitude and sea surface temperature. Master thesis, Ludwig-Maximilians University of Munich, September 2015.
