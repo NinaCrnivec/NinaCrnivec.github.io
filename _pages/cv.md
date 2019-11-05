@@ -59,3 +59,5 @@ Membership
 ======
 * Member of [“Slovensko meteorološko društvo (SMD)”](http://www.smd.v-izdelavi.si/domov/) (Slovenian Meteorological Society)
 * Member of ["Društvo v tujini izobraženih Slovencev (Društvo VTIS)"](https://www.drustvovtis.si/) (Association of Slovenes Educated Abroad) 
+* Member of ["Mlada Akademija (MA) – Društvo doktorskih študentov in raziskovalcev na začetku kariere"](https://www.mladaakademija.si/) (The Young Academy of Slovenia – Society of doctoral students and Young Researchers) 
+
