@@ -14,21 +14,18 @@ author_profile: true
 [Slovensko meteorološko društvo (SMD)](http://www.smd.v-izdelavi.si/) / Slovenian Meteorological Society
 
 
-If you are interested in studying Meteorology at University of Ljubljana, have a look at: 
+Meteorology Studies & Research at University of Ljubljana:
 
-Fakulteta za matematiko in fiziko / Faculty of Mathematics and Physics
+[Fakulteta za matematiko in fiziko](https://www.fmf.uni-lj.si/si/) / [Faculty of Mathematics and Physics](https://www.fmf.uni-lj.si/en/)
 
-Katedra za meteorologijo / Meteorology Group 
-
+[Katedra za meteorologijo](https://meteo.fmf.uni-lj.si/) / [Meteorology Group](https://meteo.fmf.uni-lj.si/en/node)
 
 Spletna platforma o vremenu in klimi:
 [Meteorolog.si](http://meteorolog.si/)
 
-
-My collaboration with young Slovenian research meteorologists across the world:
+My collaboration with Slovenian research meteorologists across the world:
 * [dr. Lina Boljka](https://lina-boljka.github.io/)
 * [dr. Žiga Zaplotnik](https://zaplotnik.github.io/contact/)
 * Aljoša Slameršak<br/>
-Contact any of us, if you want to join the team!
 
 Stunning weather photography by a Slovene storm chaser: [Marko Korošec Weather Photograpy](http://www.markokorosec.net/)
