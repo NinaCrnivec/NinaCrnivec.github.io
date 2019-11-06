@@ -25,7 +25,7 @@ Spletna platforma o vremenu in klimi:
 
 My collaboration with Slovenian research meteorologists across the world:
 * [dr. Lina Boljka](https://lina-boljka.github.io/)
-* [dr. Žiga Zaplotnik](https://zaplotnik.github.io/contact/)
+* [dr. Žiga Zaplotnik](https://zaplotnik.github.io/)
 * Aljoša Slameršak<br/>
 
 Stunning weather photography by a Slovenian storm chaser: [Marko Korošec Weather Photograpy](http://www.markokorosec.net/)
