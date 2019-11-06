@@ -28,4 +28,4 @@ My collaboration with Slovenian research meteorologists across the world:
 * [dr. Žiga Zaplotnik](https://zaplotnik.github.io/contact/)
 * Aljoša Slameršak<br/>
 
-Stunning weather photography by a Slovene storm chaser: [Marko Korošec Weather Photograpy](http://www.markokorosec.net/)
+Stunning weather photography by a Slovenian storm chaser: [Marko Korošec Weather Photograpy](http://www.markokorosec.net/)
