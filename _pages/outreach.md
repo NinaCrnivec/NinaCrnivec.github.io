@@ -18,3 +18,10 @@ Education & Public Outreach
 * Co-organizer of "Mädchen Zukunftstag 2016" (Girls Day 2016), held at Meteorological Institute Munich, LMU Munich (04/2016) [Link](https://www.wavestoweather.de/equal_opportunity/activities/girls_day_2016/index.html)<br/>
 
 
+Press (in Slovene)
+======
+[RTV-SLO](https://www.rtvslo.si/okolje/novice/znanstveniki-slovenija-ne-kaze-pripravljenosti-da-bi-se-na-podnebne-spremembe-odlocno-odzvala/504612?fbclid=IwAR2Px1cLtDykMJxNszkG6MI1QDOM2LneGWqK70LchAvEST9RBr_VWVjM-7Y),
+[24ur](https://www.24ur.com/novice/slovenija/razocarani-slovenski-znanstveniki-politiki-se-ne-zavedajo-resnosti-problema.html),
+[Dnevnik](https://www.dnevnik.si/1042913601/slovenija/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb),
+[Mladina](https://www.mladina.si/194097/slovenski-znanstveniki-o-podnebnih-spremembah-nasa-moralna-in-eticna-dolznost-je-pozvati-k-ukr/),
+[Večer](https://www.vecer.com/znanstveniki-pozivajo-vlado-drzavni-zbor-in-drzavni-svet-ukrepajte-10089051)
