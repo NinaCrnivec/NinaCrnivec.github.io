@@ -11,7 +11,7 @@ Montgomery, M. T., Kilroy, G., Smith, R. K., and **Črnivec, N.**: Tropical cycl
 
 _2019_
 
-Zaplotnik, Ž., Boljka, L., **Črnivec, N.**, and Slameršak, A. 2019: Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje. <em>Odprto pismo slovenski vladi</em>, 13 pp. [podpisano s strani več kot 100 Slovenskih znanstvenikov]. (A request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy. <em>An open letter to the Slovenian government</em> [signed by over 100 Slovenian scientists; includes English summary].) 
+Zaplotnik, Ž., Boljka, L., **Črnivec, N.**, and Slameršak, A. 2019: [Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje](https://nextcloud.fmf.uni-lj.si/s/4M4JaMeXM8dKWtr#pdfviewer). <em>Odprto pismo slovenski vladi</em>, 13 pp. [podpisano s strani več kot 100 Slovenskih znanstvenikov]. (A request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy. <em>An open letter to the Slovenian government</em> [signed by over 100 Slovenian scientists; includes English summary].) 
 
 **Črnivec, N.** and Mayer, B.: Quantifying the bias of radiative heating rates in numerical weather prediction models for shallow cumulus clouds. Atmos. Chem. Phys., 19, 8083-8100, [https://doi.org/10.5194/acp-19-8083-2019](https://doi.org/10.5194/acp-19-8083-2019), 2019. 
 
