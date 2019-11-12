@@ -12,6 +12,19 @@ Montgomery, M. T., Kilroy, G., Smith, R. K., and **Črnivec, N.**: Tropical cycl
 _2019_
 
 Zaplotnik, Ž., Boljka, L., **Črnivec, N.**, and Slameršak, A. 2019: [Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje](https://nextcloud.fmf.uni-lj.si/s/4M4JaMeXM8dKWtr#pdfviewer). <em>Odprto pismo slovenski vladi</em>, 13 pp. [podpisano s strani več kot 100 Slovenskih znanstvenikov]. (A request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy. <em>An open letter to the Slovenian government</em> [signed by over 100 Slovenian scientists; includes English summary].) 
+Media coverage [SLO]:
+[RTV-SLO](https://www.rtvslo.si/okolje/novice/znanstveniki-slovenija-ne-kaze-pripravljenosti-da-bi-se-na-podnebne-spremembe-odlocno-odzvala/504612?fbclid=IwAR2Px1cLtDykMJxNszkG6MI1QDOM2LneGWqK70LchAvEST9RBr_VWVjM-7Y),
+[24ur](https://www.24ur.com/novice/slovenija/razocarani-slovenski-znanstveniki-politiki-se-ne-zavedajo-resnosti-problema.html),
+[Dnevnik](https://www.dnevnik.si/1042913601/slovenija/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb),
+[Delo](https://www.delo.si/novice/okolje/slovenski-raziskovalci-pozivajo-politiko-sprejmite-bolj-ambiciozen-podnebni-nacrt-247970.html),
+[STA znanost](http://znanost.sta.si/2696264/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb),
+[Mladina](https://www.mladina.si/194097/slovenski-znanstveniki-o-podnebnih-spremembah-nasa-moralna-in-eticna-dolznost-je-pozvati-k-ukr/),
+[Večer](https://www.vecer.com/znanstveniki-pozivajo-vlado-drzavni-zbor-in-drzavni-svet-ukrepajte-10089051),
+[Slovenske novice](https://www.slovenskenovice.si/novice/slovenija/clanek/groznje-pahorju-in-sarcu-pred-slovenijo-katastrofalne-spremembe-247919),
+[Finance](https://oe.finance.si/8954794),
+[Politikis](http://www.politikis.si/2019/11/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb/),
+[TIMES.si](http://www.times.si/slovenija/slovenski-raziskovalci-vlada-naj-vkljuci-podnebno-problematiko-v-obvezen-solski-program--8eab3057b4f399f34eedc14a0423913804034be6.html),
+[Meteorolog.si](http://meteorolog.si/index.php/2019/11/11/podnebne-spremembe-odprto-pismo/).
 
 **Črnivec, N.** and Mayer, B.: Quantifying the bias of radiative heating rates in numerical weather prediction models for shallow cumulus clouds. Atmos. Chem. Phys., 19, 8083-8100, [https://doi.org/10.5194/acp-19-8083-2019](https://doi.org/10.5194/acp-19-8083-2019), 2019. 
 
