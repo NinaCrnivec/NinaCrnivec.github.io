@@ -7,10 +7,6 @@ author_profile: true
 
 _In preparation_
 
-**Črnivec, N.** and Mayer, B.: Towards an improved treatment of cloud horizontal inhomogeneity in weather and climate models: Exploring the potential of Tripleclouds radiative solver on stratocumulus, cirrus and cumulonimbus clouds.
-
-**Črnivec, N.** and Mayer, B.: Towards an improved treatment of cloud horizontal inhomogeneity in weather and climate models: Exploring the potential of Tripleclouds radiative solver on shallow cumulus clouds.
-
 Montgomery, M. T., Kilroy, G., Smith, R. K., and **Črnivec, N.**: Tropical cyclone life cycle in a three-dimensional numerical simulation: Part II: Unbalanced and non-axisymmetric dynamical processes. Quart. J. Roy. Meteor. Soc. (in revision), 2019.
 
 _2019_
