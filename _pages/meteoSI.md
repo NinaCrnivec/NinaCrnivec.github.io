@@ -7,7 +7,7 @@ author_profile: true
 
 **Promotion of Slovene Meteorology**
 
-[Agencija Republike Slovenije za okolje (ARSO)](http://meteo.arso.gov.si/) / [Slovenian Environment Agency](https://www.arso.gov.si/en/)
+[Agencija Republike Slovenije za okolje (ARSO)](https://meteo.arso.gov.si/) / [Slovenian Environment Agency](https://www.arso.gov.si/en/)
 
 [Uradna vremenska napoved za Slovenijo (ARSO Meteo)](http://meteo.arso.gov.si/met/sl/) / [Weather forecast for Slovenia](http://meteo.arso.gov.si/met/en/)
 
