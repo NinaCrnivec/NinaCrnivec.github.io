@@ -9,6 +9,8 @@ tags:
 
 Coming soon...
 
+![ClimateStrikeLjubljana](/photos/ClimateStrikeLjubljana_PhotoVorancVogelDelo.jpg)
+
 [Delo, Read more (in Slovene)](https://www.delo.si/novice/okolje/protesti-tokrat-tudi-v-sloveniji-232387.html)
 
 
