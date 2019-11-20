@@ -19,4 +19,6 @@ Education & Public Outreach
 
 
 
+* Climate Change Debate
+Hvala Zarji Muršič in Radiu Študent za povabilo na intervju! 🙂 Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji "Zahteve slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje": [Radio Študent - Znanost: Kako bomo blažili podnebne spremembe?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe?fbclid=IwAR2y3n6dfT9tYwNvE19qQpJQxxlx4NXMCNswiruB8Ier-CspBRPHdpXCQM4) 
 
