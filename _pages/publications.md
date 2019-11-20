@@ -25,7 +25,9 @@ Media coverage [SLO]:
 [Politikis](http://www.politikis.si/2019/11/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb/),
 [TIMES.si](http://www.times.si/slovenija/slovenski-raziskovalci-vlada-naj-vkljuci-podnebno-problematiko-v-obvezen-solski-program--8eab3057b4f399f34eedc14a0423913804034be6.html),
 [Meteorolog.si](http://meteorolog.si/index.php/2019/11/11/podnebne-spremembe-odprto-pismo/),
-[Zarja/Jana](https://revijazarja.si/clanek/ljudje/5dd2bb059e1b5/smo-pozabili-ljudje-umirajo).
+[Zarja/Jana](https://revijazarja.si/clanek/ljudje/5dd2bb059e1b5/smo-pozabili-ljudje-umirajo),
+[Kvarkadabra](https://radiostudent.si/znanost/zr-intervju),
+[Radio Študent - ZR Intervju](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe).
 
 **Črnivec, N.** and Mayer, B.: Quantifying the bias of radiative heating rates in numerical weather prediction models for shallow cumulus clouds. Atmos. Chem. Phys., 19, 8083-8100, [https://doi.org/10.5194/acp-19-8083-2019](https://doi.org/10.5194/acp-19-8083-2019), 2019. 
 
