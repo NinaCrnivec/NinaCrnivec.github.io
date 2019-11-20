@@ -11,6 +11,10 @@ redirect_from:
 
 Education & Public Outreach 
 ======
+* Climate Change Debate [SLO]:<br/> 
+Hvala Zarji Muršič in Radiu Študent za povabilo na intervju! 🙂 Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji "Zahteve slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje": [Radio Študent - Znanost: Kako bomo blažili podnebne spremembe?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe?fbclid=IwAR2y3n6dfT9tYwNvE19qQpJQxxlx4NXMCNswiruB8Ier-CspBRPHdpXCQM4) 
+
+
 * Co-organizer of "Mädchen machen Technik 2018", held at Meteorological Institute Munich, LMU Munich (09/2018)<br/>
 * Co-organizer of "Mädchen Zukunftstag 2018" (Girls Day 2018), held at Meteorological Institute Munich, LMU Munich (04/2018) [Link](https://www.wavestoweather.de/equal_opportunity/activities/girlsday-2018/index.html)<br/>
 * Co-organizer of "Mädchen Zukunftstag 2017" (Girls Day 2017), held at Meteorological Institute Munich, LMU Munich (04/2017) [Link](https://www.wavestoweather.de/equal_opportunity/activities/girls_day_2017/index.html)<br/>
@@ -19,6 +23,4 @@ Education & Public Outreach
 
 
 
-* Climate Change Debate
-Hvala Zarji Muršič in Radiu Študent za povabilo na intervju! 🙂 Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji "Zahteve slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje": [Radio Študent - Znanost: Kako bomo blažili podnebne spremembe?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe?fbclid=IwAR2y3n6dfT9tYwNvE19qQpJQxxlx4NXMCNswiruB8Ier-CspBRPHdpXCQM4) 
 
