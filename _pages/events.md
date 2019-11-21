@@ -9,11 +9,11 @@ Conferences
 ======
 * Institutional seminar, Ludwig-Maximilians University of Munich, Munich, Germany (02/2019)<br/>_Talk: “An improved treatment of unresolved cloud-radiation interaction in numerical models” (Doctoral dissertation report)_
 * [Waves To Weather 4th Annual Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/4th-annual-meeting-nov18/index.html), Landau, Germany (11/2018)<br/>_Poster: “Radiative heating and cooling at cloud scale and its impact on dynamics”_
-* [Waves To Weather Research Area B (“Cloud-scale uncertainties”) Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/rab-meeting-mar2018/index.html), Johannes Gutenberg University Mainz, Mainz, Germany (03/2018)<br/>_Talk: “Radiative heating and cooling at cloud scale and its impact on dynamics”_
+* [Waves To Weather Research Area B (Cloud-scale Uncertainties) Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/rab-meeting-mar2018/index.html), Johannes Gutenberg University Mainz, Mainz, Germany (03/2018)<br/>_Talk: “Radiative heating and cooling at cloud scale and its impact on dynamics”_
 * [Waves To Weather 3nd Annual Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/3rd-annual-meeting2017/index.html), Kempten, Germany (11/2017)<br/>_Poster: “Radiative heating and cooling at cloud scale and its impact on dynamics”_
-* [Waves To Weather Research Area B (“Cloud-scale uncertainties”) Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/rab-meeting-2017/rab-grouppicture_2017.jpg), Johannes Gutenberg University Mainz, Mainz, Germany (05/2017)<br/>_Talk: “1-D versus 3-D radiation from NWP perspective”_
+* [Waves To Weather Research Area B (Cloud-scale Uncertainties) Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/rab-meeting-2017/rab-grouppicture_2017.jpg), Johannes Gutenberg University Mainz, Mainz, Germany (05/2017)<br/>_Talk: “1-D versus 3-D radiation from NWP perspective”_
 * [Waves To Weather 2nd Annual Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/annual_meeting2/index.html), Speyer, Germany (11/2016)<br/>_Talk: “Quantifying the bias of 1-D COSMO heating rates”_
-* [Waves To Weather Research Area B (“Cloud-scale uncertainties”) Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/ra-b-meeting-jun-2016/index.html), Johannes Gutenberg University Mainz, Mainz, Germany (06/2016)<br/>_Talk: “Does 3-D atmospheric radiation impact weather?"_
+* [Waves To Weather Research Area B (Cloud-scale Uncertainties) Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/ra-b-meeting-jun-2016/index.html), Johannes Gutenberg University Mainz, Mainz, Germany (06/2016)<br/>_Talk: “Does 3-D atmospheric radiation impact weather?"_
 * NASA Hurricane and Severe Storm Sentinel (HS3) Science Team Meeting, NASA Ames Research Park, Mountain View, California (05/2015)
 
 Workshops
