@@ -7,13 +7,13 @@ author_profile: true
 
 **Promotion of Slovene Meteorology**
 
-[Slovensko meteorološko društvo (SMD)](http://www.smd.v-izdelavi.si/) / Slovenian Meteorological Society
-
 [Agencija Republike Slovenije za okolje (ARSO)](https://www.arso.gov.si/) / [Slovenian Environment Agency](https://www.arso.gov.si/en/)
 
 [Uradna vremenska napoved za Slovenijo (ARSO Meteo)](http://meteo.arso.gov.si/met/sl/) / [Weather forecast for Slovenia](http://meteo.arso.gov.si/met/en/)
 
 [ARSO Podcast](http://www.meteo.si/uploads/probase/www/fproduct/media/sl/podcast/podcast-index.html)
+
+[Slovensko meteorološko društvo (SMD)](http://www.smd.v-izdelavi.si/) / Slovenian Meteorological Society
 
 Meteorology Studies & Research at University of Ljubljana:
 
