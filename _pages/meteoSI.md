@@ -31,4 +31,4 @@ My collaboration with Slovenian research meteorologists across the world:
 
 Stunning weather photography by a Slovenian storm chaser: [Marko Korošec Weather Photograpy](http://www.markokorosec.net/)
 
-[Meteoalarm (Slovenia)](https://www.meteoalarm.eu/sl_SI/0/0/SI-Slovenija.html)
+[Meteoalarm for Slovenia](https://www.meteoalarm.eu/sl_SI/0/0/SI-Slovenija.html)
