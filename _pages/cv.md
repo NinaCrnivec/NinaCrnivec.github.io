@@ -43,21 +43,13 @@ Teaching
 ======
 See [Teaching tab](https://ninacrnivec.github.io/teaching/)
   
-Conferences
-======
-See [Events tab](https://ninacrnivec.github.io/events/)
-
-Workshops
-======
-See [Events tab](https://ninacrnivec.github.io/events/)
-
-Summer Schools
+Conferences, Workshops & Summer Schools
 ======
 See [Events tab](https://ninacrnivec.github.io/events/)
   
 Awards & Scholarships
 ======   
-* Ad Futura Scholarship for studying abroad, awarded by the Slovene Human Resources Development and Scholarship Fund (2013 – 2015)
+* National Excellence Scholarship Ad Futura for students studying abroad, awarded by the Slovene Human Resources Development and Scholarship Fund (2013 – 2015)
 * Erasmus Grant for studying abroad (2011 – 2012)
 * Zois Scholarship for distinctly talented students, awarded by the Slovene Human Resources Development and Scholarship Fund (entire secondary school and university studying period in Slovenia: 2005 – 2013)
 * Dean’s Award for outstanding academic achievement, University of Ljubljana (2009-2014)
