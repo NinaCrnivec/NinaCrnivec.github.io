@@ -26,7 +26,7 @@ Media coverage [SL]:
 [TIMES.si](http://www.times.si/slovenija/slovenski-raziskovalci-vlada-naj-vkljuci-podnebno-problematiko-v-obvezen-solski-program--8eab3057b4f399f34eedc14a0423913804034be6.html),
 [Meteorolog.si](http://meteorolog.si/index.php/2019/11/11/podnebne-spremembe-odprto-pismo/),
 [Zarja/Jana](https://revijazarja.si/clanek/ljudje/5dd2bb059e1b5/smo-pozabili-ljudje-umirajo),
-[Kvarkadabra](https://radiostudent.si/znanost/zr-intervju),
+[Kvarkadabra](https://www.scribd.com/document/434444707/Zahteva-slovenskih-znanstvenikov-za-sprejetje-takoj%C5%A1njih-ukrepov-za-bla%C5%BEenje-podnebnih-sprememb-in-prilagajanje-nanje?fbclid=IwAR07Noqc0WUfEeGxoe44hf0LuPNbSMlc3NKxCK9OCj7hNXaymeyW7ozgUGg),
 [Radio Študent](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe),
 [Radio Trst](http://www.rai.it/dl/portali/site/articolo/ContentItem-99a019aa-ca1e-4865-b5e0-bc047ac1bab4.html).
 
