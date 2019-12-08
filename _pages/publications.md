@@ -29,6 +29,7 @@ Media coverage [SL]:
 [Kvarkadabra](https://www.scribd.com/document/434444707/Zahteva-slovenskih-znanstvenikov-za-sprejetje-takoj%C5%A1njih-ukrepov-za-bla%C5%BEenje-podnebnih-sprememb-in-prilagajanje-nanje?fbclid=IwAR07Noqc0WUfEeGxoe44hf0LuPNbSMlc3NKxCK9OCj7hNXaymeyW7ozgUGg),
 [Metropolitan](https://www.metropolitan.si/aktualno/120-slovenskih-strokovnjakov-za-odlocno-ukrepanje-pri-blazenju-podnebnih-sprememb/),
 [Zeleni Genij](https://zelenigenij.24ur.com/odprto-pismo-podnebne-spremembe-ogrozajo-zivljenja-vec-kot-milijarde-ljudi.html),
+[Hudo](https://hudo.com/si/2019/11/11/zaskrbljeni-slovenski-raziskovalci-drzavo-pozivajo-k-sprejetju-takojsnjih-ukrepov-za-blazenje-podnebnih-sprememb-prilagajanju-nanje/),
 [Radio Študent](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe),
 [Radio Trst](http://www.rai.it/dl/portali/site/articolo/ContentItem-99a019aa-ca1e-4865-b5e0-bc047ac1bab4.html).
 
