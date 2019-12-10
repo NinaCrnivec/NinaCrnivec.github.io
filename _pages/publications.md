@@ -32,8 +32,8 @@ Media coverage [SL]:
 [Zarja/Jana](https://revijazarja.si/clanek/ljudje/5dd2bb059e1b5/smo-pozabili-ljudje-umirajo),
 [ARSO vreme](https://twitter.com/meteoSI/status/1202140528831320064),
 :headphones: :radio: [ARSO podcast](https://meteo.arso.gov.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20191204_ep027.mp3),
-:headphones: :radio: [Radio Študent](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe),
-:headphones: :radio: [Radio Trst](http://www.rai.it/dl/portali/site/articolo/ContentItem-99a019aa-ca1e-4865-b5e0-bc047ac1bab4.html).<br/>
+[Radio Študent](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe),
+[Radio Trst](http://www.rai.it/dl/portali/site/articolo/ContentItem-99a019aa-ca1e-4865-b5e0-bc047ac1bab4.html).<br/>
 Answer from the government [SL]: <a href="http://ninacrnivec.github.io/files/00206BBAC913191209121909.pdf">Uradni odgovor</a> ministra za okolje in prostor Simona Zajca (12/2019).
 
 
