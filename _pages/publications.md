@@ -32,7 +32,7 @@ Media coverage [SL]:
 [Zarja/Jana](https://revijazarja.si/clanek/ljudje/5dd2bb059e1b5/smo-pozabili-ljudje-umirajo),
 [Radio Študent](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe),
 [Radio Trst](http://www.rai.it/dl/portali/site/articolo/ContentItem-99a019aa-ca1e-4865-b5e0-bc047ac1bab4.html).
-[SL]<a href="http://ninacrnivec.github.io/files/00206BBAC913191209121909.pdf">Uradni odgovor</a> ministra za okolje in prostor (Answer from the government).
+Answer from the government [SL]: <a href="http://ninacrnivec.github.io/files/00206BBAC913191209121909.pdf">Uradni odgovor</a> ministra za okolje in prostor Simona Zajca (12/2019).
 
 **Črnivec, N.** and Mayer, B.: Quantifying the bias of radiative heating rates in numerical weather prediction models for shallow cumulus clouds. Atmos. Chem. Phys., 19, 8083-8100, [https://doi.org/10.5194/acp-19-8083-2019](https://doi.org/10.5194/acp-19-8083-2019), 2019. 
 
