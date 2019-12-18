@@ -9,6 +9,8 @@ _In preparation_
 
 Montgomery, M. T., Kilroy, G., Smith, R. K., and **Črnivec, N.**: Tropical cyclone life cycle in a three-dimensional numerical simulation: Part II: Unbalanced and non-axisymmetric dynamical processes. Quart. J. Roy. Meteor. Soc. (in revision), 2019.
 
+[SL] Bela knjiga o strokovnem varovanju okolja [White paper on environment protection], 80 pp.; editors: M. Gams, L. Globevnik, M. Horvat, F. Lobnik, T. L. Turnšek, A. Zidanšek; authors: L. Boljka, M. Z. Božnar, M. B. Jager, A. Čas, **N. Črnivec**, M. Gams, M. Debeljak, L. Globevnik, B. Grašič, A. Hace, M. Horvat, T. Horvat, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štubelj, A. Šubic, B. Tomažič, T. L. Turnšek, A. V. Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, T. Žagar.
+
 _2019_
 
 [SL] Zaplotnik, Ž., Boljka, L., **Črnivec, N.**, and Slameršak, A. 2019: [Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje](https://www.researchgate.net/publication/337167123_Zahteva_slovenskih_raziskovalcev_za_sprejetje_takojsnjih_ukrepov_za_blazenje_podnebnih_sprememb_in_prilagajanje_nanje_Odprto_pismo_slovenski_vladi_13_pp_podpisano_s_strani_vec_kot_100_Slovenskih_znans). <em>Odprto pismo slovenski vladi</em>, 13 pp. [podpisano s strani več kot 100 Slovenskih znanstvenikov]. (A request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy. <em>An open letter to the Slovenian government</em> [signed by over 100 Slovenian scientists; includes English summary].)<br/>
