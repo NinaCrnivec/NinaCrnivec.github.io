@@ -39,7 +39,7 @@ Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji _Zahteve slove
 > - **Zarja/Jana** (December): [Smo v usodnem času za človeštvo](https://revijazarja.si/clanek/zgodbe/5dee3441f3ac2/smo-v-usodnem-casu-za-clovestvo)<br/> 
 > - **ARSO podcast:** [Podnebne spremembe - ukrepajmo zdaj!](https://meteo.arso.gov.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20191204_ep027.mp3)<br/> 
 > - **Radio Študent:** [Kako bomo blažili podnebne spremembe?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe)<br/> 
-> - **Radio Rai Furlanija Julijska Krajina:** [Poziv politikom in odločevalcem v Sloveniji za blažitev podnebnih sprememb na podubo štirih mladih slovenskih znanstvenikov](http://www.rai.it/dl/portali/site/articolo/ContentItem-99a019aa-ca1e-4865-b5e0-bc047ac1bab4.html)(HEVREKA DEL 18/11/2019)<br/> 
+> - **Radio Rai Furlanija Julijska Krajina:** [Poziv politikom in odločevalcem v Sloveniji za blažitev podnebnih sprememb na podubo štirih mladih slovenskih znanstvenikov (Hevreka del 18/11/2019)](http://www.rai.it/dl/portali/site/articolo/ContentItem-99a019aa-ca1e-4865-b5e0-bc047ac1bab4.html)<br/> 
 
 * [DE] Co-organizer of "[Mädchen machen Technik 2018](https://www.wavestoweather.de/equal_opportunity/activities/maedchenmachentechnik2018/index.html)" (Girls and Technology 2018), held at Meteorological Institute Munich, LMU Munich (09/2018)<br/>
 
