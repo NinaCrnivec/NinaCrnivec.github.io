@@ -24,13 +24,10 @@ Meteorology Studies & Research at University of Ljubljana:
 Spletna platforma o vremenu in klimi:
 [Meteorolog.si](http://meteorolog.si/)
 
-My collaboration with Slovenian research meteorologists across the world:
-* [dr. Lina Boljka](https://lina-boljka.github.io/)
-* [dr. Žiga Zaplotnik](https://zaplotnik.github.io/)
-* Aljoša Slameršak<br/>
-
 Stunning weather photography by a Slovenian storm chaser: [Marko Korošec Weather Photograpy](http://www.markokorosec.net/)
 
 [Neurje.si](http://neurje.si/)
 
 [Meteoalarm for Slovenia](https://www.meteoalarm.eu/sl_SI/0/0/SI-Slovenija.html)
+
+My collaboration with Slovenian research meteorologists across the world: [dr. Lina Boljka](https://lina-boljka.github.io/), [dr. Žiga Zaplotnik](https://zaplotnik.github.io/), [Aljoša Slameršak](https://ictaweb.uab.cat/personal_detail.php?id=4088), ...
