@@ -18,28 +18,28 @@ Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji _Zahteve slove
 
 * [SL] Our "Request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy" has received extensive media coverage:
 
-**RTV-Slovenija (MMC):** Znanstveniki: Slovenija ne kaže pripravljenosti, da bi se na podnebne spremembe odločno odzvala
-**24 ur:** Odprto pismo: Podnebne spremembe ogrožajo življenja več kot milijarde ljudi
-**Dnevnik:** Slovenski raziskovalci pozivajo k odločnemu ukrepanju za blaženje podnebnih sprememb
-**Delo in Sobotna priloga:** Slovenski raziskovalci pozivajo politiko: Sprejmite bolj ambiciozen podnebni načrt! 
-**STA Znanost:** Slovenski raziskovalci pozivajo k odločnemu ukrepanju za blaženje podnebnih sprememb 
-**Mladina:** Slovenski znanstveniki o podnebnih spremembah: Naša moralna in etična dolžnost je pozvati k ukrepanju 
-**Večer:** Znanstveniki pozivajo vlado, državni zbor in državni svet: "Ukrepajte!"
-**Slovenske novice:** Grožnje Pahorju in Šarcu: pred Slovenijo katastrofalne spremembe 
-**Finance:** Slovenski raziskovalci: vlada naj vključi podnebno problematiko v obvezen šolski program
-**Politiks:** Slovenski raziskovalci pozivajo k odločnemu ukrepanju za blaženje podnebnih sprememb
-**TIMES.si:** Slovenski raziskovalci: vlada naj vključi podnebno problematiko v obvezen šolski program
-**Meteorolog.si** (November): Podnebne spremembe – Odprto pismo
-**Meteorolog.si** (December): Odzivi na Zahtevo slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje
-**Zeleni Genij:** Odprto pismo: Podnebne spremembe ogrožajo življenja več kot milijarde ljudi
-**Kvardakadabra:** Zahteva slovenskih znanstvenikov za sprejetje takojšnjih ukrepov  za blaženje podnebnih sprememb in prilagajanje nanje
-**Metropolitan:** 120 slovenskih strokovnjakov za odločno ukrepanje pri blaženju podnebnih sprememb
-**Hudo:** Zaskrbljeni slovenski raziskovalci državo pozivajo k sprejetju takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanju nanje
-**Zarja/Jana** (November): Smo pozabili? Ljudje umirajo!
-**Zarja/Jana** (December): Smo v usodnem času za človeštvo
-**ARSO podcast:** Podnebne spremembe - ukrepajmo zdaj!
-**Radio Študent:** Kako bomo blažili podnebne spremembe?
-**Radio Rai Furlanija Julijska Krajina:** Poziv politikom in odločevalcem v Sloveniji za blažitev podnebnih sprememb na podubo štirih mladih slovenskih znanstvenikov
+**RTV-Slovenija (MMC):** Znanstveniki: Slovenija ne kaže pripravljenosti, da bi se na podnebne spremembe odločno odzvala<br/> 
+**24 ur:** Odprto pismo: Podnebne spremembe ogrožajo življenja več kot milijarde ljudi<br/> 
+**Dnevnik:** Slovenski raziskovalci pozivajo k odločnemu ukrepanju za blaženje podnebnih sprememb<br/> 
+**Delo in Sobotna priloga:** Slovenski raziskovalci pozivajo politiko: Sprejmite bolj ambiciozen podnebni načrt!<br/>  
+**STA Znanost:** Slovenski raziskovalci pozivajo k odločnemu ukrepanju za blaženje podnebnih sprememb<br/> 
+**Mladina:** Slovenski znanstveniki o podnebnih spremembah: Naša moralna in etična dolžnost je pozvati k ukrepanju<br/>  
+**Večer:** Znanstveniki pozivajo vlado, državni zbor in državni svet: "Ukrepajte!"<br/> 
+**Slovenske novice:** Grožnje Pahorju in Šarcu: pred Slovenijo katastrofalne spremembe<br/>  
+**Finance:** Slovenski raziskovalci: vlada naj vključi podnebno problematiko v obvezen šolski program<br/> 
+**Politiks:** Slovenski raziskovalci pozivajo k odločnemu ukrepanju za blaženje podnebnih sprememb<br/> 
+**TIMES.si:** Slovenski raziskovalci: vlada naj vključi podnebno problematiko v obvezen šolski program<br/> 
+**Meteorolog.si** (November): Podnebne spremembe – Odprto pismo<br/> 
+**Meteorolog.si** (December): Odzivi na Zahtevo slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje<br/> 
+**Zeleni Genij:** Odprto pismo: Podnebne spremembe ogrožajo življenja več kot milijarde ljudi<br/> 
+**Kvardakadabra:** Zahteva slovenskih znanstvenikov za sprejetje takojšnjih ukrepov  za blaženje podnebnih sprememb in prilagajanje nanje<br/> 
+**Metropolitan:** 120 slovenskih strokovnjakov za odločno ukrepanje pri blaženju podnebnih sprememb<br/> 
+**Hudo:** Zaskrbljeni slovenski raziskovalci državo pozivajo k sprejetju takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanju nanje<br/> 
+**Zarja/Jana** (November): Smo pozabili? Ljudje umirajo!<br/> 
+**Zarja/Jana** (December): Smo v usodnem času za človeštvo<br/> 
+**ARSO podcast:** Podnebne spremembe - ukrepajmo zdaj!<br/> 
+**Radio Študent:** Kako bomo blažili podnebne spremembe?<br/> 
+**Radio Rai Furlanija Julijska Krajina:** Poziv politikom in odločevalcem v Sloveniji za blažitev podnebnih sprememb na podubo štirih mladih slovenskih znanstvenikov<br/> 
 
 * [DE] Co-organizer of "[Mädchen machen Technik 2018](https://www.wavestoweather.de/equal_opportunity/activities/maedchenmachentechnik2018/index.html)" (Girls and Technology 2018), held at Meteorological Institute Munich, LMU Munich (09/2018)<br/>
 
