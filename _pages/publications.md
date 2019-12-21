@@ -26,7 +26,8 @@ Media coverage [SL]:
 [Finance](https://oe.finance.si/8954794),
 [Politikis](http://www.politikis.si/2019/11/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb/),
 [TIMES.si](http://www.times.si/slovenija/slovenski-raziskovalci-vlada-naj-vkljuci-podnebno-problematiko-v-obvezen-solski-program--8eab3057b4f399f34eedc14a0423913804034be6.html),
-[Meteorolog.si](http://meteorolog.si/index.php/2019/11/11/podnebne-spremembe-odprto-pismo/),
+[Meteorolog.si (November)](http://meteorolog.si/index.php/2019/11/11/podnebne-spremembe-odprto-pismo/),
+[Meteorolog.si (December)](http://meteorolog.si/index.php/2019/12/13/odzivi-na-zahtevo-slovenskih-raziskovalcev-za-sprejetje-takojsnjih-ukrepov-za-blazenje-podnebnih-sprememb-in-prilagajanje-nanje/),
 [Zeleni Genij](https://zelenigenij.24ur.com/odprto-pismo-podnebne-spremembe-ogrozajo-zivljenja-vec-kot-milijarde-ljudi.html),
 [Kvarkadabra](https://www.scribd.com/document/434444707/Zahteva-slovenskih-znanstvenikov-za-sprejetje-takoj%C5%A1njih-ukrepov-za-bla%C5%BEenje-podnebnih-sprememb-in-prilagajanje-nanje?fbclid=IwAR07Noqc0WUfEeGxoe44hf0LuPNbSMlc3NKxCK9OCj7hNXaymeyW7ozgUGg),
 [Metropolitan](https://www.metropolitan.si/aktualno/120-slovenskih-strokovnjakov-za-odlocno-ukrepanje-pri-blazenju-podnebnih-sprememb/),
@@ -36,7 +37,7 @@ Media coverage [SL]:
 [ARSO vreme](https://twitter.com/meteoSI/status/1202140528831320064),
 [ARSO podcast](https://meteo.arso.gov.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20191204_ep027.mp3),
 [Radio Študent](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe),
-[Radio Trst](http://www.rai.it/dl/portali/site/articolo/ContentItem-99a019aa-ca1e-4865-b5e0-bc047ac1bab4.html).<br/>
+[Radio Rai Furlanija Julijska Krajina](http://www.rai.it/dl/portali/site/articolo/ContentItem-99a019aa-ca1e-4865-b5e0-bc047ac1bab4.html).<br/>
 Answer from the government [SL]: <a href="http://ninacrnivec.github.io/files/00206BBAC913191209121909.pdf">Uradni odgovor</a> ministra za okolje in prostor Simona Zajca (12/2019).
 
 
