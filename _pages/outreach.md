@@ -16,10 +16,10 @@ Education & Public Outreach
 * [SL] "Pogovor o podnebnih spremembah" (Climate Change Debate), 20.11.2019:<br/> 
 Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji _Zahteve slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje_: [Radio Študent - Znanost: Kako bomo blažili podnebne spremembe?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe?fbclid=IwAR2y3n6dfT9tYwNvE19qQpJQxxlx4NXMCNswiruB8Ier-CspBRPHdpXCQM4) [Hvala Radiu Študent za povabilo na intervju in še posebej Zarji Muršič za spretno manevriranje pogovora med štirimi po svetu razpršenimi znanstveniki! 🙂]
 
-* [SL] Our "Request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy" has received extensive media coverage (11/2019, 12/2019):
+* [SL] Our "Request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy" (joint work with Žiga Zaplotnik, Lina Boljka and Aljoša Slameršak) has received extensive media coverage (11/2019, 12/2019):
 
 > - **RTV-Slovenija (MMC):** [Znanstveniki: Slovenija ne kaže pripravljenosti, da bi se na podnebne spremembe odločno odzvala](https://www.rtvslo.si/okolje/novice/znanstveniki-slovenija-ne-kaze-pripravljenosti-da-bi-se-na-podnebne-spremembe-odlocno-odzvala/504612?fbclid=IwAR2Px1cLtDykMJxNszkG6MI1QDOM2LneGWqK70LchAvEST9RBr_VWVjM-7Y)<br/> 
-> - **24 ur:** [Odprto pismo: Podnebne spremembe ogrožajo življenja več kot milijarde ljudi](Odprto pismo: Podnebne spremembe ogrožajo življenja več kot milijarde ljudi)<br/> 
+> - **24 ur:** [Odprto pismo: Podnebne spremembe ogrožajo življenja več kot milijarde ljudi](https://www.24ur.com/novice/slovenija/razocarani-slovenski-znanstveniki-politiki-se-ne-zavedajo-resnosti-problema.html)<br/> 
 > - **Dnevnik:** [Slovenski raziskovalci pozivajo k odločnemu ukrepanju za blaženje podnebnih sprememb](https://www.dnevnik.si/1042913601/slovenija/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb)<br/> 
 > - **Delo in Sobotna priloga:** [Slovenski raziskovalci pozivajo politiko: Sprejmite bolj ambiciozen podnebni načrt!](https://www.delo.si/novice/okolje/slovenski-raziskovalci-pozivajo-politiko-sprejmite-bolj-ambiciozen-podnebni-nacrt-247970.html)<br/>  
 > - **STA Znanost:** [Slovenski raziskovalci pozivajo k odločnemu ukrepanju za blaženje podnebnih sprememb](http://znanost.sta.si/2696264/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb)<br/> 
@@ -39,7 +39,7 @@ Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji _Zahteve slove
 > - **Zarja/Jana** (December): [Smo v usodnem času za človeštvo](https://revijazarja.si/clanek/zgodbe/5dee3441f3ac2/smo-v-usodnem-casu-za-clovestvo)<br/> 
 > - **ARSO podcast:** [Podnebne spremembe - ukrepajmo zdaj!](https://meteo.arso.gov.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20191204_ep027.mp3)<br/> 
 > - **Radio Študent:** [Kako bomo blažili podnebne spremembe?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe)<br/> 
-> - **Radio Rai Furlanija Julijska Krajina:** [Poziv politikom in odločevalcem v Sloveniji za blažitev podnebnih sprememb na podubo štirih mladih slovenskih znanstvenikov](http://www.rai.it/dl/portali/site/articolo/ContentItem-99a019aa-ca1e-4865-b5e0-bc047ac1bab4.html)<br/> 
+> - **Radio Rai Furlanija Julijska Krajina:** [Poziv politikom in odločevalcem v Sloveniji za blažitev podnebnih sprememb na podubo štirih mladih slovenskih znanstvenikov](http://www.rai.it/dl/portali/site/articolo/ContentItem-99a019aa-ca1e-4865-b5e0-bc047ac1bab4.html)(HEVREKA DEL 18/11/2019)<br/> 
 
 * [DE] Co-organizer of "[Mädchen machen Technik 2018](https://www.wavestoweather.de/equal_opportunity/activities/maedchenmachentechnik2018/index.html)" (Girls and Technology 2018), held at Meteorological Institute Munich, LMU Munich (09/2018)<br/>
 
