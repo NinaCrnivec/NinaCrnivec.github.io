@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Personal Details
+======
+Date and place of birth: March, 1991, Ljubljana, Slovenia
+
 
 Education
 ======
