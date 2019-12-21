@@ -7,6 +7,6 @@ tags:
   - Podnebne spremembe
 ---
 
-Lepo vabljeni na 4. simpozij slovenskih raziskovalcev v tujini, ki ga organizira Društvo v tujini izobraženih Slovencev (Društvo VTIS) v sodelovanju z Ministrstvom za izobraževanje, znanost in šport!
+Lepo vabljeni na 4. simpozij slovenskih raziskovalcev v tujini, ki ga organizira Društvo v tujini izobraženih Slovencev v sodelovanju z Ministrstvom za izobraževanje, znanost in šport!
 
 ![Napovednik VTIS](/images/VTIS4simpozij.jpg)
