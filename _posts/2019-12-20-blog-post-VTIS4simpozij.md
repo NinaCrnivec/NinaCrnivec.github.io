@@ -8,3 +8,4 @@ tags:
 ---
 
 Coming soon...
+![Napovednik VTIS](/images/VTIS4simpozij.jpg)
