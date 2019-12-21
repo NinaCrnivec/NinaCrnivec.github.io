@@ -18,8 +18,8 @@ Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji _Zahteve slove
 
 * [SL] Our "Request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy" has received extensive media coverage (11/2019, 12/2019):
 
-- **RTV-Slovenija (MMC):** [Znanstveniki: Slovenija ne kaže pripravljenosti, da bi se na podnebne spremembe odločno odzvala](https://www.rtvslo.si/okolje/novice/znanstveniki-slovenija-ne-kaze-pripravljenosti-da-bi-se-na-podnebne-spremembe-odlocno-odzvala/504612?fbclid=IwAR2Px1cLtDykMJxNszkG6MI1QDOM2LneGWqK70LchAvEST9RBr_VWVjM-7Y)<br/> 
-- **24 ur:** [Odprto pismo: Podnebne spremembe ogrožajo življenja več kot milijarde ljudi](Odprto pismo: Podnebne spremembe ogrožajo življenja več kot milijarde ljudi)<br/> 
+> - **RTV-Slovenija (MMC):** [Znanstveniki: Slovenija ne kaže pripravljenosti, da bi se na podnebne spremembe odločno odzvala](https://www.rtvslo.si/okolje/novice/znanstveniki-slovenija-ne-kaze-pripravljenosti-da-bi-se-na-podnebne-spremembe-odlocno-odzvala/504612?fbclid=IwAR2Px1cLtDykMJxNszkG6MI1QDOM2LneGWqK70LchAvEST9RBr_VWVjM-7Y)<br/> 
+> - **24 ur:** [Odprto pismo: Podnebne spremembe ogrožajo življenja več kot milijarde ljudi](Odprto pismo: Podnebne spremembe ogrožajo življenja več kot milijarde ljudi)<br/> 
 **Dnevnik:** [Slovenski raziskovalci pozivajo k odločnemu ukrepanju za blaženje podnebnih sprememb](https://www.dnevnik.si/1042913601/slovenija/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb)<br/> 
 **Delo in Sobotna priloga:** [Slovenski raziskovalci pozivajo politiko: Sprejmite bolj ambiciozen podnebni načrt!](https://www.delo.si/novice/okolje/slovenski-raziskovalci-pozivajo-politiko-sprejmite-bolj-ambiciozen-podnebni-nacrt-247970.html)<br/>  
 **STA Znanost:** [Slovenski raziskovalci pozivajo k odločnemu ukrepanju za blaženje podnebnih sprememb](http://znanost.sta.si/2696264/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb)<br/> 
