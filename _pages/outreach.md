@@ -22,24 +22,24 @@ Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji _Zahteve slove
 **24 ur:** [Odprto pismo: Podnebne spremembe ogrožajo življenja več kot milijarde ljudi](Odprto pismo: Podnebne spremembe ogrožajo življenja več kot milijarde ljudi)<br/> 
 **Dnevnik:** [Slovenski raziskovalci pozivajo k odločnemu ukrepanju za blaženje podnebnih sprememb](https://www.dnevnik.si/1042913601/slovenija/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb)<br/> 
 **Delo in Sobotna priloga:** [Slovenski raziskovalci pozivajo politiko: Sprejmite bolj ambiciozen podnebni načrt!](https://www.delo.si/novice/okolje/slovenski-raziskovalci-pozivajo-politiko-sprejmite-bolj-ambiciozen-podnebni-nacrt-247970.html)<br/>  
-**STA Znanost:** Slovenski raziskovalci pozivajo k odločnemu ukrepanju za blaženje podnebnih sprememb<br/> 
-**Mladina:** Slovenski znanstveniki o podnebnih spremembah: Naša moralna in etična dolžnost je pozvati k ukrepanju<br/>  
-**Večer:** Znanstveniki pozivajo vlado, državni zbor in državni svet: "Ukrepajte!"<br/> 
-**Slovenske novice:** Grožnje Pahorju in Šarcu: pred Slovenijo katastrofalne spremembe<br/>  
-**Finance:** Slovenski raziskovalci: vlada naj vključi podnebno problematiko v obvezen šolski program<br/> 
-**Politiks:** Slovenski raziskovalci pozivajo k odločnemu ukrepanju za blaženje podnebnih sprememb<br/> 
-**TIMES.si:** Slovenski raziskovalci: vlada naj vključi podnebno problematiko v obvezen šolski program<br/> 
-**Meteorolog.si** (November): Podnebne spremembe – Odprto pismo<br/> 
-**Meteorolog.si** (December): Odzivi na Zahtevo slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje<br/> 
-**Zeleni Genij:** Odprto pismo: Podnebne spremembe ogrožajo življenja več kot milijarde ljudi<br/> 
-**Kvardakadabra:** Zahteva slovenskih znanstvenikov za sprejetje takojšnjih ukrepov  za blaženje podnebnih sprememb in prilagajanje nanje<br/> 
-**Metropolitan:** 120 slovenskih strokovnjakov za odločno ukrepanje pri blaženju podnebnih sprememb<br/> 
-**Hudo:** Zaskrbljeni slovenski raziskovalci državo pozivajo k sprejetju takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanju nanje<br/> 
-**Zarja/Jana** (November): Smo pozabili? Ljudje umirajo!<br/> 
-**Zarja/Jana** (December): Smo v usodnem času za človeštvo<br/> 
-**ARSO podcast:** Podnebne spremembe - ukrepajmo zdaj!<br/> 
-**Radio Študent:** Kako bomo blažili podnebne spremembe?<br/> 
-**Radio Rai Furlanija Julijska Krajina:** Poziv politikom in odločevalcem v Sloveniji za blažitev podnebnih sprememb na podubo štirih mladih slovenskih znanstvenikov<br/> 
+**STA Znanost:** [Slovenski raziskovalci pozivajo k odločnemu ukrepanju za blaženje podnebnih sprememb](http://znanost.sta.si/2696264/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb)<br/> 
+**Mladina:** [Slovenski znanstveniki o podnebnih spremembah: Naša moralna in etična dolžnost je pozvati k ukrepanju](https://www.mladina.si/194097/slovenski-znanstveniki-o-podnebnih-spremembah-nasa-moralna-in-eticna-dolznost-je-pozvati-k-ukr/)<br/>  
+**Večer:** [Znanstveniki pozivajo vlado, državni zbor in državni svet: "Ukrepajte!"](https://www.vecer.com/znanstveniki-pozivajo-vlado-drzavni-zbor-in-drzavni-svet-ukrepajte-10089051)<br/> 
+**Slovenske novice:** [Grožnje Pahorju in Šarcu: pred Slovenijo katastrofalne spremembe](https://www.slovenskenovice.si/novice/slovenija/clanek/groznje-pahorju-in-sarcu-pred-slovenijo-katastrofalne-spremembe-247919)<br/>  
+**Finance:** [Slovenski raziskovalci: vlada naj vključi podnebno problematiko v obvezen šolski program](https://oe.finance.si/8954794)<br/> 
+**Politiks:** [Slovenski raziskovalci pozivajo k odločnemu ukrepanju za blaženje podnebnih sprememb](http://www.politikis.si/2019/11/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb/)<br/> 
+**TIMES.si:** [Slovenski raziskovalci: vlada naj vključi podnebno problematiko v obvezen šolski program](http://www.times.si/slovenija/slovenski-raziskovalci-vlada-naj-vkljuci-podnebno-problematiko-v-obvezen-solski-program--8eab3057b4f399f34eedc14a0423913804034be6.html)<br/> 
+**Meteorolog.si** (November): [Podnebne spremembe – Odprto pismo](http://meteorolog.si/index.php/2019/11/11/podnebne-spremembe-odprto-pismo/)<br/> 
+**Meteorolog.si** (December): [Odzivi na Zahtevo slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje](http://meteorolog.si/index.php/2019/12/13/odzivi-na-zahtevo-slovenskih-raziskovalcev-za-sprejetje-takojsnjih-ukrepov-za-blazenje-podnebnih-sprememb-in-prilagajanje-nanje/)<br/> 
+**Zeleni Genij:** [Odprto pismo: Podnebne spremembe ogrožajo življenja več kot milijarde ljudi](https://zelenigenij.24ur.com/odprto-pismo-podnebne-spremembe-ogrozajo-zivljenja-vec-kot-milijarde-ljudi.html)<br/> 
+**Kvardakadabra:** [Zahteva slovenskih znanstvenikov za sprejetje takojšnjih ukrepov  za blaženje podnebnih sprememb in prilagajanje nanje](https://www.scribd.com/document/434444707/Zahteva-slovenskih-znanstvenikov-za-sprejetje-takoj%C5%A1njih-ukrepov-za-bla%C5%BEenje-podnebnih-sprememb-in-prilagajanje-nanje?fbclid=IwAR07Noqc0WUfEeGxoe44hf0LuPNbSMlc3NKxCK9OCj7hNXaymeyW7ozgUGg)<br/> 
+**Metropolitan:** [120 slovenskih strokovnjakov za odločno ukrepanje pri blaženju podnebnih sprememb](https://www.metropolitan.si/aktualno/120-slovenskih-strokovnjakov-za-odlocno-ukrepanje-pri-blazenju-podnebnih-sprememb/)<br/> 
+**Hudo:** Zaskrbljeni slovenski raziskovalci državo pozivajo k sprejetju takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanju nanje](https://hudo.com/si/2019/11/11/zaskrbljeni-slovenski-raziskovalci-drzavo-pozivajo-k-sprejetju-takojsnjih-ukrepov-za-blazenje-podnebnih-sprememb-prilagajanju-nanje/)<br/> 
+**Zarja/Jana** (November): [Smo pozabili? Ljudje umirajo!](https://revijazarja.si/clanek/ljudje/5dd2bb059e1b5/smo-pozabili-ljudje-umirajo)<br/> 
+**Zarja/Jana** (December): [Smo v usodnem času za človeštvo](https://revijazarja.si/clanek/zgodbe/5dee3441f3ac2/smo-v-usodnem-casu-za-clovestvo)<br/> 
+**ARSO podcast:** [Podnebne spremembe - ukrepajmo zdaj!](https://meteo.arso.gov.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20191204_ep027.mp3)<br/> 
+**Radio Študent:** [Kako bomo blažili podnebne spremembe?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe)<br/> 
+**Radio Rai Furlanija Julijska Krajina:** Poziv politikom in odločevalcem v Sloveniji za blažitev podnebnih sprememb na podubo štirih mladih slovenskih znanstvenikov](http://www.rai.it/dl/portali/site/articolo/ContentItem-99a019aa-ca1e-4865-b5e0-bc047ac1bab4.html)<br/> 
 
 * [DE] Co-organizer of "[Mädchen machen Technik 2018](https://www.wavestoweather.de/equal_opportunity/activities/maedchenmachentechnik2018/index.html)" (Girls and Technology 2018), held at Meteorological Institute Munich, LMU Munich (09/2018)<br/>
 
