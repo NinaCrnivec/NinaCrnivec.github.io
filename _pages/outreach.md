@@ -16,7 +16,7 @@ Education & Public Outreach
 * [SL] "Pogovor o podnebnih spremembah" (Climate Change Debate), 20.11.2019:<br/> 
 Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji _Zahteve slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje_: [Radio Študent - Znanost: Kako bomo blažili podnebne spremembe?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe?fbclid=IwAR2y3n6dfT9tYwNvE19qQpJQxxlx4NXMCNswiruB8Ier-CspBRPHdpXCQM4) [Hvala Radiu Študent za povabilo na intervju in še posebej Zarji Muršič za spretno manevriranje pogovora med štirimi po svetu razpršenimi znanstveniki! 🙂]
 
-* [SL] Our "Request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy" has received extensive media coverage:
+* [SL] Our "Request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy" has received extensive media coverage (11/2019, 12/2019):
 
 **RTV-Slovenija (MMC):** [Znanstveniki: Slovenija ne kaže pripravljenosti, da bi se na podnebne spremembe odločno odzvala](https://www.rtvslo.si/okolje/novice/znanstveniki-slovenija-ne-kaze-pripravljenosti-da-bi-se-na-podnebne-spremembe-odlocno-odzvala/504612?fbclid=IwAR2Px1cLtDykMJxNszkG6MI1QDOM2LneGWqK70LchAvEST9RBr_VWVjM-7Y)<br/> 
 **24 ur:** [Odprto pismo: Podnebne spremembe ogrožajo življenja več kot milijarde ljudi](Odprto pismo: Podnebne spremembe ogrožajo življenja več kot milijarde ljudi)<br/> 
@@ -34,12 +34,12 @@ Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji _Zahteve slove
 **Zeleni Genij:** [Odprto pismo: Podnebne spremembe ogrožajo življenja več kot milijarde ljudi](https://zelenigenij.24ur.com/odprto-pismo-podnebne-spremembe-ogrozajo-zivljenja-vec-kot-milijarde-ljudi.html)<br/> 
 **Kvardakadabra:** [Zahteva slovenskih znanstvenikov za sprejetje takojšnjih ukrepov  za blaženje podnebnih sprememb in prilagajanje nanje](https://www.scribd.com/document/434444707/Zahteva-slovenskih-znanstvenikov-za-sprejetje-takoj%C5%A1njih-ukrepov-za-bla%C5%BEenje-podnebnih-sprememb-in-prilagajanje-nanje?fbclid=IwAR07Noqc0WUfEeGxoe44hf0LuPNbSMlc3NKxCK9OCj7hNXaymeyW7ozgUGg)<br/> 
 **Metropolitan:** [120 slovenskih strokovnjakov za odločno ukrepanje pri blaženju podnebnih sprememb](https://www.metropolitan.si/aktualno/120-slovenskih-strokovnjakov-za-odlocno-ukrepanje-pri-blazenju-podnebnih-sprememb/)<br/> 
-**Hudo:** Zaskrbljeni slovenski raziskovalci državo pozivajo k sprejetju takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanju nanje](https://hudo.com/si/2019/11/11/zaskrbljeni-slovenski-raziskovalci-drzavo-pozivajo-k-sprejetju-takojsnjih-ukrepov-za-blazenje-podnebnih-sprememb-prilagajanju-nanje/)<br/> 
+**Hudo:** [Zaskrbljeni slovenski raziskovalci državo pozivajo k sprejetju takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanju nanje](https://hudo.com/si/2019/11/11/zaskrbljeni-slovenski-raziskovalci-drzavo-pozivajo-k-sprejetju-takojsnjih-ukrepov-za-blazenje-podnebnih-sprememb-prilagajanju-nanje/)<br/> 
 **Zarja/Jana** (November): [Smo pozabili? Ljudje umirajo!](https://revijazarja.si/clanek/ljudje/5dd2bb059e1b5/smo-pozabili-ljudje-umirajo)<br/> 
 **Zarja/Jana** (December): [Smo v usodnem času za človeštvo](https://revijazarja.si/clanek/zgodbe/5dee3441f3ac2/smo-v-usodnem-casu-za-clovestvo)<br/> 
 **ARSO podcast:** [Podnebne spremembe - ukrepajmo zdaj!](https://meteo.arso.gov.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20191204_ep027.mp3)<br/> 
 **Radio Študent:** [Kako bomo blažili podnebne spremembe?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe)<br/> 
-**Radio Rai Furlanija Julijska Krajina:** Poziv politikom in odločevalcem v Sloveniji za blažitev podnebnih sprememb na podubo štirih mladih slovenskih znanstvenikov](http://www.rai.it/dl/portali/site/articolo/ContentItem-99a019aa-ca1e-4865-b5e0-bc047ac1bab4.html)<br/> 
+**Radio Rai Furlanija Julijska Krajina:** [Poziv politikom in odločevalcem v Sloveniji za blažitev podnebnih sprememb na podubo štirih mladih slovenskih znanstvenikov](http://www.rai.it/dl/portali/site/articolo/ContentItem-99a019aa-ca1e-4865-b5e0-bc047ac1bab4.html)<br/> 
 
 * [DE] Co-organizer of "[Mädchen machen Technik 2018](https://www.wavestoweather.de/equal_opportunity/activities/maedchenmachentechnik2018/index.html)" (Girls and Technology 2018), held at Meteorological Institute Munich, LMU Munich (09/2018)<br/>
 
