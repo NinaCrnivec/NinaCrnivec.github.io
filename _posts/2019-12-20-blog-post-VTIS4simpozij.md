@@ -7,7 +7,7 @@ tags:
   - Podnebne spremembe
 ---
 
-Lepo vabljeni na 4. simpozij slovenskih raziskovalcev v tujini, ki ga organizira Društvo v tujini izobraženih Slovencev v sodelovanju z Ministrstvom za izobraževanje, znanost in šport! V okviru panela "Podnebne spremembe" bom predstavila vsebino svojega doktorskega raziskovanja.
+Lepo vabljeni na 4. simpozij slovenskih raziskovalcev v tujini, ki ga organizira Društvo v tujini izobraženih Slovencev v sodelovanju z Ministrstvom za izobraževanje, znanost in šport! V okviru panela "Podnebne spremembe" bom predstavila vsebino svojega doktorskega raziskovanja, ki ga opravljam na Meteorološkem Inštitutu Univerze v Münchnu.
 
 ![Napovednik VTIS](/images/VTIS4simpozij.jpg)
 
