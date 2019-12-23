@@ -1,5 +1,5 @@
 ---
-title: '[SL] Vabilo na 4. simpozij slovenskih raziskovalcev v tujini<br>(Invitation to the "4. Symposium of Slovene Researchers Abroad")'
+title: '[SL] Vabilo na 4. simpozij slovenskih raziskovalcev v tujini<br>(Invitation to the 4. Symposium of Slovene Researchers Abroad)'
 date: 2019-12-20
 permalink: /posts/2019/12/blog-post-VTIS4simpozij/
 tags:
