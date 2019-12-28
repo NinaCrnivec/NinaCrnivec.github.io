@@ -22,7 +22,7 @@ Kljub znatnem napredku v preteklem času predstavljajo natančne napovedi vremen
 
 Foto utrinki:<br>
 ---------------
-Hvala društvu VTIS za organizacijo dogodka, spodaj je nekaj utrinkov s panela "Podnebne spremembe" (Foto: Janez Kotar).
+_Hvala društvu VTIS za organizacijo dogodka, priloženih je nekaj utrinkov s panela "Podnebne spremembe" (Foto: Janez Kotar)._
 
 ![Utrinki VTIS](/photos/VTISsimpozij2019_PodnebneSpremembe.jpg)
 
