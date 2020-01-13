@@ -7,7 +7,7 @@ author_profile: true
 
 _In preparation_
 
-Montgomery, M. T., Kilroy, G., Smith, R. K., and **Črnivec, N.**: Tropical cyclone life cycle in a three-dimensional numerical simulation: Part II: Unbalanced and non-axisymmetric dynamical processes. Quart. J. Roy. Meteor. Soc. (in revision), 2019.
+Montgomery, M. T., Kilroy, G., Smith, R. K., and **Črnivec, N.**: Contribution of mean and eddy momentum processes to tropical cyclone intensification. Quart. J. Roy. Meteor. Soc.
 
 [SL] Bela knjiga o strokovnem varovanju okolja [White paper on environment protection], 80 pp.; editors: M. Gams, L. Globevnik, M. Horvat, F. Lobnik, T. L. Turnšek, A. Zidanšek; authors: L. Boljka, M. Z. Božnar, M. B. Jager, A. Čas, **N. Črnivec**, M. Gams, M. Debeljak, L. Globevnik, B. Grašič, A. Hace, M. Horvat, T. Horvat, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štubelj, A. Šubic, B. Tomažič, T. L. Turnšek, A. V. Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, T. Žagar.
 
@@ -26,6 +26,7 @@ Media coverage [SL]:
 [Finance](https://oe.finance.si/8954794),
 [Politikis](http://www.politikis.si/2019/11/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb/),
 [TIMES.si](http://www.times.si/slovenija/slovenski-raziskovalci-vlada-naj-vkljuci-podnebno-problematiko-v-obvezen-solski-program--8eab3057b4f399f34eedc14a0423913804034be6.html),
+[Svet24](https://novice.svet24.si/clanek/novice/svet/5df8e1f62d92a/slovenija-ne-kaze-pripravljenosti-da-bi-se-na-groznjo-podnebnih-sprememb-odzvala-z-odlocnimi-ukrepi),
 [Meteorolog.si (November)](http://meteorolog.si/index.php/2019/11/11/podnebne-spremembe-odprto-pismo/),
 [Meteorolog.si (December)](http://meteorolog.si/index.php/2019/12/13/odzivi-na-zahtevo-slovenskih-raziskovalcev-za-sprejetje-takojsnjih-ukrepov-za-blazenje-podnebnih-sprememb-in-prilagajanje-nanje/),
 [Zeleni Genij](https://zelenigenij.24ur.com/odprto-pismo-podnebne-spremembe-ogrozajo-zivljenja-vec-kot-milijarde-ljudi.html),
