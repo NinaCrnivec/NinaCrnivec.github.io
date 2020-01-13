@@ -26,13 +26,13 @@ Media coverage [SL]:
 [Finance](https://oe.finance.si/8954794),
 [Politikis](http://www.politikis.si/2019/11/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb/),
 [TIMES.si](http://www.times.si/slovenija/slovenski-raziskovalci-vlada-naj-vkljuci-podnebno-problematiko-v-obvezen-solski-program--8eab3057b4f399f34eedc14a0423913804034be6.html),
-[Svet24](https://novice.svet24.si/clanek/novice/svet/5df8e1f62d92a/slovenija-ne-kaze-pripravljenosti-da-bi-se-na-groznjo-podnebnih-sprememb-odzvala-z-odlocnimi-ukrepi),
 [Meteorolog.si (November)](http://meteorolog.si/index.php/2019/11/11/podnebne-spremembe-odprto-pismo/),
 [Meteorolog.si (December)](http://meteorolog.si/index.php/2019/12/13/odzivi-na-zahtevo-slovenskih-raziskovalcev-za-sprejetje-takojsnjih-ukrepov-za-blazenje-podnebnih-sprememb-in-prilagajanje-nanje/),
 [Zeleni Genij](https://zelenigenij.24ur.com/odprto-pismo-podnebne-spremembe-ogrozajo-zivljenja-vec-kot-milijarde-ljudi.html),
 [Kvarkadabra](https://www.scribd.com/document/434444707/Zahteva-slovenskih-znanstvenikov-za-sprejetje-takoj%C5%A1njih-ukrepov-za-bla%C5%BEenje-podnebnih-sprememb-in-prilagajanje-nanje?fbclid=IwAR07Noqc0WUfEeGxoe44hf0LuPNbSMlc3NKxCK9OCj7hNXaymeyW7ozgUGg),
 [Metropolitan](https://www.metropolitan.si/aktualno/120-slovenskih-strokovnjakov-za-odlocno-ukrepanje-pri-blazenju-podnebnih-sprememb/),
 [Hudo](https://hudo.com/si/2019/11/11/zaskrbljeni-slovenski-raziskovalci-drzavo-pozivajo-k-sprejetju-takojsnjih-ukrepov-za-blazenje-podnebnih-sprememb-prilagajanju-nanje/),
+[Svet24](https://novice.svet24.si/clanek/novice/svet/5df8e1f62d92a/slovenija-ne-kaze-pripravljenosti-da-bi-se-na-groznjo-podnebnih-sprememb-odzvala-z-odlocnimi-ukrepi),
 [Zarja/Jana (November)](https://revijazarja.si/clanek/ljudje/5dd2bb059e1b5/smo-pozabili-ljudje-umirajo),
 [Zarja/Jana (December)](https://revijazarja.si/clanek/zgodbe/5dee3441f3ac2/smo-v-usodnem-casu-za-clovestvo),
 [ARSO vreme](https://twitter.com/meteoSI/status/1202140528831320064),
@@ -40,7 +40,6 @@ Media coverage [SL]:
 [Radio Študent](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe),
 [Radio Rai Furlanija Julijska Krajina](http://www.rai.it/dl/portali/site/articolo/ContentItem-99a019aa-ca1e-4865-b5e0-bc047ac1bab4.html).<br/>
 Answer from the government [SL]: <a href="http://ninacrnivec.github.io/files/00206BBAC913191209121909.pdf">Uradni odgovor</a> ministra za okolje in prostor Simona Zajca (12/2019).
-
 
 
 **Črnivec, N.** and Mayer, B.: Quantifying the bias of radiative heating rates in numerical weather prediction models for shallow cumulus clouds. Atmos. Chem. Phys., 19, 8083-8100, [https://doi.org/10.5194/acp-19-8083-2019](https://doi.org/10.5194/acp-19-8083-2019), 2019. 
