@@ -45,6 +45,7 @@ Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji _Zahteve slove
 Mentioned also in:
 > - **Frekvenca X - Val 202** (Januar 2020): [Stopinja in pol 1/4: Ko narava ni več naravna](https://val202.rtvslo.si/2019/12/frekvenca-x-177/)<br/> 
 > - **Metina lista** (Januar 2020): [Meta PHoDcast 107: Nina Črnivec, meteorologinja](https://metinalista.si/meta-phodcast-107-nina-crnivec-meteorologinja/)<br/> 
+> - **RTV-SLO (Dnevnik)** (Januar 2020): [Neizkoriščen sklad za podnebne spremembe](https://4d.rtvslo.si/arhiv/dnevnik/174665542/00:00:00)<br/> 
 
 
 * [DE] Co-organizer of "[Mädchen machen Technik 2018](https://www.wavestoweather.de/equal_opportunity/activities/maedchenmachentechnik2018/index.html)" (Girls and Technology 2018), held at Meteorological Institute Munich, LMU Munich (09/2018)<br/>
