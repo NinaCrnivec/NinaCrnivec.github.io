@@ -12,13 +12,13 @@ redirect_from:
 Education & Public Outreach 
 ======
 * [SL] Interview about my PhD research:
-**Metina lista**: [Meta PHoDcast 107: Nina Črnivec, meteorologinja](https://metinalista.si/meta-phodcast-107-nina-crnivec-meteorologinja/)<br/> 
-featured also in:
-**Meteorolog.si**: [Metina lista: Intervju z meteorologinjo Nino Črnivec](http://meteorolog.si/index.php/2020/02/03/metina-lista-intervju-z-meteorologinjo-nino-crnivec/)<br/> 
+**Metina lista**: [Meta PHoDcast 107: Nina Črnivec, meteorologinja](https://metinalista.si/meta-phodcast-107-nina-crnivec-meteorologinja/) (01/2020) <br/> 
+Featured also in:
+**Meteorolog.si**: [Metina lista: Intervju z meteorologinjo Nino Črnivec](http://meteorolog.si/index.php/2020/02/03/metina-lista-intervju-z-meteorologinjo-nino-crnivec/) (02/2020) <br/> 
 
 * [SL] [Invited Talk], “4. simpozij slovenskih raziskovalcev v tujini” (4. Symposium of Slovene Researchers Abroad), event organized by “Društvo v tujini izobraženih Slovencev (Društvo VTIS) in Ministrstvo za izobraževanje, znanost in šport” (Association of Slovenes Educated Abroad and Ministry of Education, Science and Sport), Ljubljana, Slovenia (12/2019)<br/> 
 
-* [SL] "Pogovor o podnebnih spremembah" (Climate Change Debate), 20.11.2019:<br/> 
+* [SL] "Pogovor o podnebnih spremembah" (Climate Change Debate), (11/2019):<br/> 
 Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji _Zahteve slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje_: [Radio Študent - Znanost: Kako bomo blažili podnebne spremembe?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe?fbclid=IwAR2y3n6dfT9tYwNvE19qQpJQxxlx4NXMCNswiruB8Ier-CspBRPHdpXCQM4) [Hvala Radiu Študent za povabilo na intervju in še posebej Zarji Muršič za spretno manevriranje pogovora med štirimi po svetu razpršenimi znanstveniki! 🙂]
 
 * [SL] Our "Request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy" (joint work with Žiga Zaplotnik, Lina Boljka and Aljoša Slameršak) has received extensive media coverage (11/2019, 12/2019):
