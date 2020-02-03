@@ -11,6 +11,11 @@ redirect_from:
 
 Education & Public Outreach 
 ======
+* [SL] Interview about my PhD research:
+**Metina lista**: [Meta PHoDcast 107: Nina Črnivec, meteorologinja](https://metinalista.si/meta-phodcast-107-nina-crnivec-meteorologinja/)<br/> 
+featured also in:
+**Meteorolog.si**: [Metina lista: Intervju z meteorologinjo Nino Črnivec](http://meteorolog.si/index.php/2020/02/03/metina-lista-intervju-z-meteorologinjo-nino-crnivec/)<br/> 
+
 * [SL] [Invited Talk], “4. simpozij slovenskih raziskovalcev v tujini” (4. Symposium of Slovene Researchers Abroad), event organized by “Društvo v tujini izobraženih Slovencev (Društvo VTIS) in Ministrstvo za izobraževanje, znanost in šport” (Association of Slovenes Educated Abroad and Ministry of Education, Science and Sport), Ljubljana, Slovenia (12/2019)<br/> 
 
 * [SL] "Pogovor o podnebnih spremembah" (Climate Change Debate), 20.11.2019:<br/> 
