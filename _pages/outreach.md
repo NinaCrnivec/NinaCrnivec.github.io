@@ -16,9 +16,9 @@ Education & Public Outreach
 Featured also in:
 **Meteorolog.si**: [Metina lista: Intervju z meteorologinjo Nino Črnivec](http://meteorolog.si/index.php/2020/02/03/metina-lista-intervju-z-meteorologinjo-nino-crnivec/) (02/2020) <br/> 
 
-* [SL] [Invited Talk], “4. simpozij slovenskih raziskovalcev v tujini” (4. Symposium of Slovene Researchers Abroad), event organized by “Društvo v tujini izobraženih Slovencev (Društvo VTIS) in Ministrstvo za izobraževanje, znanost in šport” (Association of Slovenes Educated Abroad and Ministry of Education, Science and Sport), Ljubljana, Slovenia (12/2019) 
-> - <sub>More information & event media coverage:</sub>
-> - <sub>**Društvo VTIS**: [4. simpozij slovenskih raziskovalcev v tujini](https://www.drustvovtis.si/4-simpozij-slovenskih-raziskovalcev-v-tujini/)</sub>
+* [SL] [Invited Talk], “4. simpozij slovenskih raziskovalcev v tujini” (4. Symposium of Slovene Researchers Abroad), event organized by “Društvo v tujini izobraženih Slovencev (Društvo VTIS) in Ministrstvo za izobraževanje, znanost in šport” (Association of Slovenes Educated Abroad and Ministry of Education, Science and Sport), Ljubljana, Slovenia. 
+More information & event media coverage (12/2019):
+> - **Društvo VTIS**: [4. simpozij slovenskih raziskovalcev v tujini](https://www.drustvovtis.si/4-simpozij-slovenskih-raziskovalcev-v-tujini/)
 > - **Republika Slovenija GOV.SI**: [4. simpozij slovenskih raziskovalcev v tujini](https://www.gov.si/dogodki/2019-12-23-4-simpozij-slovenskih-raziskovalcev-v-tujini/)
 > - **Slovenska tiskovna agencija (STA)-Znanost**(1/2): [V Ljubljani 4. simpozij slovenskih raziskovalcev v tujini](http://znanost.sta.si/2710199/v-ljubljani-4-simpozij-slovenskih-raziskovalcev-v-tujini)
 > - **Slovenska tiskovna agencija (STA)-Znanost**(2/2): [Simpozij slovenskih raziskovalcev v tujini v luči kroženja znanja ](http://znanost.sta.si/2711367/simpozij-slovenskih-raziskovalcev-v-tujini-v-luci-krozenja-znanja)
