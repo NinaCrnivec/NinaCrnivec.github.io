@@ -16,21 +16,21 @@ Education & Public Outreach
 Featured also in:
 **Meteorolog.si**: [Metina lista: Intervju z meteorologinjo Nino Črnivec](http://meteorolog.si/index.php/2020/02/03/metina-lista-intervju-z-meteorologinjo-nino-crnivec/) (02/2020) <br/> 
 
-* [SL] [Invited Talk], “4. simpozij slovenskih raziskovalcev v tujini” (4. Symposium of Slovene Researchers Abroad), event organized by “Društvo v tujini izobraženih Slovencev (Društvo VTIS) in Ministrstvo za izobraževanje, znanost in šport” (Association of Slovenes Educated Abroad and Ministry of Education, Science and Sport), Ljubljana, Slovenia (12/2019)<br/> 
+* [SL] [Invited Talk], “4. simpozij slovenskih raziskovalcev v tujini” (4. Symposium of Slovene Researchers Abroad), event organized by “Društvo v tujini izobraženih Slovencev (Društvo VTIS) in Ministrstvo za izobraževanje, znanost in šport” (Association of Slovenes Educated Abroad and Ministry of Education, Science and Sport), Ljubljana, Slovenia (12/2019) 
 > - More information & event media coverage:
 > - **Društvo VTIS**: [4. simpozij slovenskih raziskovalcev v tujini](https://www.drustvovtis.si/4-simpozij-slovenskih-raziskovalcev-v-tujini/)
 > - **Republika Slovenija GOV.SI Dogodki**: [4. simpozij slovenskih raziskovalcev v tujini](https://www.gov.si/dogodki/2019-12-23-4-simpozij-slovenskih-raziskovalcev-v-tujini/)
 > - **Slovenska tiskovna agencija (STA):** [V Ljubljani 4. simpozij slovenskih raziskovalcev v tujini](https://www.sta.si/2710199/v-ljubljani-4-simpozij-slovenskih-raziskovalcev-v-tujini)
 > - **Slovenska tiskovna agencija (STA) - Znanost:** [Simpozij slovenskih raziskovalcev v tujini v luči kroženja znanja ](https://krog.sta.si/2711367/simpozij-slovenskih-raziskovalcev-v-tujini-v-luci-krozenja-znanja)
 > - **Karierni centri Univerze v Ljubljani:** [4. simpozij slovenskih raziskovalcev v tujini](https://kc.uni-lj.si/novice/4-simpozij-slovenskih-raziskovalcev-v-tujini.html)
-> - **Eurydice Slovenija:** [Po 4. simpoziju slovenskih raziskovalcev v tujini](http://www.eurydice.si/novice/zadnje-novice/po-4-simpoziju-slovenskih-raziskovalcev-v-tujini/)
 > - **CNVOS:** [4. simpozij slovenskih raziskovalcev v tujini](https://www.cnvos.si/aktualno/3410/4-simpozij-slovenskih-raziskovalcev-v-tujini/)
+> - **Eurydice Slovenija:** [Po 4. simpoziju slovenskih raziskovalcev v tujini](http://www.eurydice.si/novice/zadnje-novice/po-4-simpoziju-slovenskih-raziskovalcev-v-tujini/)
+
 
 * [SL] "Pogovor o podnebnih spremembah" (Climate Change Debate) (11/2019):<br/> 
 Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji _Zahteve slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje_: [Radio Študent - Znanost: Kako bomo blažili podnebne spremembe?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe?fbclid=IwAR2y3n6dfT9tYwNvE19qQpJQxxlx4NXMCNswiruB8Ier-CspBRPHdpXCQM4) [Hvala Radiu Študent za povabilo na intervju in še posebej Zarji Muršič za spretno manevriranje pogovora med štirimi po svetu razpršenimi znanstveniki! 🙂]
 
 * [SL] Our "Request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy" (joint work with [Žiga Zaplotnik](https://zaplotnik.github.io/), [Lina Boljka](https://lina-boljka.github.io/) and [Aljoša Slameršak](https://ictaweb.uab.cat/personal_detail.php?id=4088)) has received extensive media coverage (11/2019, 12/2019):
-
 > - **RTV-SLO (MMC):** [Znanstveniki: Slovenija ne kaže pripravljenosti, da bi se na podnebne spremembe odločno odzvala](https://www.rtvslo.si/okolje/novice/znanstveniki-slovenija-ne-kaze-pripravljenosti-da-bi-se-na-podnebne-spremembe-odlocno-odzvala/504612?fbclid=IwAR2Px1cLtDykMJxNszkG6MI1QDOM2LneGWqK70LchAvEST9RBr_VWVjM-7Y)<br/> 
 > - **24 ur:** [Odprto pismo: Podnebne spremembe ogrožajo življenja več kot milijarde ljudi](https://www.24ur.com/novice/slovenija/razocarani-slovenski-znanstveniki-politiki-se-ne-zavedajo-resnosti-problema.html)<br/> 
 > - **Dnevnik:** [Slovenski raziskovalci pozivajo k odločnemu ukrepanju za blaženje podnebnih sprememb](https://www.dnevnik.si/1042913601/slovenija/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb)<br/> 
