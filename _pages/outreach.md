@@ -20,8 +20,8 @@ Featured also in:
 More information & event media coverage (12/2019):
 > - **Društvo VTIS**: [4. simpozij slovenskih raziskovalcev v tujini](https://www.drustvovtis.si/4-simpozij-slovenskih-raziskovalcev-v-tujini/)
 > - **Republika Slovenija GOV.SI**: [4. simpozij slovenskih raziskovalcev v tujini](https://www.gov.si/dogodki/2019-12-23-4-simpozij-slovenskih-raziskovalcev-v-tujini/)
-> - **Slovenska tiskovna agencija (STA)-Znanost**(1/2): [V Ljubljani 4. simpozij slovenskih raziskovalcev v tujini](http://znanost.sta.si/2710199/v-ljubljani-4-simpozij-slovenskih-raziskovalcev-v-tujini)
-> - **Slovenska tiskovna agencija (STA)-Znanost**(2/2): [Simpozij slovenskih raziskovalcev v tujini v luči kroženja znanja ](http://znanost.sta.si/2711367/simpozij-slovenskih-raziskovalcev-v-tujini-v-luci-krozenja-znanja)
+> - **STA-Znanost** (1/2): [V Ljubljani 4. simpozij slovenskih raziskovalcev v tujini](http://znanost.sta.si/2710199/v-ljubljani-4-simpozij-slovenskih-raziskovalcev-v-tujini)
+> - **STA-Znanost** (2/2): [Simpozij slovenskih raziskovalcev v tujini v luči kroženja znanja ](http://znanost.sta.si/2711367/simpozij-slovenskih-raziskovalcev-v-tujini-v-luci-krozenja-znanja)
 > - **Karierni centri Univerze v Ljubljani:** [4. simpozij slovenskih raziskovalcev v tujini](https://kc.uni-lj.si/novice/4-simpozij-slovenskih-raziskovalcev-v-tujini.html)
 > - **CNVOS:** [4. simpozij slovenskih raziskovalcev v tujini](https://www.cnvos.si/aktualno/3410/4-simpozij-slovenskih-raziskovalcev-v-tujini/)
 > - **Eurydice Slovenija:** [Po 4. simpoziju slovenskih raziskovalcev v tujini](http://www.eurydice.si/novice/zadnje-novice/po-4-simpoziju-slovenskih-raziskovalcev-v-tujini/)
@@ -35,7 +35,7 @@ Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji _Zahteve slove
 > - **24 ur:** [Odprto pismo: Podnebne spremembe ogrožajo življenja več kot milijarde ljudi](https://www.24ur.com/novice/slovenija/razocarani-slovenski-znanstveniki-politiki-se-ne-zavedajo-resnosti-problema.html)<br/> 
 > - **Dnevnik:** [Slovenski raziskovalci pozivajo k odločnemu ukrepanju za blaženje podnebnih sprememb](https://www.dnevnik.si/1042913601/slovenija/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb)<br/> 
 > - **Delo in Sobotna priloga:** [Slovenski raziskovalci pozivajo politiko: Sprejmite bolj ambiciozen podnebni načrt!](https://www.delo.si/novice/okolje/slovenski-raziskovalci-pozivajo-politiko-sprejmite-bolj-ambiciozen-podnebni-nacrt-247970.html)<br/>  
-> - **STA Znanost:** [Slovenski raziskovalci pozivajo k odločnemu ukrepanju za blaženje podnebnih sprememb](http://znanost.sta.si/2696264/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb)<br/> 
+> - **STA-Znanost:** [Slovenski raziskovalci pozivajo k odločnemu ukrepanju za blaženje podnebnih sprememb](http://znanost.sta.si/2696264/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb)<br/> 
 > - **Mladina:** [Slovenski znanstveniki o podnebnih spremembah: Naša moralna in etična dolžnost je pozvati k ukrepanju](https://www.mladina.si/194097/slovenski-znanstveniki-o-podnebnih-spremembah-nasa-moralna-in-eticna-dolznost-je-pozvati-k-ukr/)<br/>  
 > - **Večer:** [Znanstveniki pozivajo vlado, državni zbor in državni svet: "Ukrepajte!"](https://www.vecer.com/znanstveniki-pozivajo-vlado-drzavni-zbor-in-drzavni-svet-ukrepajte-10089051)<br/> 
 > - **Slovenske novice:** [Grožnje Pahorju in Šarcu: pred Slovenijo katastrofalne spremembe](https://www.slovenskenovice.si/novice/slovenija/clanek/groznje-pahorju-in-sarcu-pred-slovenijo-katastrofalne-spremembe-247919)<br/>  
