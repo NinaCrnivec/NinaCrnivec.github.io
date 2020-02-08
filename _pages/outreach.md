@@ -20,8 +20,8 @@ Featured also in:
 > - More information & event media coverage:
 > - **Društvo VTIS**: [4. simpozij slovenskih raziskovalcev v tujini](https://www.drustvovtis.si/4-simpozij-slovenskih-raziskovalcev-v-tujini/)
 > - **Republika Slovenija GOV.SI Dogodki**: [4. simpozij slovenskih raziskovalcev v tujini](https://www.gov.si/dogodki/2019-12-23-4-simpozij-slovenskih-raziskovalcev-v-tujini/)
-> - **Slovenska tiskovna agencija (STA):** [V Ljubljani 4. simpozij slovenskih raziskovalcev v tujini](https://www.sta.si/2710199/v-ljubljani-4-simpozij-slovenskih-raziskovalcev-v-tujini)
-> - **Slovenska tiskovna agencija (STA) - Znanost:** [Simpozij slovenskih raziskovalcev v tujini v luči kroženja znanja ](https://krog.sta.si/2711367/simpozij-slovenskih-raziskovalcev-v-tujini-v-luci-krozenja-znanja)
+> - **Slovenska tiskovna agencija (STA) - Znanost:** (1/2) [V Ljubljani 4. simpozij slovenskih raziskovalcev v tujini](http://znanost.sta.si/2710199/v-ljubljani-4-simpozij-slovenskih-raziskovalcev-v-tujini)
+> - **Slovenska tiskovna agencija (STA) - Znanost:** (2/2) [Simpozij slovenskih raziskovalcev v tujini v luči kroženja znanja ](http://znanost.sta.si/2711367/simpozij-slovenskih-raziskovalcev-v-tujini-v-luci-krozenja-znanja)
 > - **Karierni centri Univerze v Ljubljani:** [4. simpozij slovenskih raziskovalcev v tujini](https://kc.uni-lj.si/novice/4-simpozij-slovenskih-raziskovalcev-v-tujini.html)
 > - **CNVOS:** [4. simpozij slovenskih raziskovalcev v tujini](https://www.cnvos.si/aktualno/3410/4-simpozij-slovenskih-raziskovalcev-v-tujini/)
 > - **Eurydice Slovenija:** [Po 4. simpoziju slovenskih raziskovalcev v tujini](http://www.eurydice.si/novice/zadnje-novice/po-4-simpoziju-slovenskih-raziskovalcev-v-tujini/)
