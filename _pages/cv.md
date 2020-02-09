@@ -17,7 +17,7 @@ Date and place of birth: March, 1991, Ljubljana, Slovenia
 Education
 ======
 
-_May-June 2015_<br/> 
+_April-May 2015_<br/> 
 **Visiting scientist**<br/> 
 Naval Postgraduate School, Monterey, California<br/> 
 Department of Meteorology, Prof. Dr. Michael Montgomery
