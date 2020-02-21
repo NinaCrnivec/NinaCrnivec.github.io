@@ -17,14 +17,11 @@ Featured also in:
 **Meteorolog.si**: [Metina lista: Intervju z meteorologinjo Nino Črnivec](http://meteorolog.si/index.php/2020/02/03/metina-lista-intervju-z-meteorologinjo-nino-crnivec/) (02/2020) <br/> 
 
 * [SL] [Invited Talk], “4. simpozij slovenskih raziskovalcev v tujini” (4. Symposium of Slovene Researchers Abroad), event organized by “Društvo v tujini izobraženih Slovencev (Društvo VTIS) in Ministrstvo za izobraževanje, znanost in šport” (Association of Slovenes Educated Abroad and Ministry of Education, Science and Sport), Ljubljana, Slovenia. 
-More information & event media coverage (12/2019):
-> - **Društvo VTIS**: [4. simpozij slovenskih raziskovalcev v tujini](https://www.drustvovtis.si/4-simpozij-slovenskih-raziskovalcev-v-tujini/)
-> - **Republika Slovenija GOV.SI**: [4. simpozij slovenskih raziskovalcev v tujini](https://www.gov.si/dogodki/2019-12-23-4-simpozij-slovenskih-raziskovalcev-v-tujini/)
-> - **STA-Znanost** (1/2): [V Ljubljani 4. simpozij slovenskih raziskovalcev v tujini](http://znanost.sta.si/2710199/v-ljubljani-4-simpozij-slovenskih-raziskovalcev-v-tujini)
-> - **STA-Znanost** (2/2): [Simpozij slovenskih raziskovalcev v tujini v luči kroženja znanja ](http://znanost.sta.si/2711367/simpozij-slovenskih-raziskovalcev-v-tujini-v-luci-krozenja-znanja)
-> - **Karierni centri Univerze v Ljubljani:** [4. simpozij slovenskih raziskovalcev v tujini](https://kc.uni-lj.si/novice/4-simpozij-slovenskih-raziskovalcev-v-tujini.html)
-> - **CNVOS:** [4. simpozij slovenskih raziskovalcev v tujini](https://www.cnvos.si/aktualno/3410/4-simpozij-slovenskih-raziskovalcev-v-tujini/)
-> - **Eurydice Slovenija:** [Po 4. simpoziju slovenskih raziskovalcev v tujini](http://www.eurydice.si/novice/zadnje-novice/po-4-simpoziju-slovenskih-raziskovalcev-v-tujini/)
+More information & selected event media coverage (12/2019):
+[Društvo VTIS](https://www.drustvovtis.si/4-simpozij-slovenskih-raziskovalcev-v-tujini/),
+[Republika Slovenija GOV.SI](https://www.gov.si/dogodki/2019-12-23-4-simpozij-slovenskih-raziskovalcev-v-tujini/),
+[STA-Znanost](http://znanost.sta.si/2711367/simpozij-slovenskih-raziskovalcev-v-tujini-v-luci-krozenja-znanja),
+[Karierni centri Univerze v Ljubljani](https://kc.uni-lj.si/novice/4-simpozij-slovenskih-raziskovalcev-v-tujini.html)
 
 
 * [SL] "Pogovor o podnebnih spremembah" (Climate Change Debate) (11/2019):<br/> 
