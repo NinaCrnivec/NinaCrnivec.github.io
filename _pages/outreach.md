@@ -17,12 +17,11 @@ Featured also in:
 **Meteorolog.si**: [Metina lista: Intervju z meteorologinjo Nino Črnivec](http://meteorolog.si/index.php/2020/02/03/metina-lista-intervju-z-meteorologinjo-nino-crnivec/) (02/2020) <br/> 
 
 * [SL] [Invited Talk], “4. simpozij slovenskih raziskovalcev v tujini” (4. Symposium of Slovene Researchers Abroad), event organized by “Društvo v tujini izobraženih Slovencev (Društvo VTIS) in Ministrstvo za izobraževanje, znanost in šport” (Association of Slovenes Educated Abroad and Ministry of Education, Science and Sport), Ljubljana, Slovenia. 
-More information & selected event media coverage (12/2019):
+More information & selected event media coverage:
 [Društvo VTIS](https://www.drustvovtis.si/4-simpozij-slovenskih-raziskovalcev-v-tujini/),
 [Republika Slovenija GOV.SI](https://www.gov.si/dogodki/2019-12-23-4-simpozij-slovenskih-raziskovalcev-v-tujini/),
 [STA-Znanost](http://znanost.sta.si/2711367/simpozij-slovenskih-raziskovalcev-v-tujini-v-luci-krozenja-znanja),
-[Karierni centri Univerze v Ljubljani](https://kc.uni-lj.si/novice/4-simpozij-slovenskih-raziskovalcev-v-tujini.html)
-
+[Karierni centri Univerze v Ljubljani](https://kc.uni-lj.si/novice/4-simpozij-slovenskih-raziskovalcev-v-tujini.html) (12/2019) <br/> 
 
 * [SL] "Pogovor o podnebnih spremembah" (Climate Change Debate) (11/2019):<br/> 
 Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji _Zahteve slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje_: [Radio Študent - Znanost: Kako bomo blažili podnebne spremembe?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe?fbclid=IwAR2y3n6dfT9tYwNvE19qQpJQxxlx4NXMCNswiruB8Ier-CspBRPHdpXCQM4) [Hvala Radiu Študent za povabilo na intervju in še posebej Zarji Muršič za spretno manevriranje pogovora med štirimi po svetu razpršenimi znanstveniki! 🙂]
