@@ -9,19 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Personal Details
-======
+## Personal Details
+
 Date and place of birth: March, 1991, Ljubljana, Slovenia
 
-
-Education
-======
+## Education
 
 _April-May 2015_<br/> 
 **Visiting scientist**<br/> 
 Naval Postgraduate School, Monterey, California<br/> 
 Department of Meteorology, Prof. Dr. Michael Montgomery
-
 
 _2013-2015_<br/>
 **Master of Science in Meteorology**<br/> 
@@ -39,20 +36,20 @@ Faculty of Mathematics and Physics, University of Ljubljana, Slovenia<br/>
   * _2011-2012_ (3rd academic year of Bachelor of Science in Physics)<br/>
     Faculty of Mathematics and Natural Sciences, Technical University of Berlin, Germany
 
-Publications
-======
+## Publications
+
 See [Publications tab](https://ninacrnivec.github.io/publications/)
   
-Teaching
-======
+## Teaching
+
 See [Teaching tab](https://ninacrnivec.github.io/teaching/)
   
-Conferences, Workshops & Summer Schools
-======
+## Conferences, Workshops & Summer Schools
+
 See [Events tab](https://ninacrnivec.github.io/events/)
   
-Awards & Scholarships
-======   
+## Awards & Scholarships
+
 * National Excellence Scholarship Ad Futura for students studying abroad, awarded by the Slovene Human Resources Development and Scholarship Fund (2013 – 2015)
 * Erasmus Grant for studying abroad (2011 – 2012)
 * Zois Scholarship for distinctly talented students, awarded by the Slovene Human Resources Development and Scholarship Fund (entire secondary school and university studying period in Slovenia: 2005 – 2013)
@@ -61,8 +58,8 @@ Awards & Scholarships
 * Gold Award at 51th National Mathematics Competition of Slovenia (2007)
 * Silver Awards at 50th and 51th National Mathematics Competitions of Slovenia (2006, 2007)
   
-Membership
-======
+## Membership
+
 * Member of [“Slovensko meteorološko društvo (SMD)”](http://www.smd.v-izdelavi.si/domov/) (Slovenian Meteorological Society)
 * Member of ["Društvo v tujini izobraženih Slovencev (Društvo VTIS)"](https://www.drustvovtis.si/) (Association of Slovenes Educated Abroad) 
 * Member of ["Mlada Akademija (MA) – Društvo doktorskih študentov in raziskovalcev na začetku kariere"](https://www.mladaakademija.si/) (The Young Academy of Slovenia – Society of Doctoral Students and Young Researchers) 
