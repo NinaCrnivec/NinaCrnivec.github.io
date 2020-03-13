@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education & Public Outreach 
 
-* Association of Slovenes Educated Abroad (VTIS) coverage: [Big Steps](https://www.facebook.com/dvtis/photos/a.1017215245070418/1956902154435051/?type=3&theater)
+* [SL/EN] [Big Steps](https://www.facebook.com/dvtis/photos/a.1017215245070418/1956902154435051/?type=3&theater) coverage by Association of Slovenes Educated Abroad (VTIS) (02/2020)
 
 * [SL] Interview about my PhD research on **Metina lista**: [Meta PHoDcast 107: Nina Črnivec, meteorologinja](https://metinalista.si/meta-phodcast-107-nina-crnivec-meteorologinja/) (01/2020)<br/> 
 Featured also in **Meteorolog.si**: [Metina lista: Intervju z meteorologinjo Nino Črnivec](http://meteorolog.si/index.php/2020/02/03/metina-lista-intervju-z-meteorologinjo-nino-crnivec/) (02/2020)<br/> 
