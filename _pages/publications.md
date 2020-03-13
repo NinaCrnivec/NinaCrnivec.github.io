@@ -13,7 +13,7 @@ _In preparation_
 
 Montgomery, M. T., Kilroy, G., Smith, R. K., and **Črnivec, N.**: Contribution of mean and eddy momentum processes to tropical cyclone intensification. Submitted to Quart. J. Roy. Meteor. Soc. (01/2020)
 
-<font color="DarkMagenta"><b>_2019_</b></font>
+<font color="DarkMagenta"><b><i>2019</i></b></font>
 
 [SL] Zaplotnik, Ž., Boljka, L., **Črnivec, N.**, and Slameršak, A. 2019: [Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje](https://www.researchgate.net/publication/337167123_Zahteva_slovenskih_raziskovalcev_za_sprejetje_takojsnjih_ukrepov_za_blazenje_podnebnih_sprememb_in_prilagajanje_nanje_Odprto_pismo_slovenski_vladi_13_pp_podpisano_s_strani_vec_kot_100_Slovenskih_znans). <em>Odprto pismo slovenski vladi</em>, 13 pp. [podpisano s strani več kot 100 Slovenskih znanstvenikov]. (A request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy. <em>An open letter to the Slovenian government</em> [signed by over 100 Slovenian scientists; includes English summary].)<br/>
 Media coverage [SL]:
