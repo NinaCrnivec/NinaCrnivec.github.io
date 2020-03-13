@@ -25,8 +25,6 @@ More information & selected event media coverage:
 
 * [SL] "Pogovor o podnebnih spremembah" (Climate Change Debate) (11/2019):<br/> 
 
-![https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe?fbclid=IwAR2y3n6dfT9tYwNvE19qQpJQxxlx4NXMCNswiruB8Ier-CspBRPHdpXCQM4](/photos/L_RadioStudent2019.png)<br/> 
-
 Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji _Zahteve slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje_: [Radio Študent - Znanost: Kako bomo blažili podnebne spremembe?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe?fbclid=IwAR2y3n6dfT9tYwNvE19qQpJQxxlx4NXMCNswiruB8Ier-CspBRPHdpXCQM4) _Hvala Radiu Študent za povabilo na intervju in še posebej Zarji Muršič za spretno manevriranje pogovora med štirimi po svetu razpršenimi znanstveniki!_ 🙂
 
 * [SL] Our "Request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy" (joint work with [Žiga Zaplotnik](https://zaplotnik.github.io/), [Lina Boljka](https://lina-boljka.github.io/) and [Aljoša Slameršak](https://ictaweb.uab.cat/personal_detail.php?id=4088)) has received extensive media coverage (11/2019, 12/2019):
