@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-_2020_
+<font color="DarkMagenta"><b><i>2020</i></b></font>
 
 _In preparation_
 
@@ -46,12 +46,12 @@ Answer from the government [SL]: <a href="http://ninacrnivec.github.io/files/002
 
 **Črnivec, N.** and Mayer, B.: Quantifying the bias of radiative heating rates in numerical weather prediction models for shallow cumulus clouds. Atmos. Chem. Phys., 19, 8083-8100, [https://doi.org/10.5194/acp-19-8083-2019](https://doi.org/10.5194/acp-19-8083-2019), 2019. 
 
-_2016_
+<font color="DarkMagenta"><b><i>2016</i></b></font>
 
 **Črnivec, N.** and Smith, R. K.: Mean radiosonde soundings for the Australian monsoon/cyclone season. Intern. J. Clim., 37, 66-78, [https://doi.org/10.1002/joc.4687](https://doi.org/10.1002/joc.4687), 2016.
 
 **Črnivec, N.**, Smith, R. K., and Kilroy, G.: Dependence of tropical cyclone intensification rate on sea surface temperature. Quart. J. Roy. Meteor. Soc., 142, 1618-1627, [https://doi.org/10.1002/qj.2752](https://doi.org/10.1002/qj.2752), 2016.
 
-_2015_
+<font color="DarkMagenta"><b><i>2015</i></b></font>
 
 **Črnivec, N.**: Dependence of tropical cyclone intensification on latitude and sea surface temperature. Master thesis, Ludwig-Maximilians University of Munich, September 2015.
