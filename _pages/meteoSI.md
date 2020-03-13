@@ -21,12 +21,10 @@ Meteorology Studies & Research at University of Ljubljana:
 
 [Katedra za meteorologijo](https://meteo.fmf.uni-lj.si/) / [Meteorology Group](https://meteo.fmf.uni-lj.si/en/node)
 
-Spletna platforma o vremenu in klimi:
+Slovenian weather and climate portal:
 [Meteorolog.si](http://meteorolog.si/)
 
 Stunning weather photography by a Slovenian storm chaser: [Marko Korošec Weather Photograpy](http://www.markokorosec.net/)
-
-[Neurje.si](http://neurje.si/)
 
 [Meteoalarm for Slovenia](https://www.meteoalarm.eu/sl_SI/0/0/SI-Slovenija.html)
 
