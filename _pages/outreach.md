@@ -14,7 +14,7 @@ redirect_from:
 * [SL] Interview about my PhD research on **Metina lista**: [Meta PHoDcast 107: Nina Črnivec, meteorologinja](https://metinalista.si/meta-phodcast-107-nina-crnivec-meteorologinja/) (01/2020)<br/> 
 Featured also in **Meteorolog.si**: [Metina lista: Intervju z meteorologinjo Nino Črnivec](http://meteorolog.si/index.php/2020/02/03/metina-lista-intervju-z-meteorologinjo-nino-crnivec/) (02/2020)<br/> 
 
-* [SL] [Invited Talk], [4. Symposium of Slovene Researchers Abroad](https://www.drustvovtis.si/4-simpozij-slovenskih-raziskovalcev-v-tujini/), event organized by Association of Slovenes Educated Abroad (VTIS) and Ministry of Education, Science and Sport, Ljubljana, Slovenia (12/2019)<br/>  
+* [SL] [Invited Talk], [4. Symposium of Slovene Researchers Abroad](https://www.drustvovtis.si/4-simpozij-slovenskih-raziskovalcev-v-tujini/), event organized by Association of Slovenes Educated Abroad (VTIS) and Ministry of Education, Science and Sport, Ljubljana, Slovenia (12/2019)  
 _More information & selected event media coverage:_
 [Društvo VTIS](https://www.drustvovtis.si/za-nami-ze-4-simpozij-slovenskih-raziskovalcev-v-tujini/),
 [Republika Slovenija gov.si](https://www.gov.si/dogodki/2019-12-23-4-simpozij-slovenskih-raziskovalcev-v-tujini/),
