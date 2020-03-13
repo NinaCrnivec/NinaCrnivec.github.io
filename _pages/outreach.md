@@ -14,16 +14,15 @@ redirect_from:
 * [SL] Interview about my PhD research on **Metina lista**: [Meta PHoDcast 107: Nina Črnivec, meteorologinja](https://metinalista.si/meta-phodcast-107-nina-crnivec-meteorologinja/) (01/2020)<br/> 
 Featured also in **Meteorolog.si**: [Metina lista: Intervju z meteorologinjo Nino Črnivec](http://meteorolog.si/index.php/2020/02/03/metina-lista-intervju-z-meteorologinjo-nino-crnivec/) (02/2020)<br/> 
 
-* [SL] [Invited Talk], [4. Symposium of Slovene Researchers Abroad](https://www.drustvovtis.si/4-simpozij-slovenskih-raziskovalcev-v-tujini/), event organized by Association of Slovenes Educated Abroad (VTIS) and Ministry of Education, Science and Sport, Ljubljana, Slovenia. 
-More information & selected event media coverage:
+* [SL] [Invited Talk], [4. Symposium of Slovene Researchers Abroad](https://www.drustvovtis.si/4-simpozij-slovenskih-raziskovalcev-v-tujini/), event organized by Association of Slovenes Educated Abroad (VTIS) and Ministry of Education, Science and Sport, Ljubljana, Slovenia (12/2019). 
+_More information & selected event media coverage:_
 [Društvo VTIS](https://www.drustvovtis.si/za-nami-ze-4-simpozij-slovenskih-raziskovalcev-v-tujini/),
 [Republika Slovenija gov.si](https://www.gov.si/dogodki/2019-12-23-4-simpozij-slovenskih-raziskovalcev-v-tujini/),
 [STA-Znanost](http://znanost.sta.si/2711367/simpozij-slovenskih-raziskovalcev-v-tujini-v-luci-krozenja-znanja),
-[Karierni centri Univerze v Ljubljani](https://kc.uni-lj.si/novice/4-simpozij-slovenskih-raziskovalcev-v-tujini.html) (12/2019)<br/> 
+[Karierni centri Univerze v Ljubljani](https://kc.uni-lj.si/novice/4-simpozij-slovenskih-raziskovalcev-v-tujini.html)<br/> 
 
 * [SL] Interview on "Radio Študent - Science: How shall we mitigate climate change?" (11/2019):<br/> 
-Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji _Zahteve slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje_:<br/> 
-[Radio Študent - Znanost: Kako bomo blažili podnebne spremembe?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe?fbclid=IwAR2y3n6dfT9tYwNvE19qQpJQxxlx4NXMCNswiruB8Ier-CspBRPHdpXCQM4) _Hvala Radiu Študent za povabilo na intervju in še posebej Zarji Muršič za spretno manevriranje pogovora med štirimi po svetu razpršenimi znanstveniki!_ 🙂
+Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji _Zahteve slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje_: [Radio Študent - Znanost: Kako bomo blažili podnebne spremembe?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe?fbclid=IwAR2y3n6dfT9tYwNvE19qQpJQxxlx4NXMCNswiruB8Ier-CspBRPHdpXCQM4) _Hvala Radiu Študent za povabilo na intervju in še posebej Zarji Muršič za spretno manevriranje pogovora med štirimi po svetu razpršenimi znanstveniki!_ 🙂
 
 * [SL] Our "Request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy" (joint work with [Žiga Zaplotnik](https://zaplotnik.github.io/), [Lina Boljka](https://lina-boljka.github.io/) and [Aljoša Slameršak](https://ictaweb.uab.cat/personal_detail.php?id=4088)) has received extensive media coverage (11/2019, 12/2019):
 > - **RTV-SLO (MMC):** [Znanstveniki: Slovenija ne kaže pripravljenosti, da bi se na podnebne spremembe odločno odzvala](https://www.rtvslo.si/okolje/novice/znanstveniki-slovenija-ne-kaze-pripravljenosti-da-bi-se-na-podnebne-spremembe-odlocno-odzvala/504612?fbclid=IwAR2Px1cLtDykMJxNszkG6MI1QDOM2LneGWqK70LchAvEST9RBr_VWVjM-7Y)<br/> 
