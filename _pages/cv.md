@@ -28,7 +28,7 @@ _Supervisor: Prof. Dr. Roger K. Smith_
 
 _2011-2014_<br/>
 **Bachelor of Science in Meteorology with Geophysics**<br/>
-Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
+Faculty of Mathematics and Physics, University of Ljubljana, Slovenia<br/> 
 _Bachelor's Seminar title: North Atlantic Oscillation_<br/> 
 _Supervisor: Prof. Dr. Nedjeljka Žagar_
 
