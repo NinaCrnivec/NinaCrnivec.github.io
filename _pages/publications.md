@@ -11,7 +11,9 @@ _In preparation_
 
 [SL] Bela knjiga o strokovnem varovanju okolja [White paper on environment protection], 80 pp.; editors: M. Gams, L. Globevnik, M. Horvat, F. Lobnik, T. L. Turnšek, A. Zidanšek; authors: L. Boljka, M. Z. Božnar, M. B. Jager, A. Čas, **N. Črnivec**, M. Gams, M. Debeljak, L. Globevnik, B. Grašič, A. Hace, M. Horvat, T. Horvat, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štubelj, A. Šubic, B. Tomažič, T. L. Turnšek, A. V. Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, T. Žagar.
 
-Montgomery, M. T., Kilroy, G., Smith, R. K., and **Črnivec, N.**: Contribution of mean and eddy momentum processes to tropical cyclone intensification. Submitted to Quart. J. Roy. Meteor. Soc. (01/2020)
+Montgomery, M. T., Kilroy, G., Smith, R. K., and **Črnivec, N.**: Contribution of mean and eddy momentum processes to tropical cyclone intensification. Submitted to Quart. J. Roy. Meteor. Soc., 2020.
+
+**Črnivec, N.** and Mayer, B.: The incorporation of the Tripleclouds concept into the δ-Eddington two-stream radiation scheme: solver characterization and its application to shallow cumulus clouds. Atmos. Chem. Phys. Discuss. [https://doi.org/10.5194/acp-2020-334](https://doi.org/10.5194/acp-2020-334), in review, 2020. 
 
 <font color="DarkMagenta"><b><i>2019</i></b></font>
 
