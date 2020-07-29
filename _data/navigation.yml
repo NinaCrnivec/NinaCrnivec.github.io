@@ -21,8 +21,8 @@ main:
   - title: "Outreach"
     url: /outreach/  
     
-  - title: "Blog"
-    url: /year-archive/
+  #- title: "Blog"
+  #  url: /year-archive/
     
   - title: "MeteoSI"
     url: /meteoSI/ 
