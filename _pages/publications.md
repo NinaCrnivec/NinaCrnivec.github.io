@@ -9,11 +9,13 @@ author_profile: true
 
 _In preparation_
 
-[SL] Bela knjiga o strokovnem varovanju okolja [White paper on environment protection], 80 pp.; editors: M. Gams, L. Globevnik, M. Horvat, F. Lobnik, T. L. Turnšek, A. Zidanšek; authors: L. Boljka, M. Z. Božnar, M. B. Jager, A. Čas, **N. Črnivec**, M. Gams, M. Debeljak, L. Globevnik, B. Grašič, A. Hace, M. Horvat, T. Horvat, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štubelj, A. Šubic, B. Tomažič, T. L. Turnšek, A. V. Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, T. Žagar.
-
-Montgomery, M. T., Kilroy, G., Smith, R. K., and **Črnivec, N.**: Contribution of mean and eddy momentum processes to tropical cyclone intensification. Submitted to Quart. J. Roy. Meteor. Soc., 2020.
+<font color="DarkMagenta"><b><i>2020</i></b></font>
 
 **Črnivec, N.** and Mayer, B.: The incorporation of the Tripleclouds concept into the δ-Eddington two-stream radiation scheme: solver characterization and its application to shallow cumulus clouds. Atmos. Chem. Phys. Discuss. [https://doi.org/10.5194/acp-2020-334](https://doi.org/10.5194/acp-2020-334), in review, 2020. 
+
+Montgomery, M. T., Kilroy, G., Smith, R. K., and **Črnivec, N.**: Contribution of mean and eddy momentum processes to tropical cyclone intensification. Quart. J. Roy. Meteor. Soc., [https://doi.org/10.1002/qj.3837](https://doi.org/10.1002/qj.3837), in press, 2020.
+
+[SL] Gams, M., **N. Črnivec**, L. Globevnik, S. Pejovnik, Ž. Zaplotnik, A. Zidanšek (editors), 2020: Bela knjiga o strokovnem varovanju okolja [White paper on environment protection]. Jožef Stefan Institute, Ljubljana, 160 pp. Authors: L. Boljka, M. Z. Božnar, M. Brnič Jager, B. Brudar, A. Čas, N. Črnivec, M. Debeljak, M. Gams, P. Glavič, L. Globevnik, B. Grašič, F. Gubina, A. Hace, T. Horvat, M. Jeran, L. Kozlovič, A. Krainer, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, B. Orel, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štrubelj, A. Šubic, J. Tasič, B. Tomažič, A. Vovk Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, D. Zupančič, T. Žagar.
 
 <font color="DarkMagenta"><b><i>2019</i></b></font>
 
