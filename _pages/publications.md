@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<font color="DarkMagenta"><b><i>2020</i></b></font>
-
 _In preparation_
 
 <font color="DarkMagenta"><b><i>2020</i></b></font>
@@ -15,7 +13,7 @@ _In preparation_
 
 Montgomery, M. T., Kilroy, G., Smith, R. K., and **Črnivec, N.**: Contribution of mean and eddy momentum processes to tropical cyclone intensification. Quart. J. Roy. Meteor. Soc., [https://doi.org/10.1002/qj.3837](https://doi.org/10.1002/qj.3837), in press, 2020.
 
-[SL] Gams, M., **N. Črnivec**, L. Globevnik, S. Pejovnik, Ž. Zaplotnik, A. Zidanšek (editors), 2020: Bela knjiga o strokovnem varovanju okolja [White paper on environment protection]. Jožef Stefan Institute, Ljubljana, 160 pp. Authors: L. Boljka, M. Z. Božnar, M. Brnič Jager, B. Brudar, A. Čas, N. Črnivec, M. Debeljak, M. Gams, P. Glavič, L. Globevnik, B. Grašič, F. Gubina, A. Hace, T. Horvat, M. Jeran, L. Kozlovič, A. Krainer, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, B. Orel, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štrubelj, A. Šubic, J. Tasič, B. Tomažič, A. Vovk Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, D. Zupančič, T. Žagar.
+[SL] Gams, M., **N. Črnivec**, L. Globevnik, S. Pejovnik, Ž. Zaplotnik, A. Zidanšek (editors), 2020: Bela knjiga o strokovnem varovanju okolja [White paper on environment protection]. Jožef Stefan Institute, Ljubljana, 160 pp. Authors: L. Boljka, M. Z. Božnar, M. Brnič Jager, B. Brudar, A. Čas, **N. Črnivec**, M. Debeljak, M. Gams, P. Glavič, L. Globevnik, B. Grašič, F. Gubina, A. Hace, T. Horvat, M. Jeran, L. Kozlovič, A. Krainer, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, B. Orel, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štrubelj, A. Šubic, J. Tasič, B. Tomažič, A. Vovk Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, D. Zupančič, T. Žagar.
 
 <font color="DarkMagenta"><b><i>2019</i></b></font>
 
