@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education & Public Outreach 
 
-* [SL] Podcast interview about studying and researching meteorology in Slovenia and abroad, ARSO podcast: ['Intervju z meteorologinjo Nino Črnivec'] (http://www.meteo.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20200520_ep040.mp3) (05/2020)
+* [SL] Podcast interview about studying and researching meteorology in Slovenia and abroad, **ARSO podcast**: ['Intervju z meteorologinjo Nino Črnivec'](http://www.meteo.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20200520_ep040.mp3) (05/2020)
 
 * [SL/EN] [Big Steps](https://www.facebook.com/dvtis/photos/a.1017215245070418/1956902154435051/?type=3&theater) coverage by Association of Slovenes Educated Abroad (VTIS) (02/2020)
 
