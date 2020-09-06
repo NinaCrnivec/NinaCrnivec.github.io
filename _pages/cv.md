@@ -28,11 +28,13 @@ Faculty of Mathematics and Physics, University of Ljubljana, Slovenia<br/>
 _Bachelor's Seminar title: North Atlantic Oscillation_<br/> 
 _Supervisor: Prof. Dr. Nedjeljka Žagar_
 
+_2011-2012_ (3rd academic year of Bachelor of Science in Physics)<br/>
+Faculty of Mathematics and Natural Sciences, Technical University of Berlin, Germany
+
 _2009-2013_<br/>
 **Bachelor of Science in Physics**<br/>
 Faculty of Mathematics and Physics, University of Ljubljana, Slovenia<br/>
-  * _2011-2012_ (3rd academic year of Bachelor of Science in Physics)<br/>
-    Faculty of Mathematics and Natural Sciences, Technical University of Berlin, Germany
+
 
 ## Publications
 
