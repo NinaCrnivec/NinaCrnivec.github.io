@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-_In preparation_
-
 <font color="DarkMagenta"><b><i>2020</i></b></font>
+
+**Črnivec, N.** and Mayer, B.: Towards improved treatment of cloud-radiation interaction in weather and climate models: exploring the potential of the Tripleclouds method for various cloud types. Submitted to Geosci. Model. Dev., 2020. 
 
 **Črnivec, N.** and Mayer, B.: The incorporation of the Tripleclouds concept into the δ-Eddington two-stream radiation scheme: solver characterization and its application to shallow cumulus clouds. Atmos. Chem. Phys. Discuss. [https://doi.org/10.5194/acp-2020-334](https://doi.org/10.5194/acp-2020-334), in review, 2020. 
 
