@@ -7,9 +7,10 @@ author_profile: true
 
 <font color="DarkMagenta"><b><i>2020</i></b></font>
 
+
 **Črnivec, N.** and B. Mayer: Towards improved treatment of cloud-radiation interaction in weather and climate models: exploring the potential of the Tripleclouds method for various cloud types. Submitted to Geosci. Model. Dev., 2020. 
 
-**Črnivec, N.** and B. Mayer: The incorporation of the Tripleclouds concept into the δ-Eddington two-stream radiation scheme: solver characterization and its application to shallow cumulus clouds. Atmos. Chem. Phys. Discuss. [https://doi.org/10.5194/acp-2020-334](https://doi.org/10.5194/acp-2020-334), in review, 2020. 
+**Črnivec, N.** and B. Mayer: The incorporation of the Tripleclouds concept into the δ-Eddington two-stream radiation scheme: solver characterization and its application to shallow cumulus clouds. Atmos. Chem. Phys. 20, 10733–10755, [https://doi.org/10.5194/acp-20-10733-2020](https://doi.org/10.5194/acp-20-10733-2020), 2020. 
 
 **Črnivec, N.**, B. Strajnar, N. Pristov, and J. Cedilnik: Preparation of ECMWF LBCs for RC LACE: spectral analysis. ALADIN-HIRLAM Newsletter, 15, 73-76, 2020.
 
