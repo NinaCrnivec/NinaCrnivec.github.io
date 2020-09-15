@@ -15,13 +15,17 @@ redirect_from:
 
 * [SL/EN] [Big Steps](https://www.facebook.com/dvtis/photos/a.1017215245070418/1956902154435051/?type=3&theater) coverage by Association of Slovenes Educated Abroad (VTIS) (02/2020)
 
-* [SL] Podcast interview about my PhD research, **Metina lista**: [Meta PHoDcast 107: Nina Črnivec, meteorologinja](https://metinalista.si/meta-phodcast-107-nina-crnivec-meteorologinja/) (01/2020), featured also at Meteorolog.si: [Metina lista: Intervju z meteorologinjo Nino Črnivec](http://meteorolog.si/index.php/2020/02/03/metina-lista-intervju-z-meteorologinjo-nino-crnivec/) (02/2020)<br/> 
+* [SL] Podcast interview about my PhD research, **Metina lista**: [Meta PHoDcast 107: Nina Črnivec, meteorologinja](https://metinalista.si/meta-phodcast-107-nina-crnivec-meteorologinja/) (01/2020), @Meteorolog.si: [Metina lista: Intervju z meteorologinjo Nino Črnivec](http://meteorolog.si/index.php/2020/02/03/metina-lista-intervju-z-meteorologinjo-nino-crnivec/)<br/> 
 
-* [SL] Invited talk and panel discussion, [4. Symposium of Slovene Researchers Abroad (Climate Change Panel)](https://www.drustvovtis.si/4-simpozij-slovenskih-raziskovalcev-v-tujini/), event organized by Association of Slovenes Educated Abroad (VTIS) and Ministry of Education, Science and Sport, Ljubljana, Slovenia (12/2019) _More information & event media coverage:_
+* [SL] Invited talk and panel discussion, [4. Symposium of Slovene Researchers Abroad (Climate Change Panel)](https://www.drustvovtis.si/4-simpozij-slovenskih-raziskovalcev-v-tujini/) organized by Association of Slovenes Educated Abroad (VTIS) and Ministry of Education, Science and Sport, Ljubljana, Slovenia (12/2019) 
+
+<!-- 
+_More information & event media coverage:_
 [Društvo VTIS](https://www.drustvovtis.si/za-nami-ze-4-simpozij-slovenskih-raziskovalcev-v-tujini/),
 [Republika Slovenija gov.si](https://www.gov.si/dogodki/2019-12-23-4-simpozij-slovenskih-raziskovalcev-v-tujini/),
 [STA-Znanost](http://znanost.sta.si/2711367/simpozij-slovenskih-raziskovalcev-v-tujini-v-luci-krozenja-znanja),
 [Karierni centri Univerze v Ljubljani](https://kc.uni-lj.si/novice/4-simpozij-slovenskih-raziskovalcev-v-tujini.html)<br/> 
+-->
 
 * [SL] Radio interview on 'Radio Študent - Science: How shall we mitigate climate change?' (11/2019):<br/> 
 Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji _Zahteve slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje_: [Radio Študent - Znanost: Kako bomo blažili podnebne spremembe?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe?fbclid=IwAR2y3n6dfT9tYwNvE19qQpJQxxlx4NXMCNswiruB8Ier-CspBRPHdpXCQM4) _Hvala Radiu Študent za povabilo na intervju in še posebej Zarji Muršič za spretno manevriranje pogovora med štirimi po svetu razpršenimi znanstveniki!_ 🙂
