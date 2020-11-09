@@ -28,13 +28,11 @@ Faculty of Mathematics and Physics, University of Ljubljana, Slovenia<br/>
 _Bachelor's Seminar title: North Atlantic Oscillation_<br/> 
 _Supervisor: Prof. Dr. Nedjeljka Žagar_
 
-_2011-2012_ (3rd academic year of Bachelor of Science in Physics)<br/>
-Faculty of Mathematics and Natural Sciences, Technical University of Berlin, Germany
-
 _2009-2013_<br/>
 **Bachelor of Science in Physics**<br/>
 Faculty of Mathematics and Physics, University of Ljubljana, Slovenia<br/>
-
+3rd academic year (_2011-2012_) abroad:
+Faculty of Mathematics and Natural Sciences, Technical University of Berlin, Germany
 
 ## Publications
 
@@ -50,6 +48,7 @@ See [Events tab](https://ninacrnivec.github.io/events/)
   
 ## Awards & Scholarships
 * **European Meteorological Society Media Award:** [Outreach and Communication Award](https://www.emetsoc.org/oc2020-for-rescccue-slovenia/) (together with Dr. Žiga Zaplotnik, Dr. Lina Boljka and Aljoša Slameršak) for the self-initiated ongoing project **["RESCCCUE – REminding Slovenian authorities Climate Change Crisis requires Urgent Effort"](https://www.emetsoc.org/wp-content/uploads/2020/06/oc2020_RESCCCUE_project-description.pdf)** (2020)
+* Ph.D. fellowship for the project "B4 – Radiative heating and cooling at cloud scale and its impact on dynamics" within Transregional Collaborative Research Center SFB/TRR 165 Waves To Weather (W2W) funded by German Research Foundation (2016 – 2019)
 * Travel Grant for one-month scientific stay at Naval Postgraduate School, California (2015)
 * National Excellence Scholarship Ad Futura for students studying abroad, awarded by the Slovene Human Resources Development and Scholarship Fund (2013 – 2015)
 * Erasmus Grant for studying abroad (2011 – 2012)
