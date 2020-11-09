@@ -14,7 +14,7 @@ author_profile: true
 
 **Črnivec, N.**, B. Strajnar, N. Pristov, and J. Cedilnik: Preparation of ECMWF LBCs for RC LACE: spectral analysis. ALADIN-HIRLAM Newsletter, 15, 73-76, 2020.
 
-Montgomery, M. T., G. Kilroy, R. K. Smith, and **N. Črnivec**: Contribution of mean and eddy momentum processes to tropical cyclone intensification. Quart. J. Roy. Meteor. Soc., [https://doi.org/10.1002/qj.3837](https://doi.org/10.1002/qj.3837), in press, 2020.
+Montgomery, M. T., G. Kilroy, R. K. Smith, and **N. Črnivec**: Contribution of mean and eddy momentum processes to tropical cyclone intensification. Quart. J. Roy. Meteor. Soc. 146, 3101-3117, [https://doi.org/10.1002/qj.3837](https://doi.org/10.1002/qj.3837), 2020.
 
 [SL] Gams, M., **N. Črnivec**, L. Globevnik, S. Pejovnik, Ž. Zaplotnik, A. Zidanšek (editors), 2020: [Bela knjiga o strokovnem varovanju okolja (White paper on environment protection)](http://library.ijs.si/Stacks/Literature/Bela%20knjiga%20znanost%20o%20okolju%202020.pdf). Jožef Stefan Institute, Ljubljana, 160 pp. Authors: L. Boljka, M. Z. Božnar, M. Brnič Jager, B. Brudar, A. Čas, **N. Črnivec**, M. Debeljak, M. Gams, P. Glavič, L. Globevnik, B. Grašič, F. Gubina, A. Hace, T. Horvat, M. Jeran, L. Kozlovič, A. Krainer, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, B. Orel, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štrubelj, A. Šubic, J. Tasič, B. Tomažič, A. Vovk Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, D. Zupančič, T. Žagar.
 
