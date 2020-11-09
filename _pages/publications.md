@@ -15,13 +15,13 @@ Montgomery, M. T., G. Kilroy, R. K. Smith and **N. Črnivec**: Contribution of m
 
 **Črnivec, N.** and B. Mayer: Quantifying the bias of radiative heating rates in numerical weather prediction models for shallow cumulus clouds. _Atmos. Chem. Phys._, 19, 8083-8100, [https://doi.org/10.5194/acp-19-8083-2019](https://doi.org/10.5194/acp-19-8083-2019), 2019. 
 
-**Črnivec, N.** and R. K. Smith: Mean radiosonde soundings for the Australian monsoon/cyclone season. Intern. _J. Clim._, 37, 66-78, [https://doi.org/10.1002/joc.4687](https://doi.org/10.1002/joc.4687), 2016.
+**Črnivec, N.** and R. K. Smith: Mean radiosonde soundings for the Australian monsoon/cyclone season. _Intern. J. Clim._, 37, 66-78, [https://doi.org/10.1002/joc.4687](https://doi.org/10.1002/joc.4687), 2016.
 
 **Črnivec, N.**, R. K. Smith and G. Kilroy: Dependence of tropical cyclone intensification rate on sea surface temperature. Quart. J. Roy. Meteor. Soc., 142, 1618-1627, [https://doi.org/10.1002/qj.2752](https://doi.org/10.1002/qj.2752), 2016.
 
 <font color="DarkMagenta"><b><i>Open letter</i></b></font>
 
-[In Slovene] Zaplotnik, Ž., L. Boljka, **N. Črnivec** and A. Slameršak. 2019: [Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje](https://www.researchgate.net/publication/337167123_Zahteva_slovenskih_raziskovalcev_za_sprejetje_takojsnjih_ukrepov_za_blazenje_podnebnih_sprememb_in_prilagajanje_nanje_Odprto_pismo_slovenski_vladi_13_pp_podpisano_s_strani_vec_kot_100_Slovenskih_znans). <em>Odprto pismo slovenski vladi</em>, 13 pp. [podpisano s strani več kot 100 Slovenskih znanstvenikov]. (A request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy. <em>An open letter to the Slovenian government</em> [signed by over 100 Slovenian scientists; includes English summary].) <a href="http://ninacrnivec.github.io/files/00206BBAC913191209121909.pdf">Answer from the government</a>. Media coverage:
+[In Slovene] Zaplotnik, Ž., L. Boljka, **N. Črnivec** and A. Slameršak, 2019: [Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje](https://www.researchgate.net/publication/337167123_Zahteva_slovenskih_raziskovalcev_za_sprejetje_takojsnjih_ukrepov_za_blazenje_podnebnih_sprememb_in_prilagajanje_nanje_Odprto_pismo_slovenski_vladi_13_pp_podpisano_s_strani_vec_kot_100_Slovenskih_znans). <em>Odprto pismo slovenski vladi</em>, 13 pp. [podpisano s strani več kot 100 Slovenskih znanstvenikov]. (A request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy. <em>An open letter to the Slovenian government</em> [signed by over 100 Slovenian scientists; includes English summary].) <a href="http://ninacrnivec.github.io/files/00206BBAC913191209121909.pdf">Answer from the government</a>. Media coverage:
 [RTV-SLO](https://www.rtvslo.si/okolje/novice/znanstveniki-slovenija-ne-kaze-pripravljenosti-da-bi-se-na-podnebne-spremembe-odlocno-odzvala/504612?fbclid=IwAR2Px1cLtDykMJxNszkG6MI1QDOM2LneGWqK70LchAvEST9RBr_VWVjM-7Y),
 [24ur](https://www.24ur.com/novice/slovenija/razocarani-slovenski-znanstveniki-politiki-se-ne-zavedajo-resnosti-problema.html),
 [Dnevnik](https://www.dnevnik.si/1042913601/slovenija/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb),
@@ -47,8 +47,7 @@ Montgomery, M. T., G. Kilroy, R. K. Smith and **N. Črnivec**: Contribution of m
 [Radio Študent](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe),
 [Radio Rai Furlanija Julijska Krajina](http://www.rai.it/dl/portali/site/articolo/ContentItem-99a019aa-ca1e-4865-b5e0-bc047ac1bab4.html).
 
-[In Slovene] Boljka, L., Ž. Zaplotnik, A. Slameršak and **N. Črnivec**, 2020: Comments and suggestions on the draft of the Slovenian long-term climate change strategy. _A letter to the Slovenian Ministry for the Environment_, 2 pp. [SLO] Media: OE Finance, Meteorolog.si, Globus, Luka Omladič Blog.
-
+[In Slovene] Boljka, L., Ž. Zaplotnik, A. Slameršak and **N. Črnivec**, 2020: Comments and suggestions on the draft of the Slovenian long-term climate change strategy. _A letter to the Slovenian Ministry for the Environment_. Media: [OE Finance](https://oe.finance.si/8966414/(prejeli-smo)-Predlog-raziskovalcev-za-spremembe-osnutka-podnebne-strategije?cctest&), [Meteorolog.si](http://meteorolog.si/index.php/2020/10/01/opozorilo-na-premajhno-ambicioznost-osnutka-dolgorocne-podnebne-strategije-slovenije/), [Globus](https://4d.rtvslo.si/arhiv/globus/174722022).
 
 <font color="DarkMagenta"><b><i>White paper</i></b></font>
 
@@ -64,6 +63,6 @@ Montgomery, M. T., G. Kilroy, R. K. Smith and **N. Črnivec**: Contribution of m
 
 <font color="DarkMagenta"><b><i>Others</i></b></font>
 
-Zaplotnik, Ž., L. Boljka, **N. Črnivec** and A. Slameršak, 2020: Climate change – open letter: A request by the Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy. _Vetrnica (Interesting facts)_, 12-13., 6-11.
+[In Slovene] Zaplotnik, Ž., L. Boljka, **N. Črnivec** and A. Slameršak: Climate change – open letter: A request by the Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy. _Vetrnica (Interesting facts)_, 12-13., 6-11, 2020.
 
 
