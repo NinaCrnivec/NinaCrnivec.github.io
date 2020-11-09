@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<font color="DarkMagenta"><b><i>Peer-reviewed journal articles</i></b></font>
+<font color="DarkCyan"><b><i>Peer-reviewed journal articles</i></b></font>
 
 **Črnivec, N.** and B. Mayer: Towards improved treatment of cloud-radiation interaction in weather and climate models: exploring the potential of the Tripleclouds method for various cloud types. _Submitted to Geosci. Model. Dev._, 2020. 
 
@@ -19,7 +19,7 @@ Montgomery, M. T., G. Kilroy, R. K. Smith and **N. Črnivec**: Contribution of m
 
 **Črnivec, N.**, R. K. Smith and G. Kilroy: Dependence of tropical cyclone intensification rate on sea surface temperature. Quart. J. Roy. Meteor. Soc., 142, 1618-1627, [https://doi.org/10.1002/qj.2752](https://doi.org/10.1002/qj.2752), 2016.
 
-<font color="DarkMagenta"><b><i>Open letter</i></b></font>
+<font color="DarkCyan"><b><i>Open letter</i></b></font>
 
 [In Slovene] Zaplotnik, Ž., L. Boljka, **N. Črnivec** and A. Slameršak, 2019: [Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje](https://www.researchgate.net/publication/337167123_Zahteva_slovenskih_raziskovalcev_za_sprejetje_takojsnjih_ukrepov_za_blazenje_podnebnih_sprememb_in_prilagajanje_nanje_Odprto_pismo_slovenski_vladi_13_pp_podpisano_s_strani_vec_kot_100_Slovenskih_znans). <em>Odprto pismo slovenski vladi</em>, 13 pp. [podpisano s strani več kot 100 Slovenskih znanstvenikov]. (A request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy. <em>An open letter to the Slovenian government</em> [signed by over 100 Slovenian scientists; includes English summary].) <a href="http://ninacrnivec.github.io/files/00206BBAC913191209121909.pdf">Answer from the government</a>. Media coverage:
 [RTV-SLO](https://www.rtvslo.si/okolje/novice/znanstveniki-slovenija-ne-kaze-pripravljenosti-da-bi-se-na-podnebne-spremembe-odlocno-odzvala/504612?fbclid=IwAR2Px1cLtDykMJxNszkG6MI1QDOM2LneGWqK70LchAvEST9RBr_VWVjM-7Y),
@@ -53,15 +53,15 @@ Montgomery, M. T., G. Kilroy, R. K. Smith and **N. Črnivec**: Contribution of m
 
 [In Slovene] Gams, M., **N. Črnivec**, L. Globevnik, S. Pejovnik, Ž. Zaplotnik, A. Zidanšek (editors), 2020: [Bela knjiga o strokovnem varovanju okolja (White paper on environment protection)](http://library.ijs.si/Stacks/Literature/Bela%20knjiga%20znanost%20o%20okolju%202020.pdf). _Jožef Stefan Institute_, Ljubljana, 160 pp. Authors: L. Boljka, M. Z. Božnar, M. Brnič Jager, B. Brudar, A. Čas, **N. Črnivec**, M. Debeljak, M. Gams, P. Glavič, L. Globevnik, B. Grašič, F. Gubina, A. Hace, T. Horvat, M. Jeran, L. Kozlovič, A. Krainer, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, B. Orel, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štrubelj, A. Šubic, J. Tasič, B. Tomažič, A. Vovk Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, D. Zupančič, T. Žagar.
 
-<font color="DarkPurple"><b><i>Technical note</i></b></font>
+<font color="DarkCyan"><b><i>Technical note</i></b></font>
 
 **Črnivec, N.**, B. Strajnar, N. Pristov and J. Cedilnik: Preparation of ECMWF LBCs for RC LACE: spectral analysis. _ALADIN-HIRLAM Newsletter_, 15, 73-76, 2020.
 
-<font color="DarkBlue"><b><i>Theses</i></b></font>
+<font color="DarkCyan"><b><i>Theses</i></b></font>
 
 **Črnivec, N.**: Dependence of tropical cyclone intensification on latitude and sea surface temperature. _Master thesis_, Ludwig-Maximilians University of Munich, September 2015.
 
-<font color="DarkMagenta"><b><i>Others</i></b></font>
+<font color="DarkCyan"><b><i>Others</i></b></font>
 
 [In Slovene] Zaplotnik, Ž., L. Boljka, **N. Črnivec** and A. Slameršak: Climate change – open letter: A request by the Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy. _Vetrnica (Interesting facts)_, 12-13, 6-11, 2020.
 
