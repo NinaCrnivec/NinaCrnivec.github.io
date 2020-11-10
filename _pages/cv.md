@@ -34,6 +34,12 @@ Faculty of Mathematics and Physics, University of Ljubljana, Slovenia<br/>
 3rd academic year (_2011-2012_) abroad:
 Faculty of Mathematics and Natural Sciences, Technical University of Berlin, Germany
 
+## Work Experience
+* Meteorologist, Slovenian Environment Agency (ARSO) (current position)<br/> 
+Section for meteorological, hydrological and oceanographic modeling (Jurij Jerman)
+* Collaborator, Jožef Stefan Institute, Prof. Dr. Matjaž Gams (autumn 2019)<br/>
+<ins>Topic</ins>: Climate change adaptation and mitigation measures for Slovenia
+
 ## Publications
 
 See [Publications tab](https://ninacrnivec.github.io/publications/)
