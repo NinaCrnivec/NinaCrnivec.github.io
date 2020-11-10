@@ -17,7 +17,7 @@ Montgomery, M. T., G. Kilroy, R. K. Smith and **N. Črnivec**: Contribution of m
 
 **Črnivec, N.** and R. K. Smith: Mean radiosonde soundings for the Australian monsoon/cyclone season. _Intern. J. Clim._, 37, 66-78, [https://doi.org/10.1002/joc.4687](https://doi.org/10.1002/joc.4687), 2016.
 
-**Črnivec, N.**, R. K. Smith and G. Kilroy: Dependence of tropical cyclone intensification rate on sea surface temperature. Quart. J. Roy. Meteor. Soc., 142, 1618-1627, [https://doi.org/10.1002/qj.2752](https://doi.org/10.1002/qj.2752), 2016.
+**Črnivec, N.**, R. K. Smith and G. Kilroy: Dependence of tropical cyclone intensification rate on sea surface temperature. _Quart. J. Roy. Meteor. Soc._, 142, 1618-1627, [https://doi.org/10.1002/qj.2752](https://doi.org/10.1002/qj.2752), 2016.
 
 <font color="DarkCyan"><b><i>Open letter</i></b></font>
 
