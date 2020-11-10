@@ -21,7 +21,6 @@ _2013-2015_<br/>
 Faculty of Physics, Ludwig-Maximilians University of Munich, Germany<br/> 
 _Thesis title: Dependence of tropical cyclone intensification on latitude and sea surface temperature_<br/> 
 _Supervisor: Prof. Dr. Roger K. Smith_
-_Working group: Tropical Meteorology (Meteorological Institute Munich)
 
 _2011-2014_<br/>
 **Bachelor of Science in Meteorology with Geophysics**<br/>
