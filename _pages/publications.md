@@ -53,16 +53,18 @@ Montgomery, M. T., G. Kilroy, R. K. Smith and **N. Črnivec**: Contribution of m
 
 [In Slovene] Gams, M., **N. Črnivec**, L. Globevnik, S. Pejovnik, Ž. Zaplotnik, A. Zidanšek (editors), 2020: [Bela knjiga o strokovnem varovanju okolja (White paper on environment protection)](http://library.ijs.si/Stacks/Literature/Bela%20knjiga%20znanost%20o%20okolju%202020.pdf). _Jožef Stefan Institute_, Ljubljana, 160 pp. Authors: L. Boljka, M. Z. Božnar, M. Brnič Jager, B. Brudar, A. Čas, **N. Črnivec**, M. Debeljak, M. Gams, P. Glavič, L. Globevnik, B. Grašič, F. Gubina, A. Hace, T. Horvat, M. Jeran, L. Kozlovič, A. Krainer, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, B. Orel, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štrubelj, A. Šubic, J. Tasič, B. Tomažič, A. Vovk Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, D. Zupančič, T. Žagar.
 
-<font color="DarkCyan"><b><i>Technical note</i></b></font>
-
-**Črnivec, N.**, B. Strajnar, N. Pristov and J. Cedilnik: Preparation of ECMWF LBCs for RC LACE: spectral analysis. _ALADIN-HIRLAM Newsletter_, 15, 73-76, 2020.
-
 <font color="DarkCyan"><b><i>Theses</i></b></font>
 
 **Črnivec, N.**: Dependence of tropical cyclone intensification on latitude and sea surface temperature. _Master thesis_, Ludwig-Maximilians University of Munich, September 2015.
 
-<font color="DarkCyan"><b><i>Others</i></b></font>
+<font color="DarkCyan"><b><i>Technical note</i></b></font>
 
-[In Slovene] Zaplotnik, Ž., L. Boljka, **N. Črnivec** and A. Slameršak: Climate change – open letter: A request by the Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy. _Vetrnica (Interesting facts)_, 12-13, 6-11, 2020.
+**Črnivec, N.**, B. Strajnar, N. Pristov and J. Cedilnik: Preparation of ECMWF LBCs for RC LACE: spectral analysis. _ALADIN-HIRLAM Newsletter_, 15, 73-76, 2020.
 
+<font color="DarkCyan"><b><i>Popular scientific articles</i></b></font>
 
+[In Slovene] Zaplotnik, Ž., L. Boljka, **N. Črnivec** and A. Slameršak: Climate change – open letter: A request by the Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy. _Vetrnica: Journal of Slovenian Meteorological Society (Interesting facts)_, 12-13, 6-11, 2020.
+
+[In Slovene] **Črnivec, N.**: The impact of latitute and sea surface temperature on tropical cyclone intensification: master thesis summary. _Vetrnica: Journal of Slovenian Meteorological Society (Student corner)_, 12-13, 40-41, 2020.
+
+[In Slovene] **Črnivec, N.**: My meteorological studying journey: experiences from abroad. _Vetrnica: Journal of Slovenian Meteorological Society (Student corner)_, 12-13, 67-69, 2020.
