@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education & Public Outreach 
-* [In Slovene] Together with dr. Katarina Kosovelj (UL-FMF) and Matija Klančar (ARSO) we initiated the project ['Interview: In brief'](http://meteorolog.si/index.php/2020/09/15/napovednik-intervjuji-na-kratko/) to present the diverse work of Slovenian meteorologists to foster student interest in meteorology (09/2020).
+* [In Slovene] Together with Dr. Katarina Kosovelj (UL-FMF) and Matija Klančar (ARSO) we initiated the project ['Interview: In brief'](http://meteorolog.si/index.php/2020/09/15/napovednik-intervjuji-na-kratko/) to present the diverse work of Slovenian meteorologists to foster student interest in meteorology (09/2020).
 
 * [In Slovene] Podcast interview about studying and researching meteorology in Slovenia and abroad, **ARSO podcast**: ['Intervju z meteorologinjo Nino Črnivec'](http://www.meteo.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20200520_ep040.mp3) (05/2020)
 
