@@ -42,7 +42,7 @@ See [Publications tab](https://ninacrnivec.github.io/publications/)
 
 See [Teaching tab](https://ninacrnivec.github.io/teaching/)
   
-## Conferences, Workshops & Summer Schools
+## Conferences & Workshops
 
 See [Events tab](https://ninacrnivec.github.io/events/)
   
