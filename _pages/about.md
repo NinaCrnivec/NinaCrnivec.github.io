@@ -7,9 +7,11 @@ redirect_from:
    - /about/
    - /about.html
 ---
+I am a meteorologist currently working on the WMO [SEE-MHEWS] (https://public.wmo.int/en/projects/see-mhews-a) project at Slovenian Environment Agency. I completed my PhD at Ludwig Maximilian University of Munich, where my research focused on cloud-radiation interaction to advance its representation in weather and climate models. Prior to that I investigated tropical cyclone intensification.
 
-I am a PhD student of Meteorology at Ludwig Maximilian University of Munich working on [Waves To Weather (W2W)](https://w2w.meteo.physik.uni-muenchen.de/) [project B4](https://w2w.meteo.physik.uni-muenchen.de/research_areas/phase1/b4/index.html) "*Radiative heating and cooling at cloud scale and its impact on dynamics*".
-Working group: [Remote sensing and radiative transfer](https://www.en.meteo.physik.uni-muenchen.de/forschung/atmo_fern/index.html) (Prof. Dr. Bernhard Mayer).
+Besides classic research work, I enjoy various science outreach activities and I am actively engaged in communicating climate change on board of the [RESCCCUE](https://www.emetsoc.org/oc2020-for-rescccue-slovenia/) team.
+
+In case you have interest and want to collaborate on any of these topics, I'd be happy to get in touch!
 
 Research Interests
 ------
