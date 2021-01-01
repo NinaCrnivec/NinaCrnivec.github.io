@@ -11,7 +11,7 @@ I am a meteorologist currently working on the WMO [SEE-MHEWS](https://public.wmo
 
 Besides classic research work, I enjoy various science outreach activities and I am actively engaged in communicating climate change on board of the [RESCCCUE](https://www.emetsoc.org/oc2020-for-rescccue-slovenia/) team.
 
-In case you have interest and want to collaborate on any of these topics, I'd be happy to get in touch!
+In case you have interest and want to collaborate on any of these topics, I would be happy to get in touch!
 
 Research Interests
 ------
