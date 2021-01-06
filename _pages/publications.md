@@ -7,7 +7,7 @@ author_profile: true
 
 <font color="DarkCyan"><b><i>Peer-reviewed journal articles</i></b></font>
 
-**Črnivec, N.** and B. Mayer: Towards improved treatment of cloud-radiation interaction in weather and climate models: exploring the potential of the Tripleclouds method for various cloud types. _Submitted to Geosci. Model. Dev._, 2020. 
+**Črnivec, N.** and B. Mayer: Towards an improved treatment of cloud-radiation interaction in weather and climate models: exploring the potential of the Tripleclouds method for various cloud types using libRadtran 2.0.4. _Geosci. Model Dev. Discuss._, [https://doi.org/10.5194/gmd-2020-297](https://doi.org/10.5194/gmd-2020-297), in review, 2021.
 
 Montgomery, M. T., G. Kilroy, R. K. Smith and **N. Črnivec**: Contribution of mean and eddy momentum processes to tropical cyclone intensification. _Quart. J. Roy. Meteor. Soc._, 146, 3101-3117, [https://doi.org/10.1002/qj.3837](https://doi.org/10.1002/qj.3837), 2020.
 
