@@ -7,7 +7,7 @@ redirect_from:
    - /about/
    - /about.html
 ---
-I am a meteorologist currently working on WMO [SEE-MHEWS](https://public.wmo.int/en/projects/see-mhews-a) project at Slovenian Environment Agency. I completed my PhD at Ludwig Maximilian University of Munich, where my research focused on cloud-radiation interaction to advance its representation in weather and climate models. Prior to that I investigated tropical cyclone intensification.
+I am a meteorologist currently working on WMO [SEE-MHEWS](https://public.wmo.int/en/projects/see-mhews-a) project at Slovenian Environment Agency. I completed my PhD at Ludwig-Maximilians-University Munich, where my research focused on cloud-radiation interaction to advance its representation in weather and climate models. Prior to that I investigated tropical cyclone intensification.
 
 Besides classic research work, I enjoy various science outreach activities and I am actively engaged in communicating climate change on board of the [RESCCCUE](https://www.emetsoc.org/oc2020-for-rescccue-slovenia/) team.
 
