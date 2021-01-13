@@ -13,7 +13,7 @@ redirect_from:
 
 _2016-2019/2020_<br/>
 **PhD in Meteorology**<br/> 
-Faculty of Physics, Ludwig-Maximilians University of Munich, Germany<br/> 
+Faculty of Physics, Ludwig-Maximilians-University Munich, Germany<br/> 
 Working group: [Remote sensing and radiative transfer](https://www.en.meteo.physik.uni-muenchen.de/forschung/atmo_fern/index.html)<br/> 
 _Thesis title: Towards an improved treatment of unresolved cloud-radiation interaction in weather and climate models_<br/> 
 _Supervisors: Prof. Dr. Bernhard Mayer, Prof. Dr. George Craig_
@@ -25,7 +25,7 @@ Department of Meteorology, Prof. Dr. Michael Montgomery
 
 _2013-2015_<br/>
 **Master of Science in Meteorology**<br/> 
-Faculty of Physics, Ludwig-Maximilians University of Munich, Germany<br/>
+Faculty of Physics, Ludwig-Maximilians-University Munich, Germany<br/>
 Working group: [Tropical meteorology](https://www.en.meteo.physik.uni-muenchen.de/forschung/tropische/index.html)<br/> 
 _Thesis title: Dependence of tropical cyclone intensification on latitude and sea surface temperature_<br/> 
 _Supervisor: Prof. Dr. Roger K. Smith_
