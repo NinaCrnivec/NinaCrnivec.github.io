@@ -10,9 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ## Education & Public Outreach 
-* [In Slovene] Together with Dr. Katarina Kosovelj (UL-FMF) and Matija Klančar (ARSO) we initiated the project ['Interview: In brief'](http://meteorolog.si/index.php/2020/09/15/napovednik-intervjuji-na-kratko/) to present the diverse work of Slovenian meteorologists to foster student interest in meteorology (09/2020).
+* [In Slovene] Contribution to the Slovenian newspaper 'Delo - Sobotna priloga:[Razglednice v vroče strani alp'](https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/) (12/2020)
 
-* [In Slovene] Podcast interview about studying and researching meteorology in Slovenia and abroad, **ARSO podcast**: ['Intervju z meteorologinjo Nino Črnivec'](http://www.meteo.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20200520_ep040.mp3) (05/2020)
+* [In Slovene] Together with Katarina Kosovelj (UL-FMF) and Matija Klančar (ARSO) we initiated the project ['Interview: In brief'](http://meteorolog.si/index.php/2020/09/15/napovednik-intervjuji-na-kratko/) to present the diverse work of Slovenian meteorologists to foster student interest in meteorology (09/2020)
+
+* [In Slovene] Podcast interview about tropical cyclones as well as studying and researching meteorology in Slovenia and abroad, **ARSO podcast**: ['Interview with meteorologist Nina Črnivec'](http://www.meteo.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20200520_ep040.mp3) (05/2020)
 
 * [In Slovene & English] [Big Steps](https://www.facebook.com/dvtis/photos/a.1017215245070418/1956902154435051/?type=3&theater) coverage by Association of Slovenes Educated Abroad (VTIS) (02/2020)
 
