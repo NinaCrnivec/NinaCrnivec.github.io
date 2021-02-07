@@ -19,6 +19,12 @@ Montgomery, M. T., G. Kilroy, R. K. Smith and **N. Črnivec**: Contribution of m
 
 **Črnivec, N.**, R. K. Smith and G. Kilroy: Dependence of tropical cyclone intensification rate on sea surface temperature. _Quart. J. Roy. Meteor. Soc._, 142, 1618-1627, [https://doi.org/10.1002/qj.2752](https://doi.org/10.1002/qj.2752), 2016.
 
+<font color="DarkCyan"><b><i>Theses</i></b></font>
+
+**Črnivec, N.**: Towards an improved treatment of unresolved cloud-radiation interaction in weather and climate models. _Doctoral dissertation_, Ludwig-Maximilians-University Munich, 2020.
+
+**Črnivec, N.**: Dependence of tropical cyclone intensification on latitude and sea surface temperature. _Master thesis_, Ludwig-Maximilians-University Munich, 2015.
+
 <font color="DarkCyan"><b><i>Open letter</i></b></font>
 
 [In Slovene] Zaplotnik, Ž., L. Boljka, **N. Črnivec** and A. Slameršak, 2019: [Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje](https://www.researchgate.net/publication/337167123_Zahteva_slovenskih_raziskovalcev_za_sprejetje_takojsnjih_ukrepov_za_blazenje_podnebnih_sprememb_in_prilagajanje_nanje_Odprto_pismo_slovenski_vladi_13_pp_podpisano_s_strani_vec_kot_100_Slovenskih_znans). <em>Odprto pismo slovenski vladi</em>, 13 pp. [podpisano s strani več kot 100 Slovenskih znanstvenikov]. (A request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy. <em>An open letter to the Slovenian government</em> [signed by over 100 Slovenian scientists; includes English summary].) <a href="http://ninacrnivec.github.io/files/00206BBAC913191209121909.pdf">Answer from the government</a>. Media coverage:
@@ -51,11 +57,6 @@ Montgomery, M. T., G. Kilroy, R. K. Smith and **N. Črnivec**: Contribution of m
 
 [In Slovene] Gams, M., **N. Črnivec**, L. Globevnik, S. Pejovnik, Ž. Zaplotnik, A. Zidanšek (editors), 2020: [Bela knjiga o strokovnem varovanju okolja (White paper on environment protection)](http://library.ijs.si/Stacks/Literature/Bela%20knjiga%20znanost%20o%20okolju%202020.pdf). _Jožef Stefan Institute_, Ljubljana, 160 pp. Authors: L. Boljka, M. Z. Božnar, M. Brnič Jager, B. Brudar, A. Čas, **N. Črnivec**, M. Debeljak, M. Gams, P. Glavič, L. Globevnik, B. Grašič, F. Gubina, A. Hace, T. Horvat, M. Jeran, L. Kozlovič, A. Krainer, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, B. Orel, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štrubelj, A. Šubic, J. Tasič, B. Tomažič, A. Vovk Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, D. Zupančič, T. Žagar.
 
-<font color="DarkCyan"><b><i>Theses</i></b></font>
-
-**Črnivec, N.**: Towards an improved treatment of unresolved cloud-radiation interaction in weather and climate models. _Doctoral dissertation_, Ludwig-Maximilians University of Munich, 2020.
-
-**Črnivec, N.**: Dependence of tropical cyclone intensification on latitude and sea surface temperature. _Master thesis_, Ludwig-Maximilians University of Munich, 2015.
 
 <font color="DarkCyan"><b><i>Technical note</i></b></font>
 
@@ -76,5 +77,7 @@ Strajnar, B., N. Pristov, J. Cedilnik, **N. Črnivec** and J. Čampa: ALADIN hig
 [In Slovene] Slameršak, A., Ž. Zaplotnik, L. Boljka and **N. Črnivec**, 2020: [Suggestions for a political programme for a green transition and a minimisation of climate change impacts](https://drive.google.com/file/d/1jB1u5CN3qE75PLRgBAbi-LucCHVcn0L8/view). 
 
 [In Slovene] Boljka, L., Ž. Zaplotnik, A. Slameršak and **N. Črnivec**, 2020: [Comments and suggestions on the draft of the Slovenian long-term climate change strategy](https://drive.google.com/file/d/1psP-qqJbKs0fBEgqDec83A-N8_pgAHTK/view). _A letter to the Slovenian Ministry for the Environment_. Media: [OE Finance](https://oe.finance.si/8966414/(prejeli-smo)-Predlog-raziskovalcev-za-spremembe-osnutka-podnebne-strategije?cctest&), [Meteorolog.si](http://meteorolog.si/index.php/2020/10/01/opozorilo-na-premajhno-ambicioznost-osnutka-dolgorocne-podnebne-strategije-slovenije/), [Globus](https://4d.rtvslo.si/arhiv/globus/174722022).
+
+[In Slovene] **Črnivec, N.**: [Trajnostna energija - prihodnost za Slovenijo? (Sustainable energy - the future for Slovenia?)](https://www.researchgate.net/publication/349103009_Trajnostna_energija_-_prihodnost_za_Slovenijo) _Climate change seminar_, University of Ljubljana, 2012.
 
 
