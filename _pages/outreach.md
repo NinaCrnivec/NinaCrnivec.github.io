@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Education & Public Outreach 
+* [In Slovene] Podcast interview about my PhD research on cloud-radiation interaction problem in weather and climate models, **ARSO podcast**: ['Student corner'](https://meteo.arso.gov.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20210317_ep057.mp3) (03/2021)
+
 * [In Slovene] Contribution to the Slovenian newspaper 'Delo - Sobotna priloga: [Razglednice z vroče strani Alp'](https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/) (12/2020)
 
 * [In Slovene] Together with Katarina Kosovelj (UL-FMF) and Matija Klančar (ARSO) we initiated the project ['Interview: In brief'](http://meteorolog.si/index.php/2020/09/15/napovednik-intervjuji-na-kratko/) to present the diverse work of Slovenian meteorologists to foster student interest in meteorology (09/2020)
