@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Education & Public Outreach 
+* [In Slovene] Interview for [Svet24](https://novice.svet24.si/clanek/novice/slovenija/6073055dc2e54/najvec-skode-bodo-utrpeli-slovenski-sadjarji-vinogradniki-in-cebelarji) about extreme weather events in the present and future climate (together with A. Sušnik and L. Boljka) (04/2021)
+
 * [In Slovene] Podcast interview about my PhD research on cloud-radiation interaction problem in weather and climate models, **ARSO podcast**: ['Student corner'](https://meteo.arso.gov.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20210317_ep057.mp3) (03/2021)
 
 * [In Slovene] Contribution to the Slovenian newspaper 'Delo - Sobotna priloga: [Razglednice z vroče strani Alp'](https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/) (12/2020)
