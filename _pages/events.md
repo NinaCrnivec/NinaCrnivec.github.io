@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ## Conferences & Seminars
-
+* 1st ACCORD All Staff Workshop, video-conference (04/2021)<br/>
+Pristov, N., B. Strajnar, J. Jerman, J. Cedilnik, M. Ličer, A. Fettich, M. Ličar, **N. Črnivec**, P. Smerkol: "NWP activities at ARSO (Slovenia)" (poster)
 * 42th EWGLAM and 27th SRNWP 2020, video-conference (09/2020)<br/>
 Strajnar, B., N. Pristov, **N. Črnivec**, J. Cedilnik, P. Smerkol, V. Švagelj, J. Čampa, A. Fettich, M. Ličer, J. Jerman, M. Ličar: "ALADIN in Slovenia - 2020" (poster)
 * Joint 30th ALADIN Workshop and HIRLAM All Staff Meeting 2020, video-conference (04/2020)
