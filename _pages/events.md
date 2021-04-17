@@ -22,7 +22,9 @@ Strajnar, B., N. Pristov, **N. Črnivec**, J. Cedilnik, P. Smerkol, V. Švagelj,
 * NASA Hurricane and Severe Storm Sentinel (HS3) Science Team Meeting, NASA Ames Research Park, Mountain View, California (05/2015)
 
 ## Workshops & Practical Trainings
-
+* Data Science Workshop: Introduction to network analysis in Python, University of Ljubljana, Ljubljana, Slovenia (09/2019)
+* Data Science Workshop on data analysis with R: summeRworkshop, University of Ljubljana, Ljubljana, Slovenia (07/2019)
+* Open Education Design Workshop, University of Nova Gorica, Vipava, Slovenia (07/2019)
 * [Waves To Weather Early Career Scientists Workshop on Machine Learning and Neural Networks](https://www.wavestoweather.de/meetings/workshop_neural_networks_sep18/index.html), Zugspitze, Germany (09/2018)
 * [Waves To Weather Early Career Scientists Workshop](https://w2w.meteo.physik.uni-muenchen.de/meetings/ecs-workshop-mar-2018/index.html), Heidelberg University, Heidelberg, Germany (03/2018)
 * Workshop on Scientific Writing, Ludwig-Maximilians University of Munich, Munich, Germany (06/2017)
