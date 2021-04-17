@@ -34,8 +34,9 @@ _More information & event media coverage:_
 [Karierni centri Univerze v Ljubljani](https://kc.uni-lj.si/novice/4-simpozij-slovenskih-raziskovalcev-v-tujini.html)<br/> 
 -->
 
-* [In Slovene] Radio interview on 'Radio Študent - Science: How shall we mitigate climate change?' (11/2019):<br/> 
-Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji _Zahteve slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje_: [Radio Študent - Znanost: Kako bomo blažili podnebne spremembe?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe?fbclid=IwAR2y3n6dfT9tYwNvE19qQpJQxxlx4NXMCNswiruB8Ier-CspBRPHdpXCQM4) _Hvala Radiu Študent za povabilo na intervju in še posebej Zarji Muršič za spretno manevriranje pogovora med štirimi po svetu razpršenimi znanstveniki!_ 🙂
+* [In Slovene] Radio interview on 'Radio Študent - Znanost': How shall we mitigate climate change? (11/2019):<br/> 
+Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji _Zahteve slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje_: [Radio Študent - Znanost: Kako bomo blažili podnebne spremembe?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe?fbclid=IwAR2y3n6dfT9tYwNvE19qQpJQxxlx4NXMCNswiruB8Ier-CspBRPHdpXCQM4) 
+<font color="Grey">_Hvala Radiu Študent za povabilo na intervju in še posebej Zarji Muršič za spretno manevriranje pogovora med štirimi po svetu razpršenimi znanstveniki!_</font> 🙂
 
 * [In Slovene] Our 'Request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy' (joint work with [Žiga Zaplotnik](https://zaplotnik.github.io/), [Lina Boljka](https://lina-boljka.github.io/) and [Aljoša Slameršak](https://ictaweb.uab.cat/personal_detail.php?id=4088)) has received extensive media coverage (11-12/2019):
 > - **RTV-SLO (MMC):** [Znanstveniki: Slovenija ne kaže pripravljenosti, da bi se na podnebne spremembe odločno odzvala](https://www.rtvslo.si/okolje/novice/znanstveniki-slovenija-ne-kaze-pripravljenosti-da-bi-se-na-podnebne-spremembe-odlocno-odzvala/504612?fbclid=IwAR2Px1cLtDykMJxNszkG6MI1QDOM2LneGWqK70LchAvEST9RBr_VWVjM-7Y)<br/> 
