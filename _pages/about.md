@@ -7,7 +7,7 @@ redirect_from:
    - /about/
    - /about.html
 ---
-I am a [postdoc at Columbia University/NASA GISS](https://ccsr.columbia.edu/people/nina-crnivec), where I aim to better understand clouds and the role they play in the climate system. I completed my PhD at Ludwig-Maximilians-University Munich, where my research focused on cloud-radiation interaction to advance its representation in weather and climate models. Prior to that I investigated tropical cyclone intensification.
+I am a [postdoc at Columbia University/NASA GISS](https://ccsr.columbia.edu/people/nina-crnivec), where I aim to better understand clouds and the role they play in the climate system. I completed my PhD at Ludwig Maximilian University of Munich, where my research focused on cloud-radiation interaction to advance its representation in weather and climate models. Prior to that I investigated tropical cyclone intensification.
 
 Besides classic research work, I enjoy various science outreach activities and I am actively engaged in communicating climate change on board of the [RESCCCUE](https://www.emetsoc.org/oc2020-for-rescccue-slovenia/) team.
 
