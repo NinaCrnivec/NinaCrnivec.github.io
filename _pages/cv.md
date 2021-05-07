@@ -43,12 +43,12 @@ Faculty of Mathematics and Physics, University of Ljubljana, Slovenia<br/>
 Faculty of Mathematics and Natural Sciences, Technical University of Berlin, Germany
 
 ## Work Experience
-* Meteorologist, Slovenian Environment Agency (ARSO) (current position)<br/> 
+* Meteorologist, Slovenian Environment Agency (ARSO)<br/> 
 Section for meteorological, hydrological and oceanographic forecasts (2021):<br/>
 <ins>Project</ins>: [Electronic General Aviation FORecast (eGAFOR)](https://egafor.eu/)<br/>
-Section for meteorological, hydrological and oceanographic modeling (2020, full year):<br/>
+Section for meteorological, hydrological and oceanographic modeling (2020):<br/>
 <ins>Project</ins>: WMO [South-East European Multi-Hazard Early Warning Advisory System (SEE-MHEWS)](https://public.wmo.int/en/projects/see-mhews-a)<br/>
-* Collaborator, Jožef Stefan Institute, Prof. Dr. Matjaž Gams (autumn 2019)<br/>
+* Collaborator, Jožef Stefan Institute, Prof. Dr. Matjaž Gams (2019)<br/>
 <ins>Topic</ins>: Climate change adaptation and mitigation measures for Slovenia
 
 ## Publications
