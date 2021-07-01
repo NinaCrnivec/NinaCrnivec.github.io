@@ -19,6 +19,8 @@ Strajnar, B., N. Pristov, **N. Črnivec**, J. Cedilnik, P. Smerkol, V. Švagelj,
 * [Waves To Weather Research Area B (Cloud-scale Uncertainties) Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/rab-meeting-2017/rab-grouppicture_2017.jpg), Johannes Gutenberg University Mainz, Mainz, Germany (05/2017)<br/>**Črnivec, N.** and B. Mayer: “1-D versus 3-D radiation from NWP perspective” (talk)
 * [Waves To Weather 2nd Annual Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/annual_meeting2/index.html), Speyer, Germany (11/2016)<br/>**Črnivec, N.** and B. Mayer: “Quantifying the bias of 1-D COSMO heating rates” (talk)
 * [Waves To Weather Research Area B (Cloud-scale Uncertainties) Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/ra-b-meeting-jun-2016/index.html), Johannes Gutenberg University Mainz, Mainz, Germany (06/2016)<br/>**Črnivec, N.** and B. Mayer: “Does 3-D atmospheric radiation impact weather?" (talk)
+* Contribution to [AMS 32nd Conference on Hurricanes and Tropical Meteorology](https://ams.confex.com/ams/32Hurr/webprogram/32HURRICANES.html), San Juan, Puerto Rico (04/2016)<br/>
+Smith, R. K., Kilroy, G., Schmidt, C., Črnivec, N. and Montgomery, M. T.: “Boundary Layer Control of Tropical Cyclone Intensification"
 * NASA Hurricane and Severe Storm Sentinel (HS3) Science Team Meeting, NASA Ames Research Park, Mountain View, California (05/2015)
 
 ## Attended Workshops & Practical Trainings
