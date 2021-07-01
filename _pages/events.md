@@ -21,7 +21,10 @@ Strajnar, B., N. Pristov, **N. Črnivec**, J. Cedilnik, P. Smerkol, V. Švagelj,
 * [Waves To Weather Research Area B (Cloud-scale Uncertainties) Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/ra-b-meeting-jun-2016/index.html), Johannes Gutenberg University Mainz, Mainz, Germany (06/2016)<br/>**Črnivec, N.** and B. Mayer: “Does 3-D atmospheric radiation impact weather?" (talk)
 * NASA Hurricane and Severe Storm Sentinel (HS3) Science Team Meeting, NASA Ames Research Park, Mountain View, California (05/2015)
 
-## Workshops & Practical Trainings
+## Attended Workshops & Practical Trainings
+* Academic Application Boot Camp, Columbia University, virtual event series (06/2021)
+* Teach Climate Science with NASA Data, Endeavor STEM Teaching Certificate Project, NASA, virtual event (06/2021)
+* Field Photography Training, Columbia University, virtual event (06/2021)
 * Data Science Workshop: Introduction to network analysis in Python, University of Ljubljana, Ljubljana, Slovenia (09/2019)
 * Data Science Workshop on data analysis with R: summeRworkshop, University of Ljubljana, Ljubljana, Slovenia (07/2019)
 * Open Education Design Workshop, University of Nova Gorica, Vipava, Slovenia (07/2019)
