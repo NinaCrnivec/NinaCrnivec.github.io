@@ -11,7 +11,6 @@ Pristov, N., B. Strajnar, J. Jerman, J. Cedilnik, M. Ličer, A. Fettich, M. Lič
 * 42th EWGLAM and 27th SRNWP 2020, video-conference (09/2020)<br/>
 Strajnar, B., N. Pristov, **N. Črnivec**, J. Cedilnik, P. Smerkol, V. Švagelj, J. Čampa, A. Fettich, M. Ličer, J. Jerman, M. Ličar: "ALADIN in Slovenia - 2020" (poster)
 * Joint 30th ALADIN Workshop and HIRLAM All Staff Meeting 2020, video-conference (04/2020)
-* The Role of Creativity in Scientific Research, event organized by American Slovenian Education Foundation (ASEF) & University of Ljubljana, Ljubljana, Slovenia (10/2019)
 * Institutional seminar, Ludwig-Maximilians University of Munich, Munich, Germany (02/2019)<br/>**Črnivec, N.** and B. Mayer: “Towards an improved treatment of unresolved cloud-radiation interaction in numerical models” (talk)
 * [Waves To Weather 4th Annual Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/4th-annual-meeting-nov18/index.html), Landau, Germany (11/2018)<br/>**Črnivec, N.** and B. Mayer: "B4-Workpackage 2: Radiative heating and cooling at cloud scale and its impact on dynamics" (poster)
 * [Waves To Weather Research Area B (Cloud-scale Uncertainties) Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/rab-meeting-mar2018/index.html), Johannes Gutenberg University Mainz, Mainz, Germany (03/2018)<br/>**Črnivec, N.** and B. Mayer: “Radiative heating and cooling at cloud scale and its impact on dynamics” (talk)
@@ -20,13 +19,14 @@ Strajnar, B., N. Pristov, **N. Črnivec**, J. Cedilnik, P. Smerkol, V. Švagelj,
 * [Waves To Weather 2nd Annual Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/annual_meeting2/index.html), Speyer, Germany (11/2016)<br/>**Črnivec, N.** and B. Mayer: “Quantifying the bias of 1-D COSMO heating rates” (talk)
 * [Waves To Weather Research Area B (Cloud-scale Uncertainties) Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/ra-b-meeting-jun-2016/index.html), Johannes Gutenberg University Mainz, Mainz, Germany (06/2016)<br/>**Črnivec, N.** and B. Mayer: “Does 3-D atmospheric radiation impact weather?" (talk)
 * Contribution to [AMS 32nd Conference on Hurricanes and Tropical Meteorology](https://ams.confex.com/ams/32Hurr/webprogram/32HURRICANES.html), San Juan, Puerto Rico (04/2016)<br/>
-Smith, R. K., Kilroy, G., Schmidt, C., Črnivec, N. and Montgomery, M. T.: “Boundary Layer Control of Tropical Cyclone Intensification"
+Smith, R. K., G. Kilroy, C. Schmidt, **N. Črnivec**, M. T. Montgomery: “Boundary Layer Control of Tropical Cyclone Intensification"
 * NASA Hurricane and Severe Storm Sentinel (HS3) Science Team Meeting, NASA Ames Research Park, Mountain View, California (05/2015)
 
 ## Attended Workshops & Practical Trainings
 * Academic Application Boot Camp, Columbia University, virtual event series (06/2021)
 * Teach Climate Science with NASA Data, Endeavor STEM Teaching Certificate Project, NASA, virtual event (06/2021)
 * Field Photography Training, Columbia University, virtual event (06/2021)
+* The Role of Creativity in Scientific Research, event organized by American Slovenian Education Foundation (ASEF) & University of Ljubljana, Ljubljana, Slovenia (10/2019)
 * Data Science Workshop: Introduction to network analysis in Python, University of Ljubljana, Ljubljana, Slovenia (09/2019)
 * Data Science Workshop on data analysis with R: summeRworkshop, University of Ljubljana, Ljubljana, Slovenia (07/2019)
 * Open Education Design Workshop, University of Nova Gorica, Vipava, Slovenia (07/2019)
