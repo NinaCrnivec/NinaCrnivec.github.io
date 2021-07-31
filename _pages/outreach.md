@@ -67,11 +67,11 @@ Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji _Zahteve slove
 > - **RTV-SLO (Dnevnik)** (01/2020): [Neizkoriščen sklad za podnebne spremembe](https://4d.rtvslo.si/arhiv/dnevnik/174665542/00:00:00)<br/> 
 
 
-* [In German] Co-organizer of '[Mädchen machen Technik 2018](https://www.wavestoweather.de/equal_opportunity/activities/maedchenmachentechnik2018/index.html)' (Girls and Technology 2018), held at Meteorological Institute Munich, LMU Munich (09/2018)<br/>
+* [In German] Co-organizer of '[Mädchen machen Technik](https://www.wavestoweather.de/equal_opportunity/activities/maedchenmachentechnik2018/index.html)' (Girls and Technology), Meteorological Institute Munich, LMU Munich (09/2018)<br/>
 
-* [In German] Co-organizer of '[Mädchen Zukunftstag 2016](https://www.wavestoweather.de/equal_opportunity/activities/girls_day_2016/index.html), [2017](https://www.wavestoweather.de/equal_opportunity/activities/girls_day_2017/index.html), [2018](https://www.wavestoweather.de/equal_opportunity/activities/girlsday-2018/index.html)' (Girls' Day 2016, 2017, 2018), held at Meteorological Institute Munich, LMU Munich (04/2016, 04/2017, 04/2018)<br/>
+* [In German] Co-organizer of '[Mädchen Zukunftstag 2016](https://www.wavestoweather.de/equal_opportunity/activities/girls_day_2016/index.html), [2017](https://www.wavestoweather.de/equal_opportunity/activities/girls_day_2017/index.html), [2018](https://www.wavestoweather.de/equal_opportunity/activities/girlsday-2018/index.html)' (Girls' Day), Meteorological Institute Munich, LMU Munich (04/2016, 04/2017, 04/2018)<br/>
 
-* [In German] Co-organizer of 'Tag der offenen Tür' (Doors Open Day) representing MIM/LMU Munich, at Deutsches Zentrum für Luft- und Raumfahrt (10/2016)
+* [In German] Co-organizer of 'Tag der offenen Tür' (Doors Open Day) representing MIM/LMU Munich at Deutsches Zentrum für Luft- und Raumfahrt (10/2016)
 
 
 
