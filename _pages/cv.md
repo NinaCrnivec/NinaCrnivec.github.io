@@ -11,33 +11,28 @@ redirect_from:
 
 ## Education
 
-_2016-2019/2020_<br/>
-**PhD in Meteorology**<br/> 
+* **PhD in Meteorology** (_2016-2019/2020_)<br/> 
 Faculty of Physics, Ludwig-Maximilians-University Munich, Germany<br/> 
 Working group: [Remote sensing and radiative transfer](https://www.en.meteo.physik.uni-muenchen.de/forschung/atmo_fern/index.html)<br/> 
 _Thesis title: Towards an improved treatment of unresolved cloud-radiation interaction in weather and climate models_<br/> 
 _Supervisors: Prof. Dr. Bernhard Mayer, Prof. Dr. George Craig_
 
-_April-May 2015_<br/> 
-**Visiting scientist**<br/> 
+* **Visiting scientist** (_April-May 2015_)<br/> 
 Naval Postgraduate School, Monterey, California<br/> 
 Department of Meteorology, Prof. Dr. Michael Montgomery
 
-_2013-2015_<br/>
-**Master of Science in Meteorology**<br/> 
+* **Master of Science in Meteorology** (_2013-2015_)<br/> 
 Faculty of Physics, Ludwig-Maximilians-University Munich, Germany<br/>
 Working group: [Tropical meteorology](https://www.en.meteo.physik.uni-muenchen.de/forschung/tropische/index.html)<br/> 
 _Thesis title: Dependence of tropical cyclone intensification on latitude and sea surface temperature_<br/> 
 _Supervisor: Prof. Dr. Roger K. Smith_
 
-_2011-2014_<br/>
-**Bachelor of Science in Meteorology with Geophysics**<br/>
+* **Bachelor of Science in Meteorology with Geophysics** (_2011-2014_)<br/>
 Faculty of Mathematics and Physics, University of Ljubljana, Slovenia<br/> 
 _Bachelor's Seminar title: North Atlantic Oscillation_<br/> 
 _Supervisor: Prof. Dr. Nedjeljka Žagar_
 
-_2009-2013_<br/>
-**Bachelor of Science in Physics**<br/>
+* **Bachelor of Science in Physics** (_2009-2013_)<br/>
 Faculty of Mathematics and Physics, University of Ljubljana, Slovenia<br/>
 3rd academic year (_2011-2012_) abroad:
 Faculty of Mathematics and Natural Sciences, Technical University of Berlin, Germany
@@ -80,8 +75,5 @@ See [Events tab](https://ninacrnivec.github.io/events/)
 * Member of [“Slovensko meteorološko društvo (SMD)”](http://www.smd.v-izdelavi.si/domov/) (Slovenian Meteorological Society)
 * Member of ["Društvo v tujini izobraženih Slovencev (Društvo VTIS)"](https://www.drustvovtis.si/) (Association of Slovenes Educated Abroad) 
 
-## Personal Details
-
-* Nationality and year of birth: Slovenian, 1991
 
 
