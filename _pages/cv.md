@@ -11,42 +11,41 @@ redirect_from:
 
 ## Education
 
-* **Postdoctoral Research Scientist** (_2021-present_)<br/> 
+* **Postdoctoral Research Scientist** (2021 – present)<br/> 
 Columbia University, Earth Institute, Center for Climate Systems Research and NASA Goddard Institute for Space Studies<br/> 
+<ins>Project</ins>: NOAA MAPP Evaluating and Constraining Models’ Stratocumulus and Cumulus Cloud Feedbacks in the Tropics using Satellite Observations to Reduce Uncertainties in Future Climate Projections<br/>
+Advisors: Dr. Gregory Cesana, Prof. Dr. Robert Pincus, Dr. Andrew Ackerman
 
-* **PhD in Meteorology** (_2016-2019/2020_)<br/> 
+* **PhD in Meteorology** (2016 – 2019/2020)<br/> 
 Faculty of Physics, Ludwig-Maximilians-University Munich, Germany<br/> 
 Working group: [Remote sensing and radiative transfer](https://www.en.meteo.physik.uni-muenchen.de/forschung/atmo_fern/index.html)<br/> 
 _Thesis title: Towards an improved treatment of unresolved cloud-radiation interaction in weather and climate models_<br/> 
 _Supervisors: Prof. Dr. Bernhard Mayer, Prof. Dr. George Craig_
 
-* **Visiting scientist**, Naval Postgraduate School, Monterey, California (_April-May 2015_)<br/> 
+* **Visiting scientist**, Naval Postgraduate School, Monterey, California (April-May 2015)<br/> 
 Department of Meteorology, Prof. Dr. Michael Montgomery
 
-* **Master of Science in Meteorology** (_2013-2015_)<br/> 
+* **Master of Science in Meteorology** (2013 – 2015)<br/> 
 Faculty of Physics, Ludwig-Maximilians-University Munich, Germany<br/>
 Working group: [Tropical meteorology](https://www.en.meteo.physik.uni-muenchen.de/forschung/tropische/index.html)<br/> 
 _Thesis title: Dependence of tropical cyclone intensification on latitude and sea surface temperature_<br/> 
 _Supervisor: Prof. Dr. Roger K. Smith_
 
-* **Bachelor of Science in Meteorology with Geophysics** (_2011-2014_)<br/>
+* **Bachelor of Science in Meteorology with Geophysics** (2011 – 2014)<br/>
 Faculty of Mathematics and Physics, University of Ljubljana, Slovenia<br/> 
 _Bachelor's Seminar title: North Atlantic Oscillation_<br/> 
 _Supervisor: Prof. Dr. Nedjeljka Žagar_
 
-* **Bachelor of Science in Physics** (_2009-2013_)<br/>
+* **Bachelor of Science in Physics** (2009 – 2013)<br/>
 Faculty of Mathematics and Physics, University of Ljubljana, Slovenia<br/>
-3rd academic year (_2011-2012_) abroad:
-Faculty of Mathematics and Natural Sciences, Technical University of Berlin, Germany
+3rd academic year (2011 – 2012) abroad: Faculty of Mathematics and Natural Sciences, Technical University of Berlin, Germany
 
 ## Work Experience
-* Meteorologist, Slovenian Environment Agency (ARSO)<br/> 
+* Meteorologist, Slovenian Environment Agency<br/> 
 Section for meteorological, hydrological and oceanographic forecasts (2021):<br/>
 <ins>Project</ins>: [Electronic General Aviation FORecast (eGAFOR)](https://egafor.eu/)<br/>
 Section for meteorological, hydrological and oceanographic modeling (2020):<br/>
 <ins>Project</ins>: WMO [South-East European Multi-Hazard Early Warning Advisory System (SEE-MHEWS)](https://public.wmo.int/en/projects/see-mhews-a)<br/>
-* Collaborator, Jožef Stefan Institute, Prof. Dr. Matjaž Gams (2019)<br/>
-<ins>Topic</ins>: Climate change adaptation and mitigation measures for Slovenia
 
 ## Publications
 
