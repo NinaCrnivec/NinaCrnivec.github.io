@@ -11,14 +11,16 @@ redirect_from:
 
 ## Education
 
+* **Postdoctoral Research Scientist** (_2021-present_)<br/> 
+Columbia University, Earth Institute, Center for Climate Systems Research and NASA Goddard Institute for Space Studies<br/> 
+
 * **PhD in Meteorology** (_2016-2019/2020_)<br/> 
 Faculty of Physics, Ludwig-Maximilians-University Munich, Germany<br/> 
 Working group: [Remote sensing and radiative transfer](https://www.en.meteo.physik.uni-muenchen.de/forschung/atmo_fern/index.html)<br/> 
 _Thesis title: Towards an improved treatment of unresolved cloud-radiation interaction in weather and climate models_<br/> 
 _Supervisors: Prof. Dr. Bernhard Mayer, Prof. Dr. George Craig_
 
-* **Visiting scientist** (_April-May 2015_)<br/> 
-Naval Postgraduate School, Monterey, California<br/> 
+* **Visiting scientist**, Naval Postgraduate School, Monterey, California (_April-May 2015_)<br/> 
 Department of Meteorology, Prof. Dr. Michael Montgomery
 
 * **Master of Science in Meteorology** (_2013-2015_)<br/> 
