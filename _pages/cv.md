@@ -22,7 +22,7 @@ Section for meteorological, hydrological and oceanographic modeling:<br/>
 Section for meteorological, hydrological and oceanographic forecasts:<br/>
 <ins>Project</ins>: [Electronic General Aviation FORecast (eGAFOR)](https://egafor.eu/)<br/>
 
-* **Dr.rer.nat.**, Faculty of Physics, Ludwig-Maximilians-University Munich, Germany (2016 – 2019/2020)<br/> 
+* **Ph.D.**, Faculty of Physics, Ludwig-Maximilians-University Munich, Germany (2016 – 2019/2020)<br/> 
 Working group: [Remote sensing and radiative transfer](https://www.en.meteo.physik.uni-muenchen.de/forschung/atmo_fern/index.html)<br/> 
 _Thesis title: Towards an improved treatment of unresolved cloud-radiation interaction in weather and climate models_<br/> 
 _Supervisors: Prof. Dr. Bernhard Mayer, Prof. Dr. George Craig_
@@ -30,16 +30,16 @@ _Supervisors: Prof. Dr. Bernhard Mayer, Prof. Dr. George Craig_
 * **Visiting scientist**, Naval Postgraduate School, Monterey, California (April-May 2015)<br/> 
 Department of Meteorology, Prof. Dr. Michael Montgomery
 
-* **Master of Science in Meteorology**, Faculty of Physics, Ludwig-Maximilians-University Munich, Germany (2013 – 2015)<br/> 
+* **M.Sc. Meteorology**, Faculty of Physics, Ludwig-Maximilians-University Munich, Germany (2013 – 2015)<br/> 
 Working group: [Tropical meteorology](https://www.en.meteo.physik.uni-muenchen.de/forschung/tropische/index.html)<br/> 
 _Thesis title: Dependence of tropical cyclone intensification on latitude and sea surface temperature_<br/> 
 _Supervisor: Prof. Dr. Roger K. Smith_
 
-* **Bachelor of Science in Meteorology with Geophysics**, Faculty of Mathematics and Physics, University of Ljubljana, Slovenia (2011 – 2014)<br/>
+* **B.Sc. Meteorology with Geophysics**, Faculty of Mathematics and Physics, University of Ljubljana, Slovenia (2011 – 2014)<br/>
 _Bachelor's Seminar title: North Atlantic Oscillation_<br/> 
 _Supervisor: Prof. Dr. Nedjeljka Žagar_
 
-* **Bachelor of Science in Physics**, Faculty of Mathematics and Physics, University of Ljubljana, Slovenia (2009 – 2013)<br/>
+* **B.Sc. Physics**, Faculty of Mathematics and Physics, University of Ljubljana, Slovenia (2009 – 2013)<br/>
 3rd academic year (2011 – 2012) abroad: Faculty of Mathematics and Natural Sciences, Technical University of Berlin, Germany
 
 
