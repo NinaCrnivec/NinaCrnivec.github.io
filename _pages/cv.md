@@ -11,8 +11,7 @@ redirect_from:
 
 ## Work Experience
 
-* **Postdoctoral Research Scientist** (2021 – present)<br/> 
-Columbia University, Earth Institute, Center for Climate Systems Research and NASA Goddard Institute for Space Studies<br/> 
+* **Postdoctoral Research Scientist**, Columbia University, Center for Climate Systems Research and NASA Goddard Institute for Space Studies (2021 – present)<br/> 
 <ins>Project</ins>: NOAA MAPP Evaluating and Constraining Models’ Stratocumulus and Cumulus Cloud Feedbacks in the Tropics using Satellite Observations to Reduce Uncertainties in Future Climate Projections<br/>
 Advisors: Dr. Gregory Cesana, Prof. Dr. Robert Pincus, Dr. Andrew Ackerman
 
@@ -32,17 +31,17 @@ Supervisors: Prof. Dr. Bernhard Mayer, Prof. Dr. George Craig
 * **Visiting scientist**, Naval Postgraduate School, Monterey, California (April-May 2015)<br/> 
 Department of Meteorology, Prof. Dr. Michael Montgomery
 
-* **M.Sc. Meteorology**, Faculty of Physics, Ludwig-Maximilians-University Munich, Germany (2013 – 2015)<br/> 
+* **M.Sc. Meteorology**, Ludwig-Maximilians-University Munich, Germany (2013 – 2015)<br/> 
 Working group: [Tropical meteorology](https://www.en.meteo.physik.uni-muenchen.de/forschung/tropische/index.html)<br/> 
 <ins>Thesis title</ins>: _Dependence of tropical cyclone intensification on latitude and sea surface temperature_<br/> 
 Supervisor: Prof. Dr. Roger K. Smith
 
-* **B.Sc. Meteorology with Geophysics**, Faculty of Mathematics and Physics, University of Ljubljana, Slovenia (2011 – 2014)<br/>
+* **B.Sc. Meteorology with Geophysics**, University of Ljubljana, Slovenia (2011 – 2014)<br/>
 <ins>Seminar title</ins>: _North Atlantic Oscillation_<br/> 
 Supervisor: Prof. Dr. Nedjeljka Žagar
 
-* **B.Sc. Physics**, Faculty of Mathematics and Physics, University of Ljubljana, Slovenia (2009 – 2013)<br/>
-3rd academic year (2011 – 2012) abroad: Faculty of Mathematics and Natural Sciences, Technical University of Berlin, Germany
+* **B.Sc. Physics**, University of Ljubljana, Slovenia (2009 – 2013)<br/>
+3rd academic year abroad: Technical University of Berlin, Germany (2011 – 2012)
 
 
 ## Publications
