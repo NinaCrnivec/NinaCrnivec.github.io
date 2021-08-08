@@ -24,7 +24,7 @@ Section for meteorological, hydrological and oceanographic forecasts:<br/>
 
 ## Education
 
-* **Ph.D.**, Faculty of Physics, Ludwig-Maximilians-University Munich, Germany (2016 – 2019/2020)<br/> 
+* **Dr.rer.nat.**, Faculty of Physics, Ludwig-Maximilians-University Munich, Germany (2016 – 2019/2020)<br/> 
 Working group: [Remote sensing and radiative transfer](https://www.en.meteo.physik.uni-muenchen.de/forschung/atmo_fern/index.html)<br/> 
 Thesis title: Towards an improved treatment of unresolved cloud-radiation interaction in weather and climate models<br/> 
 Supervisors: Prof. Dr. Bernhard Mayer, Prof. Dr. George Craig
