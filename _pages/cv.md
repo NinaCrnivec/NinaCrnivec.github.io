@@ -13,7 +13,7 @@ redirect_from:
 
 * **Postdoctoral Research Scientist**, Columbia University, Center for Climate Systems Research and NASA Goddard Institute for Space Studies (2021 – present)<br/> 
 <ins>Project</ins>: NOAA [Evaluating and Constraining Models’ Stratocumulus and Cumulus Cloud Feedbacks in the Tropics using Satellite Observations to Reduce Uncertainties in Future Climate Projections](https://www.earth.columbia.edu/projects/view/2203)<br/>
-Advisors: Dr. Gregory Cesana, Prof. Dr. Robert Pincus, Dr. Andrew Ackerman
+Advisors: Dr. Grégory Cesana, Prof. Dr. Robert Pincus, Dr. Andrew Ackerman
 
 * **Meteorologist**, Slovenian Environment Agency (2020 – 2021)<br/> 
 Section for meteorological, hydrological and oceanographic modeling:<br/>
