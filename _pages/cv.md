@@ -24,20 +24,20 @@ Section for meteorological, hydrological and oceanographic forecasts:<br/>
 
 * **Ph.D.**, Faculty of Physics, Ludwig-Maximilians-University Munich, Germany (2016 – 2019/2020)<br/> 
 Working group: [Remote sensing and radiative transfer](https://www.en.meteo.physik.uni-muenchen.de/forschung/atmo_fern/index.html)<br/> 
-_Thesis title: Towards an improved treatment of unresolved cloud-radiation interaction in weather and climate models_<br/> 
-_Supervisors: Prof. Dr. Bernhard Mayer, Prof. Dr. George Craig_
+Thesis title: Towards an improved treatment of unresolved cloud-radiation interaction in weather and climate models<br/> 
+Supervisors: Prof. Dr. Bernhard Mayer, Prof. Dr. George Craig
 
 * **Visiting scientist**, Naval Postgraduate School, Monterey, California (April-May 2015)<br/> 
 Department of Meteorology, Prof. Dr. Michael Montgomery
 
 * **M.Sc. Meteorology**, Faculty of Physics, Ludwig-Maximilians-University Munich, Germany (2013 – 2015)<br/> 
 Working group: [Tropical meteorology](https://www.en.meteo.physik.uni-muenchen.de/forschung/tropische/index.html)<br/> 
-_Thesis title: Dependence of tropical cyclone intensification on latitude and sea surface temperature_<br/> 
-_Supervisor: Prof. Dr. Roger K. Smith_
+Thesis title: Dependence of tropical cyclone intensification on latitude and sea surface temperature<br/> 
+Supervisor: Prof. Dr. Roger K. Smith
 
 * **B.Sc. Meteorology with Geophysics**, Faculty of Mathematics and Physics, University of Ljubljana, Slovenia (2011 – 2014)<br/>
-_Bachelor's Seminar title: North Atlantic Oscillation_<br/> 
-_Supervisor: Prof. Dr. Nedjeljka Žagar_
+Bachelor's Seminar title: North Atlantic Oscillation_<br/> 
+Supervisor: Prof. Dr. Nedjeljka Žagar
 
 * **B.Sc. Physics**, Faculty of Mathematics and Physics, University of Ljubljana, Slovenia (2009 – 2013)<br/>
 3rd academic year (2011 – 2012) abroad: Faculty of Mathematics and Natural Sciences, Technical University of Berlin, Germany
