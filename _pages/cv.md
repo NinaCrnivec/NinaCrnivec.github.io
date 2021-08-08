@@ -24,20 +24,20 @@ Section for meteorological, hydrological and oceanographic forecasts:<br/>
 ## Education
 
 * **Dr.rer.nat.**, Faculty of Physics, Ludwig-Maximilians-University Munich, Germany (2016 – 2019/2020)<br/> 
-Working group: [Remote sensing and radiative transfer](https://www.en.meteo.physik.uni-muenchen.de/forschung/atmo_fern/index.html)<br/> 
-<ins>Dissertation title</ins>: _Towards an improved treatment of unresolved cloud-radiation interaction in weather and climate models_<br/> 
-Supervisors: Prof. Dr. Bernhard Mayer, Prof. Dr. George Craig
+<ins>Dissertation</ins>: _Towards an improved treatment of unresolved cloud-radiation interaction in weather and climate models_<br/> 
+Supervisors: Prof. Dr. Bernhard Mayer, Prof. Dr. George Craig<br/>
+Working group: [Remote sensing and radiative transfer](https://www.en.meteo.physik.uni-muenchen.de/forschung/atmo_fern/index.html) 
 
 * **Visiting scientist**, Naval Postgraduate School, Monterey, California (April-May 2015)<br/> 
 Department of Meteorology, Prof. Dr. Michael Montgomery
 
 * **M.Sc. Meteorology**, Ludwig-Maximilians-University Munich, Germany (2013 – 2015)<br/> 
-Working group: [Tropical meteorology](https://www.en.meteo.physik.uni-muenchen.de/forschung/tropische/index.html)<br/> 
-<ins>Thesis title</ins>: _Dependence of tropical cyclone intensification on latitude and sea surface temperature_<br/> 
-Supervisor: Prof. Dr. Roger K. Smith
+<ins>Thesis</ins>: _Dependence of tropical cyclone intensification on latitude and sea surface temperature_<br/> 
+Supervisor: Prof. Dr. Roger K. Smith<br/> 
+Working group: [Tropical meteorology](https://www.en.meteo.physik.uni-muenchen.de/forschung/tropische/index.html)
 
 * **B.Sc. Meteorology with Geophysics**, University of Ljubljana, Slovenia (2011 – 2014)<br/>
-<ins>Seminar title</ins>: _North Atlantic Oscillation_<br/> 
+<ins>Seminar</ins>: _North Atlantic Oscillation_<br/> 
 Supervisor: Prof. Dr. Nedjeljka Žagar
 
 * **B.Sc. Physics**, University of Ljubljana, Slovenia (2009 – 2013)<br/>
