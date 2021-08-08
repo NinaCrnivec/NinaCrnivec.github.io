@@ -9,12 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+## Education and Work Experience
 
 * **Postdoctoral Research Scientist** (2021 – present)<br/> 
 Columbia University, Earth Institute, Center for Climate Systems Research and NASA Goddard Institute for Space Studies<br/> 
 <ins>Project</ins>: NOAA MAPP Evaluating and Constraining Models’ Stratocumulus and Cumulus Cloud Feedbacks in the Tropics using Satellite Observations to Reduce Uncertainties in Future Climate Projections<br/>
 Advisors: Dr. Gregory Cesana, Prof. Dr. Robert Pincus, Dr. Andrew Ackerman
+
+* **Meteorologist**, Slovenian Environment Agency (2020 – 2021)<br/> 
+Section for meteorological, hydrological and oceanographic modeling:<br/>
+<ins>Project</ins>: WMO [South-East European Multi-Hazard Early Warning Advisory System (SEE-MHEWS)](https://public.wmo.int/en/projects/see-mhews-a)<br/>
+Section for meteorological, hydrological and oceanographic forecasts:<br/>
+<ins>Project</ins>: [Electronic General Aviation FORecast (eGAFOR)](https://egafor.eu/)<br/>
 
 * **PhD in Meteorology** (2016 – 2019/2020)<br/> 
 Faculty of Physics, Ludwig-Maximilians-University Munich, Germany<br/> 
@@ -40,12 +46,6 @@ _Supervisor: Prof. Dr. Nedjeljka Žagar_
 Faculty of Mathematics and Physics, University of Ljubljana, Slovenia<br/>
 3rd academic year (2011 – 2012) abroad: Faculty of Mathematics and Natural Sciences, Technical University of Berlin, Germany
 
-## Work Experience
-* Meteorologist, Slovenian Environment Agency<br/> 
-Section for meteorological, hydrological and oceanographic forecasts (2021):<br/>
-<ins>Project</ins>: [Electronic General Aviation FORecast (eGAFOR)](https://egafor.eu/)<br/>
-Section for meteorological, hydrological and oceanographic modeling (2020):<br/>
-<ins>Project</ins>: WMO [South-East European Multi-Hazard Early Warning Advisory System (SEE-MHEWS)](https://public.wmo.int/en/projects/see-mhews-a)<br/>
 
 ## Publications
 
