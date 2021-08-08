@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Education and Work Experience
+## Work Experience
 
 * **Postdoctoral Research Scientist** (2021 – present)<br/> 
 Columbia University, Earth Institute, Center for Climate Systems Research and NASA Goddard Institute for Space Studies<br/> 
@@ -21,6 +21,8 @@ Section for meteorological, hydrological and oceanographic modeling:<br/>
 <ins>Project</ins>: WMO [South-East European Multi-Hazard Early Warning Advisory System (SEE-MHEWS)](https://public.wmo.int/en/projects/see-mhews-a)<br/>
 Section for meteorological, hydrological and oceanographic forecasts:<br/>
 <ins>Project</ins>: [Electronic General Aviation FORecast (eGAFOR)](https://egafor.eu/)<br/>
+
+## Education
 
 * **Ph.D.**, Faculty of Physics, Ludwig-Maximilians-University Munich, Germany (2016 – 2019/2020)<br/> 
 Working group: [Remote sensing and radiative transfer](https://www.en.meteo.physik.uni-muenchen.de/forschung/atmo_fern/index.html)<br/> 
