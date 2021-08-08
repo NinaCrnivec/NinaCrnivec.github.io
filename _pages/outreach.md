@@ -16,15 +16,15 @@ redirect_from:
 
 * [In Slovene] Contribution to the Slovenian newspaper 'Delo - Sobotna priloga: [Razglednice z vroče strani Alp'](https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/) (12/2020)
 
-* [In Slovene] Together with Katarina Kosovelj (UL-FMF) and Matija Klančar (ARSO) we initiated the project ['Interview: In brief'](http://meteorolog.si/index.php/2020/09/15/napovednik-intervjuji-na-kratko/) to present the diverse work of Slovenian meteorologists to foster student interest in meteorology (09/2020)
+* [In Slovene] Together with Katarina Kosovelj and Matija Klančar we initiated the project ['Interview: In brief'](http://meteorolog.si/index.php/2020/09/15/napovednik-intervjuji-na-kratko/) on the Slovenian weather and climate portal [Meteorolog.si](http://meteorolog.si/) to present the diverse work of Slovenian meteorologists to foster student interest in meteorology (09/2020)
 
 * [In Slovene] Podcast interview about tropical cyclones as well as studying and researching meteorology in Slovenia and abroad, **ARSO podcast**: ['Interview with meteorologist Nina Črnivec'](http://www.meteo.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20200520_ep040.mp3) (05/2020)
 
-* [In Slovene & English] [Big Steps](https://www.facebook.com/dvtis/photos/a.1017215245070418/1956902154435051/?type=3&theater) coverage by Association of Slovenes Educated Abroad (VTIS) (02/2020)
+* [In Slovene & English] [Big Steps](https://www.facebook.com/dvtis/photos/a.1017215245070418/1956902154435051/?type=3&theater) coverage by Association of Slovenes Educated Abroad (02/2020)
 
 * [In Slovene] Podcast interview about my PhD research, **Metina lista**: [Meta PHoDcast 107: Nina Črnivec, meteorologinja](https://metinalista.si/meta-phodcast-107-nina-crnivec-meteorologinja/) (01/2020), @Meteorolog.si: [Metina lista: Intervju z meteorologinjo Nino Črnivec](http://meteorolog.si/index.php/2020/02/03/metina-lista-intervju-z-meteorologinjo-nino-crnivec/)<br/> 
 
-* [In Slovene] Invited talk and panel discussion, [4. Symposium of Slovene Researchers Abroad (Climate Change Panel)](https://www.drustvovtis.si/4-simpozij-slovenskih-raziskovalcev-v-tujini/) organized by Association of Slovenes Educated Abroad (VTIS) and Ministry of Education, Science and Sport, Ljubljana, Slovenia (12/2019) 
+* [In Slovene] Invited talk and panel discussion, [4. Symposium of Slovene Researchers Abroad (Climate Change Panel)](https://www.drustvovtis.si/4-simpozij-slovenskih-raziskovalcev-v-tujini/) organized by Association of Slovenes Educated Abroad and Ministry of Education, Science and Sport, Ljubljana, Slovenia (12/2019) 
 
 <!-- 
 _More information & event media coverage:_
