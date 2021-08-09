@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <font color="DarkCyan"><b><i>Postdoctoral research:</i></b></font><br>
-<font size="3">**Constraining cumulus and stratocumulus cloud feedbacks using satellite observations**</font> 
+**Constraining cumulus and stratocumulus cloud feedbacks using satellite observations** 
 
 Low-cloud feedbacks represent the largest source of uncertainty in climate projections on the centennial scale. In my postdoctoral research I employ satellite observations to constrain low-cloud feedbacks in a suite of global CMIP5 and CMIP6 climate models. The main aim of this research is to separately evaluate feedbacks related to the two main low cloud categories: shallow cumulus and stratocumulus. To accomplish this task I utilize the Cumulus and Stratocumuls CloudSat-CALIPSO Dataset (CASCCAD) recently created by Cesana et al. (2019).<br/> 
 
