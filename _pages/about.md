@@ -13,11 +13,11 @@ _In case you have interest and want to collaborate on any of these topics, I wou
 
 Research Interests
 ------
-- Cloud feedbacks, climate sensitivity
+- Shallow cumulus, stratocumulus, cloud feedbacks, climate sensitivity
 
-- Cloud-radiation interaction modeling, shallow cumulus clouds
+- Cloud-radiation interaction, cloud inhomogeneity, three-dimensional radiative transfer 
 
-- Tropical cyclone intensification and tropical climatology
+- Tropical cyclone intensification, tropical climatology
 
 [Read more](https://ninacrnivec.github.io/research/)
 
