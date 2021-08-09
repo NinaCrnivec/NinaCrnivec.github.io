@@ -18,6 +18,10 @@ Low-cloud feedbacks represent the largest source of uncertainty in climate proje
 
 ![Cloud-radiation interaction modeling](/images/acp-2020-Fig1-web_CrnivecMayer.png)
 
+![Shallow cumulus - MYSTIC visualization](/images/cumulus_UCLA-LES_MYSTICvis_Crnivec.gif)
+
+_More coming soon, stay tuned!_
+
 <font color="DarkCyan"><b><i>Master thesis research:</i></b></font>
 
 **Tropical cyclone intensification & tropical climatology**
