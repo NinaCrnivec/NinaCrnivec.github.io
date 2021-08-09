@@ -16,6 +16,7 @@ Low-cloud feedbacks represent the largest source of uncertainty in climate proje
 
 **Cloud-radiation interaction modeling to advance parameterizations in weather and climate models**<br/> 
 
+![Cloud-radiation interaction modeling](/images/acp-2020-Fig1-web_CrnivecMayer.png)
 
 <font color="DarkCyan"><b><i>Master thesis research:</i></b></font>
 
