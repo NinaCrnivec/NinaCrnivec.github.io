@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am an atmospheric scientist interested in a wide variety of phenomena shaping Earth's weather and climate. My research focuses on clouds, radiative transfer, their interplay as well as on dynamics of larger cloud systems such as tropical cyclones. I am currently a [postdoctoral research scientist](https://ccsr.columbia.edu/people/nina-crnivec) working with [Dr. Grégory Cesana](https://ccsr.columbia.edu/people/gregory-cesana) at Columbia University & NASA GISS, where I aim to better understand low clouds and the role they play in the complex, nonlinear, multiscale climate system. Besides classic research work, I enjoy various science outreach activities and I am actively engaged in communicating climate change on board of the [RESCCCUE](https://www.emetsoc.org/oc2020-for-rescccue-slovenia/) team.
 
-_In case you have interest and want to collaborate on any of these topics, I would be happy to get in touch!_ 
+_In case you have interest in any of these topics, I would be happy to get in touch!_ 
 
 Research Interests
 ------
