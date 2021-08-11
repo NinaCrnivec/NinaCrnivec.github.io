@@ -70,6 +70,7 @@ See [Events tab](https://ninacrnivec.github.io/events/)
   
 ## Membership
 
+* Member of American Geophysical Union (AGU)
 * Member of [“Slovensko meteorološko društvo (SMD)”](http://www.smd.v-izdelavi.si/domov/) (Slovenian Meteorological Society)
 * Member of ["Društvo v tujini izobraženih Slovencev (Društvo VTIS)"](https://www.drustvovtis.si/) (Association of Slovenes Educated Abroad) 
 
