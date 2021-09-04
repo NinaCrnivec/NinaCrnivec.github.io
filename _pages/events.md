@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 ## Conferences & Seminars
-* 1st ACCORD (A Consortium for COnvection-scale modelling Research and Development) All Staff Workshop, video-conference (04/2021)<br/>
+* 1st ACCORD (A Consortium for COnvection-scale modelling Research and Development) All Staff Workshop, virtual (04/2021)<br/>
 Pristov, N., B. Strajnar, J. Jerman, J. Cedilnik, M. Ličer, A. Fettich, M. Ličar, **N. Črnivec**, P. Smerkol: "NWP activities at ARSO (Slovenia)" (poster)
-* 42th EWGLAM and 27th SRNWP 2020, video-conference (09/2020)<br/>
+* 42th EWGLAM (European Working Group on Limited-Area Modelling) and 27th SRNWP (Short-range numerical weather prediction) Meeting 2020, virtual (09/2020)<br/>
 Strajnar, B., N. Pristov, **N. Črnivec**, J. Cedilnik, P. Smerkol, V. Švagelj, J. Čampa, A. Fettich, M. Ličer, J. Jerman, M. Ličar: "ALADIN in Slovenia - 2020" (poster)
-* Joint 30th ALADIN Workshop and HIRLAM (High Resolution Limited Area Model) All Staff Meeting 2020, video-conference (04/2020)
+* Joint 30th ALADIN Workshop and HIRLAM (High Resolution Limited Area Model) All Staff Meeting 2020, virtual (04/2020)
 * Institutional seminar, Ludwig-Maximilians University of Munich, Munich, Germany (02/2019)<br/>**Črnivec, N.** and B. Mayer: “Towards an improved treatment of unresolved cloud-radiation interaction in numerical models” (talk)
 * [Waves To Weather 4th Annual Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/4th-annual-meeting-nov18/index.html), Landau, Germany (11/2018)<br/>**Črnivec, N.** and B. Mayer: "B4-Workpackage 2: Radiative heating and cooling at cloud scale and its impact on dynamics" (poster)
 * [Waves To Weather Research Area B (Cloud-scale Uncertainties) Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/rab-meeting-mar2018/index.html), Johannes Gutenberg University Mainz, Mainz, Germany (03/2018)<br/>**Črnivec, N.** and B. Mayer: “Radiative heating and cooling at cloud scale and its impact on dynamics” (talk)
