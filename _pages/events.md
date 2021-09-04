@@ -41,5 +41,6 @@ Smith, R. K., G. Kilroy, C. Schmidt, **N. Črnivec**, M. T. Montgomery: “Bound
 * Summer School on Aerosol-Cloud Interactions, International Centre for Theoretical Physics (ICTP), Trieste, Italy (06/2016)
 * [Waves To Weather Early Career Scientists Workshop](https://w2w.meteo.physik.uni-muenchen.de/meetings/ecs-workshop-jun-2016/index.html), Kaub, Germany (06/2016)<br/>**Črnivec, N.** and B. Mayer: “Atmospheric radiation and its impact on weather” (talk)
 * [Waves To Weather Visualization Workshop](https://w2w.meteo.physik.uni-muenchen.de/meetings/visualization-workshop2016/index.html), Technical University of Munich, Garching, Germany (04/2016)
-* [Waves To Weather Early Career Scientists Workshop](https://w2w.meteo.physik.uni-muenchen.de/meetings/ecs-workshop-dec15/index.html), Karlsruhe Institute of Technology, Karlsruhe, Germany (10/2015)
+* [Waves To Weather Early Career Scientists Workshop](https://w2w.meteo.physik.uni-muenchen.de/meetings/ecs-workshop-dec15/index.html), Karlsruhe Institute of Technology, Karlsruhe, Germany (10/2015)<br/>
+**Črnivec, N.**: “Tropical cyclone intensification” (talk, presentation skills training)
 * Practical Training at Slovenian Environment Agency (Meteorological and hydrological office; Section for contol, flow and archive of data), Ljubljana, Slovenia (09/2012)
