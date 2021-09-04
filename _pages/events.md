@@ -33,7 +33,8 @@ Smith, R. K., G. Kilroy, C. Schmidt, **N. Črnivec**, M. T. Montgomery: “Bound
 * Data Science Workshop on data analysis with R: summeRworkshop, University of Ljubljana, Ljubljana, Slovenia (07/2019)
 * Open Education Design Workshop, University of Nova Gorica, Vipava, Slovenia (07/2019)
 * [Waves To Weather Early Career Scientists Workshop on Machine Learning and Neural Networks](https://www.wavestoweather.de/meetings/workshop_neural_networks_sep18/index.html), Zugspitze, Germany (09/2018)
-* [Waves To Weather Early Career Scientists Workshop](https://w2w.meteo.physik.uni-muenchen.de/meetings/ecs-workshop-mar-2018/index.html), Heidelberg University, Heidelberg, Germany (03/2018)
+* [Waves To Weather Early Career Scientists Workshop](https://w2w.meteo.physik.uni-muenchen.de/meetings/ecs-workshop-mar-2018/index.html), Heidelberg University, Heidelberg, Germany (03/2018)<br/>
+**Črnivec, N.**: Fortran with Code::Blocks IDE (Tool promotion talk)
 * Workshop on Scientific Writing, Ludwig-Maximilians University of Munich, Munich, Germany (06/2017)
 * [Waves To Weather Early Career Scientists Workshop](https://w2w.meteo.physik.uni-muenchen.de/meetings/ecs_meeting_april2017/index.html), Bad Tölz, Germany (04/2017)<br/>**Črnivec, N.** and B. Mayer: “1-D radiation parameterizations and their problems related to clouds” (talk)
 * COSMO Training Course, Deutscher Wetterdienst (DWD), Langen, Germany (03/2017)
