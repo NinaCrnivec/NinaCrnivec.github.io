@@ -23,7 +23,7 @@ Montgomery, M. T., G. Kilroy, R. K. Smith and **N. Črnivec**: Contribution of m
 
 **Črnivec, N.**: [Towards an improved treatment of unresolved cloud-radiation interaction in weather and climate models](https://edoc.ub.uni-muenchen.de/27502/13/Crnivec_Nina.pdf). _Doctoral dissertation_, Ludwig-Maximilians-University Munich, 2020.
 
-**Črnivec, N.**: Dependence of tropical cyclone intensification on latitude and sea surface temperature. _Master thesis_, Ludwig-Maximilians-University Munich, 2015.
+**Črnivec, N.**: [Dependence of tropical cyclone intensification on latitude and sea surface temperature](https://github.com/NinaCrnivec/NinaCrnivec.github.io/blob/master/files/NinaCrnivec_MA.pdf). _Master thesis_, Ludwig-Maximilians-University Munich, 2015.
 
 <font color="DarkCyan"><b><i>Open letter</i></b></font>
 
