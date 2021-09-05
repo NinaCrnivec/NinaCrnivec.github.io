@@ -62,7 +62,7 @@ Montgomery, M. T., G. Kilroy, R. K. Smith and **N. Črnivec**: Contribution of m
 
 Strajnar, B., N. Pristov, J. Cedilnik, **N. Črnivec** and J. Čampa: ALADIN highlights in Slovenia - 2020. Submitted to _ACCORD Newsletter_, 2021.
 
-**Črnivec, N.**, B. Strajnar, N. Pristov and J. Cedilnik: Preparation of ECMWF LBCs for RC LACE: spectral analysis. _ALADIN-HIRLAM Newsletter_, 15, 73-76, 2020.
+**Črnivec, N.**, B. Strajnar, N. Pristov and J. Cedilnik: [Preparation of ECMWF LBCs for RC LACE: spectral analysis](https://github.com/NinaCrnivec/NinaCrnivec.github.io/blob/master/files/Crnivec_etal_2020_AHNL15_p73-76.pdf). _ALADIN-HIRLAM Newsletter_, 15, 73-76, 2020.
 
 <font color="DarkCyan"><b><i>Popular scientific articles</i></b></font>
 
