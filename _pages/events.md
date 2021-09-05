@@ -27,7 +27,7 @@ author_profile: true
 Pristov, N., B. Strajnar, J. Jerman, J. Cedilnik, M. Ličer, A. Fettich, M. Ličar, **N. Črnivec**, P. Smerkol: "NWP activities at ARSO (Slovenia)" (poster)
 * 42th EWGLAM (European Working Group on Limited-Area Modelling) and 27th SRNWP (Short-range numerical weather prediction) Meeting, virtual (09/2020)<br/>
 Strajnar, B., N. Pristov, **N. Črnivec**, J. Cedilnik, P. Smerkol, V. Švagelj, J. Čampa, A. Fettich, M. Ličer, J. Jerman, M. Ličar: "ALADIN in Slovenia - 2020" (poster)
-* [AMS 32nd Conference on Hurricanes and Tropical Meteorology](https://ams.confex.com/ams/32Hurr/webprogram/32HURRICANES.html), San Juan, Puerto Rico (04/2016)<br/>
+* [American Meteorological Society 32nd Conference on Hurricanes and Tropical Meteorology](https://ams.confex.com/ams/32Hurr/webprogram/32HURRICANES.html), San Juan, Puerto Rico (04/2016)<br/>
 Smith, R. K., G. Kilroy, C. Schmidt, **N. Črnivec**, M. T. Montgomery: “Boundary Layer Control of Tropical Cyclone Intensification"
 
 ## Other attended workshops & seminars:
