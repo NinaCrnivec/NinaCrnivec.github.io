@@ -22,7 +22,7 @@ author_profile: true
 * Institutional seminar, Ludwig-Maximilians University of Munich, Munich, Germany (10/2015)<br/>**Črnivec, N.** and R. K. Smith: “The diurnal cycle of mature tropical cyclones” (talk)
 
 ## Contributing author for the following presentations:
-* European Meteorological Society Annual Meeting, virtual (09/2021)<br/> Zaplotnik, Ž., Boljka, L., **Črnivec, N.**, Slameršak, A.: Project RESCCCUE: “REminding Slovenian authorities Climate Change Crisis requires Urgent Effort” [Abstract](https://meetingorganizer.copernicus.org/EMS2021/EMS2021-416.html)
+* European Meteorological Society Annual Meeting, virtual (09/2021)<br/> Zaplotnik, Ž., Boljka, L., **Črnivec, N.**, Slameršak, A.: Project RESCCCUE: “REminding Slovenian authorities Climate Change Crisis requires Urgent Effort” [abstract](https://meetingorganizer.copernicus.org/EMS2021/EMS2021-416.html)
 * A Consortium for COnvection-scale modelling Research and Development (ACCORD) All Staff Workshop, virtual (04/2021)<br/>
 Pristov, N., B. Strajnar, J. Jerman, J. Cedilnik, M. Ličer, A. Fettich, M. Ličar, **N. Črnivec**, P. Smerkol: "NWP activities at ARSO (Slovenia)" (poster)
 * European Working Group on Limited-Area Modelling (EWGLAM) and Short-Range Numerical Weather Prediction (SRNWP) Meeting, virtual (09/2020)<br/>
