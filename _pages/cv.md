@@ -12,12 +12,12 @@ redirect_from:
 ## Work Experience
 
 * **Postdoctoral Research Scientist**, Columbia University, Earth Institute, Center for Climate Systems Research and NASA Goddard Institute for Space Studies (2021 – present)<br/> 
-<ins>Project</ins>: NOAA [Evaluating and Constraining Models’ Stratocumulus and Cumulus Cloud Feedbacks in the Tropics using Satellite Observations to Reduce Uncertainties in Future Climate Projections](https://www.earth.columbia.edu/projects/view/2203)<br/>
+<ins>Project</ins>: [Evaluating and Constraining Models’ Stratocumulus and Cumulus Cloud Feedbacks in the Tropics using Satellite Observations to Reduce Uncertainties in Future Climate Projections](https://www.earth.columbia.edu/projects/view/2203) within NOAA-MAPP's Climate Sensitivity Task Force <br/>
 Advisors: Dr. Grégory Cesana, Prof. Dr. Robert Pincus, Dr. Andrew Ackerman
 
 * **Meteorologist**, Slovenian Environment Agency (2020 – 2021)<br/> 
 Section for meteorological, hydrological and oceanographic modeling:<br/>
-<ins>Project</ins>: WMO [South-East European Multi-Hazard Early Warning Advisory System (SEE-MHEWS)](https://public.wmo.int/en/projects/see-mhews-a)<br/>
+<ins>Project</ins>: [South-East European Multi-Hazard Early Warning Advisory System (SEE-MHEWS)](https://public.wmo.int/en/projects/see-mhews-a) of WMO<br/>
 Section for meteorological, hydrological and oceanographic forecasts:<br/>
 <ins>Project</ins>: [Electronic General Aviation FORecast (eGAFOR)](https://egafor.eu/)<br/>
 
@@ -26,7 +26,7 @@ Section for meteorological, hydrological and oceanographic forecasts:<br/>
 * **Dr.rer.nat.**, Faculty of Physics, Ludwig-Maximilians-University Munich, Germany (2016 – 2019/2020)<br/> 
 <ins>Dissertation</ins>: _Towards an improved treatment of unresolved cloud-radiation interaction in weather and climate models_<br/> 
 Supervisors: Prof. Dr. Bernhard Mayer, Prof. Dr. George Craig<br/>
-Working group: [Remote sensing and radiative transfer](https://www.en.meteo.physik.uni-muenchen.de/forschung/atmo_fern/index.html) 
+Working group: [Remote sensing and radiative transfer](https://www.en.meteo.physik.uni-muenchen.de/forschung/atmo_fern/index.html)
 
 * **Visiting scientist**, Naval Postgraduate School, Monterey, California (April – May 2015)<br/> 
 Department of Meteorology, Prof. Dr. Michael Montgomery
@@ -64,7 +64,7 @@ See [Events tab](https://ninacrnivec.github.io/events/)
 * Erasmus Grant for studying abroad (2011 – 2012)
 * Zois Scholarship for distinctly talented students, awarded by the Slovene Human Resources Development and Scholarship Fund (entire secondary school and university studying period in Slovenia: 2005 – 2013)
 * Dean’s Award for outstanding academic achievement, University of Ljubljana (2009 – 2014)
-* Golden Matura Award for outstanding achievements at secondary school final examination and Special Award for top final grades in all subjects (2009)
+* Golden Matura Award for outstanding achievements at secondary school final examination and Special Award for top final grades in all subjects in the last study year (2009)
 * Gold Award at 51th National Mathematics Competition of Slovenia (2007)
 * Silver Awards at 50th and 51th National Mathematics Competitions of Slovenia (2006, 2007)
   
