@@ -26,7 +26,7 @@ The first objective of my PhD was to quantify the radiative bias in regional NWP
 Specifically, I assessed the cloud-radiative bias in regional models arising from two chief shortcomings.
 First, the poor representation of unresolved clouds, which are normally approximated as horizontally homogeneous partial cloudiness. 
 Second, the intrinsic constraint of two-stream radiation schemes, which neglect horizontal photon flow. 
-I further examined the bias dependence on various parameters including the solar zenith angle, surface albedo, cloud cover and liquid water path. 
+I further examined the bias dependence on various parameters such as the solar zenith angle, surface albedo, cloud cover and liquid water path. 
 I conducted the offline radiative transfer experiments with the [libRadtran](http://www.libradtran.org/) software, the main advantage of which is an accurate benchmark 3-D Monte Carlo radiation model (Mayer, 2009). As a technical challenge, I coded a common regional model radiation scheme, namely the <em>δ-Eddington two-stream method with maximum-random overlap assumption for partial cloudiness</em>, which was implemented into libRadtran for the purpose of this research subject ([Črnivec and Mayer, 2019](https://acp.copernicus.org/articles/19/8083/2019/)). 
 
 ![Shallow cumulus - MYSTIC visualization](/images/cumulus_UCLA-LES_MYSTICvis_Crnivec.gif)
