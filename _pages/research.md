@@ -20,7 +20,7 @@ Low-cloud feedbacks contribute strongly to the multimodel spread in equilibrium 
 The cloud-radiation interaction represents a persistent source of uncertainty in weather and climate models. In my doctoral research I investigated the three-dimensional (3-D) interaction between atmospheric radiation and highly-resolved heterogeneous cloud structures in order to improve its representation in regional and global models.
 
 ![Cloud-radiation interaction modeling](/images/acp-2020-Fig1-web_CrnivecMayer.png)
-<em>Divergent modelling of cloud-radiation interaction (figure courtesy of [Črnivec and Mayer, 2020](https://acp.copernicus.org/articles/20/10733/2020/)).</em>
+<font color="Grey"><i>Divergent modelling of cloud-radiation interaction (figure courtesy of Črnivec and Mayer, 2020)</i></font>
 
 The first objective of my PhD was to quantify the radiative bias in regional NWP models for an evolving shallow cumulus cloud field (visualized below), comprising scenarios of broken cumulus as well as more uniform stratocumulus clouds. 
 Specifically, I assessed the cloud-radiative bias in regional models arising from two chief shortcomings.
@@ -30,7 +30,7 @@ I further examined the bias dependence on various parameters such as the solar z
 I conducted the offline radiative transfer experiments with the [libRadtran](http://www.libradtran.org/) software, the main advantage of which is an accurate benchmark 3-D Monte Carlo radiation model MYSTIC (Mayer, 2009). As a technical challenge, I coded a common regional model radiation scheme, namely the <em>δ-Eddington two-stream method with maximum-random overlap assumption for partial cloudiness</em>, which was implemented into libRadtran for the purpose of this research subject ([Črnivec and Mayer, 2019](https://acp.copernicus.org/articles/19/8083/2019/)). 
 
 ![Shallow cumulus - MYSTIC visualization](/images/cumulus_UCLA-LES_MYSTICvis_Crnivec.gif)
-<font color="Grey"><i>MYSTIC visualization of a cumulus rising into stratocumulus generated with the UCLA large-eddy simulation model (figure courtesy of </i></font>[Črnivec and Mayer, 2019](https://acp.copernicus.org/articles/19/8083/2019/)<font color="Grey"><i>)</i></font>
+<font color="Grey"><i>MYSTIC visualization of a cumulus rising into stratocumulus generated with the UCLA-LES model (figure courtesy of Črnivec and Mayer, 2019)</i></font>
 
 The second objective of my PhD was to advance the cloud-radiation interchange parameterization in coarse-resolution global models, focusing on the issues related to misrepresentation of cloud horizontal inhomogeneity. This subject was tackled with the state-of-the-art Tripleclouds radiative solver, the fundamental feature of which is the inclusion of the optically thicker and thinner cloud fraction. Inspired by the Tripleclouds concept primarily introduced by Shonk and Hogan (2008), I constructed the <em>Tripleclouds radiation scheme based on the core-shell model for convective clouds</em> ([Črnivec and Mayer, 2020](https://acp.copernicus.org/articles/20/10733/2020/)). I subsequently demonstrated the potential of the Tripleclouds scheme for diverse cloud types, comprising case studies of cumulus, stratocumulus, cirrus and cumulonimbus. It was overall found that the optimal Tripleclouds configuration minimizing the radiative bias essentially depends on cloud type, which supports the use of cloud regime dependent methodologies in next-generation atmospheric models ([Črnivec and Mayer, 2021](https://gmd.copernicus.org/articles/14/3663/2021/)).
 
