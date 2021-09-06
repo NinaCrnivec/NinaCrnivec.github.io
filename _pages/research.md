@@ -32,7 +32,6 @@ I further examined the bias dependence on various parameters (solar zenith angle
 
 The second objective of my PhD was to advance the cloud-radiation interchange parameterization in coarse-resolution global models, focusing on the issues related to misrepresentation of cloud horizontal inhomogeneity. This subject was tackled with the state-of-the-art Tripleclouds radiative solver, the fundamental feature of which is the inclusion of the optically thicker and thinner cloud fraction. Inspired by the Tripleclouds concept primarily introduced by Shonk and Hogan (2008), I constructed the Tripleclouds radiation scheme based on the core-shell model for convective clouds (Fig. f) (Črnivec and Mayer, 2020). I subsequently demonstrated the potential of the Tripleclouds scheme for diverse cloud types, comprising case studies of cumulus, stratocumulus, cirrus and cumulonimbus. It was overall found that the optimal Tripleclouds configuration minimizing the radiative bias essentially depends on cloud type, which supports the use of cloud regime dependent methodologies in next-generation atmospheric models (Črnivec and Mayer, 2021).
 
-_More coming soon, stay tuned!_
 
 <font color="DarkCyan"><b><i>Master thesis research:</i></b></font>
 
