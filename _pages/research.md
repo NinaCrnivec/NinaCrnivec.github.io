@@ -20,6 +20,7 @@ Low-cloud feedbacks contribute strongly to the multimodel spread in equilibrium 
 The cloud-radiation interaction represents a persistent source of uncertainty in weather and climate models. In my doctoral research I investigated the three-dimensional (3-D) interaction between atmospheric radiation and highly-resolved heterogeneous cloud structures in order to improve its representation in regional and global models.
 
 ![Cloud-radiation interaction modeling](/images/acp-2020-Fig1-web_CrnivecMayer.png)
+
 <em><font color="Grey">Divergent modelling of cloud-radiation interaction (figure courtesy of Črnivec and Mayer, 2020)</font></em>
 
 The first objective of my PhD was to quantify the radiative bias in regional NWP models for an evolving shallow cumulus cloud field (visualized below), comprising scenarios of broken cumulus as well as more uniform stratocumulus clouds. 
