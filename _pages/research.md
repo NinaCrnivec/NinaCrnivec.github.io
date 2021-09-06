@@ -22,8 +22,6 @@ The cloud-radiation interaction represents a persistent source of uncertainty in
 ![Cloud-radiation interaction modeling](/images/acp-2020-Fig1-web_CrnivecMayer.png)
 <em>Divergent modelling of cloud-radiation interaction (figure courtesy of [Črnivec and Mayer, 2020](https://acp.copernicus.org/articles/20/10733/2020/)).</em>
 
-<font color="DarkCyan"><i>Divergent modelling of cloud-radiation interaction (figure courtesy of [Črnivec and Mayer, 2020](https://acp.copernicus.org/articles/20/10733/2020/)).</i></font>
-
 The first objective of my PhD was to quantify the radiative bias in regional NWP models for an evolving shallow cumulus cloud field (visualized below), comprising scenarios of broken cumulus as well as more uniform stratocumulus clouds. 
 Specifically, I assessed the cloud-radiative bias in regional models arising from two chief shortcomings.
 First, the poor representation of unresolved clouds, which are normally approximated as horizontally homogeneous partial cloudiness. 
