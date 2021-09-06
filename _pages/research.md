@@ -17,7 +17,7 @@ Low-cloud feedbacks contribute strongly to the multimodel spread in equilibrium 
 
 **Cloud-radiation interaction modeling to advance parameterizations in weather and climate models**<br/> 
 
-The cloud-radiation interaction represents a persistent source of uncertainty in weather and climate models. In my doctoral research I investigated the three-dimensional (3-D) interaction between atmospheric radiation and highly-resolved heterogeneous cloud structures in order to improve its representation in regional and global models.
+The cloud-radiation interaction represents a persistent source of uncertainty in weather forecasts and climate projections. In my doctoral research I investigated the three-dimensional (3-D) interaction between atmospheric radiation and highly-resolved heterogeneous cloud structures in order to improve its representation in regional and global models.
 
 ![Cloud-radiation interaction modeling](/images/acp-2020-Fig1-web_CrnivecMayer.png)
 
