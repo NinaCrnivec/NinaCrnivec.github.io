@@ -12,7 +12,7 @@ redirect_from:
 ## Work Experience
 
 * **Postdoctoral Research Scientist**, Columbia University, Earth Institute, Center for Climate Systems Research and NASA Goddard Institute for Space Studies (2021 – present)<br/> 
-<ins>Project</ins>: [Evaluating and Constraining Models’ Stratocumulus and Cumulus Cloud Feedbacks in the Tropics using Satellite Observations to Reduce Uncertainties in Future Climate Projections](https://www.earth.columbia.edu/projects/view/2203) within NOAA-MAPP's Climate Sensitivity Task Force <br/>
+<ins>Project</ins>: [Evaluating and Constraining Models’ Stratocumulus and Cumulus Cloud Feedbacks in the Tropics using Satellite Observations to Reduce Uncertainties in Future Climate Projections](https://www.earth.columbia.edu/projects/view/2203) of NOAA <br/>
 Advisors: Dr. Grégory Cesana, Prof. Dr. Robert Pincus, Dr. Andrew Ackerman
 
 * **Meteorologist**, Slovenian Environment Agency (2020 – 2021)<br/> 
