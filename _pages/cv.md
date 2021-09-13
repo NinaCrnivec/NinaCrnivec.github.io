@@ -68,8 +68,8 @@ See [Events tab](https://ninacrnivec.github.io/events/)
 * Gold Award at 51th National Mathematics Competition of Slovenia (2007)
 * Silver Awards at 50th and 51th National Mathematics Competitions of Slovenia (2006, 2007)
   
-## Membership
-
+## Professional Activities & Memberships
+* Reviewer for journal Geoscientific Model Development
 * Member of American Geophysical Union (AGU)
 * Member of [“Slovensko meteorološko društvo (SMD)”](http://www.smd.v-izdelavi.si/domov/) (Slovenian Meteorological Society)
 * Member of ["Društvo v tujini izobraženih Slovencev (Društvo VTIS)"](https://www.drustvovtis.si/) (Association of Slovenes Educated Abroad) 
