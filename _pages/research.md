@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+I combine theory, numerical modeling and observations to study various physical and dynamical processes of the Earth system. A brief overview of my research experience is given below.
+
 <font color="DarkCyan"><b><i>Postdoctoral research:</i></b></font>
 
 **Constraining cumulus and stratocumulus cloud feedbacks in climate models using satellite observations** 
