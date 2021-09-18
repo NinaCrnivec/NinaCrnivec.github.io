@@ -43,6 +43,9 @@ Supervisor: Prof. Dr. Nedjeljka Žagar
 * **B.Sc. Physics**, University of Ljubljana, Slovenia (2009 – 2013)<br/>
 3rd academic year abroad: Technical University of Berlin, Germany (2011 – 2012)
 
+## Skills
+* Data analysis and visualization using various programming languages and tools (Fortran, Unix Shell scripting, Python, C, gnuplot, NCL, etc.)
+* Numerical modeling (model usage and development): radiative transfer library libRadtran, NCAR Cloud Model
 
 ## Publications
 
@@ -71,7 +74,7 @@ See [Events tab](https://ninacrnivec.github.io/events/)
 ## Professional Activities & Memberships
 * Reviewer for journal Geoscientific Model Development
 * Member of American Geophysical Union (AGU)
-* Member of [“Slovensko meteorološko društvo (SMD)”](http://www.smd.v-izdelavi.si/domov/) (Slovenian Meteorological Society)
+* Committee member of [“Slovensko meteorološko društvo (SMD)”](http://www.smd.v-izdelavi.si/domov/) (Slovenian Meteorological Society)
 * Member of ["Društvo v tujini izobraženih Slovencev (Društvo VTIS)"](https://www.drustvovtis.si/) (Association of Slovenes Educated Abroad) 
 
 
