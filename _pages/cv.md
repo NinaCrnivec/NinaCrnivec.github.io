@@ -45,7 +45,7 @@ Supervisor: Prof. Dr. Nedjeljka Žagar
 
 ## Skills
 * Data analysis and visualization using various programming languages and tools (Fortran, Unix Shell scripting, Python, C, gnuplot, NCL, etc.)
-* Numerical modeling (model usage and development): radiative transfer library libRadtran, NCAR Cloud Model
+* Numerical modeling (model usage and development): radiative transfer library libRadtran, NCAR Cloud Model (CM1)
 
 ## Publications
 
