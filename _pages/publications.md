@@ -57,6 +57,13 @@ author_profile: true
 
 * [In Slovene] Gams, M., **N. Črnivec**, L. Globevnik, S. Pejovnik, Ž. Zaplotnik, A. Zidanšek (editors), 2020: [White paper on environment protection](http://library.ijs.si/Stacks/Literature/Bela%20knjiga%20znanost%20o%20okolju%202020.pdf). _Jožef Stefan Institute_, Ljubljana, 160 pp. Authors: L. Boljka, M. Z. Božnar, M. Brnič Jager, B. Brudar, A. Čas, **N. Črnivec**, M. Debeljak, M. Gams, P. Glavič, L. Globevnik, B. Grašič, F. Gubina, A. Hace, T. Horvat, M. Jeran, L. Kozlovič, A. Krainer, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, B. Orel, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štrubelj, A. Šubic, J. Tasič, B. Tomažič, A. Vovk Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, D. Zupančič, T. Žagar.
 
+<font color="DarkCyan"><b><i>Bachelor seminars</i></b></font>
+
+* [In Slovene] **Črnivec, N.**: North Atlantic Oscillation. _Meteorology seminar work_, University of Ljubljana, 2013.
+
+* [In Slovene] **Črnivec, N.**: Sutcliffe model of baroclinic development. _Dynamic Meteorology seminar work_, University of Ljubljana, 2013.
+
+* [In Slovene] **Črnivec, N.**: [Sustainable energy - the future for Slovenia?](https://www.researchgate.net/publication/349103009_Trajnostna_energija_-_prihodnost_za_Slovenijo) _Climate Change seminar work_, University of Ljubljana, 2012.
 
 <font color="DarkCyan"><b><i>Technical notes</i></b></font>
 
@@ -78,11 +85,4 @@ author_profile: true
 
 * [In Slovene] Boljka, L., Ž. Zaplotnik, A. Slameršak and **N. Črnivec**, 2020: [Comments and suggestions on the draft of the Slovenian long-term climate change strategy](https://drive.google.com/file/d/1psP-qqJbKs0fBEgqDec83A-N8_pgAHTK/view). _A letter to the Slovenian Ministry for the Environment_. Media: [OE Finance](https://oe.finance.si/8966414/(prejeli-smo)-Predlog-raziskovalcev-za-spremembe-osnutka-podnebne-strategije?cctest&), [Meteorolog.si](http://meteorolog.si/index.php/2020/10/01/opozorilo-na-premajhno-ambicioznost-osnutka-dolgorocne-podnebne-strategije-slovenije/), [Globus](https://4d.rtvslo.si/arhiv/globus/174722022).
 
-<font color="DarkCyan"><b><i>Bachelor seminars</i></b></font>
-
-* [In Slovene] **Črnivec, N.**: North Atlantic Oscillation. _Meteorology seminar work_, University of Ljubljana, 2013.
-
-* [In Slovene] **Črnivec, N.**: Sutcliffe model of baroclinic development. _Dynamic Meteorology seminar work_, University of Ljubljana, 2013.
-
-* [In Slovene] **Črnivec, N.**: [Sustainable energy - the future for Slovenia?](https://www.researchgate.net/publication/349103009_Trajnostna_energija_-_prihodnost_za_Slovenijo) _Climate Change seminar work_, University of Ljubljana, 2012.
 
