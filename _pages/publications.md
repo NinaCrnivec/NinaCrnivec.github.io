@@ -80,9 +80,9 @@ author_profile: true
 
 <font color="DarkCyan"><b><i>Bachelor seminars</i></b></font>
 
-* [In Slovene] **Črnivec, N.**: North Atlantic Oscillation _Meteorology seminar_, University of Ljubljana, 2013.
+* [In Slovene] **Črnivec, N.**: North Atlantic Oscillation. _Meteorology seminar work_, University of Ljubljana, 2013.
 
-* [In Slovene] **Črnivec, N.**: Sutcliffe model of baroclinic development _Dynamic Meteorology seminar_, University of Ljubljana, 2013.
+* [In Slovene] **Črnivec, N.**: Sutcliffe model of baroclinic development. _Dynamic Meteorology seminar work_, University of Ljubljana, 2013.
 
-* [In Slovene] **Črnivec, N.**: [Sustainable energy - the future for Slovenia?](https://www.researchgate.net/publication/349103009_Trajnostna_energija_-_prihodnost_za_Slovenijo) _Climate Change seminar_, University of Ljubljana, 2012.
+* [In Slovene] **Črnivec, N.**: [Sustainable energy - the future for Slovenia?](https://www.researchgate.net/publication/349103009_Trajnostna_energija_-_prihodnost_za_Slovenijo) _Climate Change seminar work_, University of Ljubljana, 2012.
 
