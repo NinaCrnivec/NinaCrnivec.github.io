@@ -22,6 +22,8 @@ author_profile: true
 * [Waves To Weather Early Career Scientists Workshop](https://w2w.meteo.physik.uni-muenchen.de/meetings/ecs-workshop-jun-2016/index.html), Kaub, Germany (06/2016)<br/>**Črnivec, N.** and B. Mayer: “Atmospheric radiation and its impact on weather” (talk)
 * [Waves To Weather Early Career Scientists Workshop](https://w2w.meteo.physik.uni-muenchen.de/meetings/ecs-workshop-dec15/index.html), Karlsruhe Institute of Technology, Karlsruhe, Germany (12/2015)<br/>**Črnivec, N.**: “Tropical cyclone intensification” (talk, presentation skills training)
 * Institutional seminar, Ludwig-Maximilians-University Munich, Munich, Germany (10/2015)<br/>**Črnivec, N.** and R. K. Smith: “The diurnal cycle of mature tropical cyclones” (talk)
+* Institutional seminar, University of Ljubljana, Ljubljana, Slovenia (05/2013)<br/>**Črnivec, N.** and N. Žagar: “North Atlantic Oscillation [In Slovene]” (talk)
+* Dynamic Meteorology seminar, University of Ljubljana, Ljubljana, Slovenia (01/2013)<br/>**Črnivec, N.** and N. Žagar: “Sutcliffe model of baroclinic development [In Slovene]” (talk)
 
 ## Contributing author for the following presentations:
 * European Meteorological Society Annual Meeting, virtual (09/2021)<br/> Zaplotnik, Ž., Boljka, L., **Črnivec, N.**, Slameršak, A.: Project RESCCCUE: “REminding Slovenian authorities Climate Change Crisis requires Urgent Effort” [abstract](https://meetingorganizer.copernicus.org/EMS2021/EMS2021-416.html)
