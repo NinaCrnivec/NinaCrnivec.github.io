@@ -59,11 +59,11 @@ author_profile: true
 
 <font color="DarkCyan"><b><i>Bachelor seminars</i></b></font>
 
-* [In Slovene] **Črnivec, N.**: North Atlantic Oscillation. _Meteorology seminar work_, University of Ljubljana, 2013.
+* **Črnivec, N.**: North Atlantic Oscillation. _Meteorology seminar work_ [In Slovene], University of Ljubljana, 2013.
 
-* [In Slovene] **Črnivec, N.**: Sutcliffe model of baroclinic development. _Dynamic Meteorology seminar work_, University of Ljubljana, 2013.
+* **Črnivec, N.**: Sutcliffe model of baroclinic development. _Dynamic Meteorology seminar work_ [In Slovene], University of Ljubljana, 2013.
 
-* [In Slovene] **Črnivec, N.**: [Sustainable energy - the future for Slovenia?](https://www.researchgate.net/publication/349103009_Trajnostna_energija_-_prihodnost_za_Slovenijo) _Climate Change seminar work_, University of Ljubljana, 2012.
+* **Črnivec, N.**: [Sustainable energy - the future for Slovenia?](https://www.researchgate.net/publication/349103009_Trajnostna_energija_-_prihodnost_za_Slovenijo) _Climate Change seminar work_ [In Slovene], University of Ljubljana, 2012.
 
 <font color="DarkCyan"><b><i>Technical notes</i></b></font>
 
@@ -73,16 +73,16 @@ author_profile: true
 
 <font color="DarkCyan"><b><i>Popular scientific articles</i></b></font>
 
-* [In Slovene] Zaplotnik, Ž., L. Boljka, **N. Črnivec** and A. Slameršak: Climate change – open letter: A request by the Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy. _Vetrnica: Journal of Slovenian Meteorological Society (Interesting facts)_, 12-13, 6-11, 2020.
+* Zaplotnik, Ž., L. Boljka, **N. Črnivec** and A. Slameršak: Climate change – open letter: A request by the Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy. _Vetrnica: Journal of Slovenian Meteorological Society (Interesting facts)_ [In Slovene], 12-13, 6-11, 2020.
 
-* [In Slovene] **Črnivec, N.**: The impact of latitute and sea surface temperature on tropical cyclone intensification: master thesis summary. _Vetrnica: Journal of Slovenian Meteorological Society (Student corner)_, 12-13, 40-41, 2020.
+* **Črnivec, N.**: The impact of latitute and sea surface temperature on tropical cyclone intensification: master thesis summary. _Vetrnica: Journal of Slovenian Meteorological Society (Student corner)_ [In Slovene], 12-13, 40-41, 2020.
 
-* [In Slovene] **Črnivec, N.**: My meteorological studying journey: experiences from abroad. _Vetrnica: Journal of Slovenian Meteorological Society (Student corner)_, 12-13, 67-69, 2020.
+* **Črnivec, N.**: My meteorological studying journey: experiences from abroad. _Vetrnica: Journal of Slovenian Meteorological Society (Student corner)_ [In Slovene], 12-13, 67-69, 2020.
 
 <font color="DarkCyan"><b><i>Other</i></b></font>
 
-* [In Slovene] Slameršak, A., Ž. Zaplotnik, L. Boljka and **N. Črnivec**, 2020: [Suggestions for a political programme for a green transition and a minimisation of climate change impacts](https://drive.google.com/file/d/1jB1u5CN3qE75PLRgBAbi-LucCHVcn0L8/view). 
+* Slameršak, A., Ž. Zaplotnik, L. Boljka and **N. Črnivec**, 2020: [Suggestions for a political programme for a green transition and a minimisation of climate change impacts](https://drive.google.com/file/d/1jB1u5CN3qE75PLRgBAbi-LucCHVcn0L8/view) [In Slovene]. 
 
-* [In Slovene] Boljka, L., Ž. Zaplotnik, A. Slameršak and **N. Črnivec**, 2020: [Comments and suggestions on the draft of the Slovenian long-term climate change strategy](https://drive.google.com/file/d/1psP-qqJbKs0fBEgqDec83A-N8_pgAHTK/view). _A letter to the Slovenian Ministry for the Environment_. Media: [OE Finance](https://oe.finance.si/8966414/(prejeli-smo)-Predlog-raziskovalcev-za-spremembe-osnutka-podnebne-strategije?cctest&), [Meteorolog.si](http://meteorolog.si/index.php/2020/10/01/opozorilo-na-premajhno-ambicioznost-osnutka-dolgorocne-podnebne-strategije-slovenije/), [Globus](https://4d.rtvslo.si/arhiv/globus/174722022).
+* Boljka, L., Ž. Zaplotnik, A. Slameršak and **N. Črnivec**, 2020: [Comments and suggestions on the draft of the Slovenian long-term climate change strategy](https://drive.google.com/file/d/1psP-qqJbKs0fBEgqDec83A-N8_pgAHTK/view). _A letter to the Slovenian Ministry for the Environment_ [In Slovene]. Media: [OE Finance](https://oe.finance.si/8966414/(prejeli-smo)-Predlog-raziskovalcev-za-spremembe-osnutka-podnebne-strategije?cctest&), [Meteorolog.si](http://meteorolog.si/index.php/2020/10/01/opozorilo-na-premajhno-ambicioznost-osnutka-dolgorocne-podnebne-strategije-slovenije/), [Globus](https://4d.rtvslo.si/arhiv/globus/174722022).
 
 
