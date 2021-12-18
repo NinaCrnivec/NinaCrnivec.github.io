@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Presentations
-* American Geophysical Union Fall Meeting (upcoming, 12/2021)<br/>**Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman: “Evaluating and constraining models' cumulus and stratocumulus cloud feedbacks in the tropics using satellite observations to reduce uncertainties in future climate projections” 
+* American Geophysical Union Fall Meeting (12/2021)<br/>**Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman: “Evaluating and constraining models' stratocumulus and cumulus cloud feedbacks in the tropics using satellite observations to reduce uncertainties in future climate projections” 
 * NASA Goddard Space Flight Center Early Career Scientist Forum, virtual (11/2021)<br/>**Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman: “Constraining tropical cumulus and stratocumulus cloud feedbacks in climate models using satellite observations” (lightning talk)
 * Cloud Feedback Model Intercomparison Project (CFMIP) Meeting, virtual (09/2021)<br/>**Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman: “Constraining cumulus and stratocumulus cloud feedbacks in climate models using satellite observations” (poster)
 * Institutional seminar, Ludwig-Maximilians-University Munich, Munich, Germany (02/2019)<br/>**Črnivec, N.** and B. Mayer: “Towards an improved treatment of unresolved cloud-radiation interaction in numerical models” (talk)
