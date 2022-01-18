@@ -44,7 +44,7 @@ Supervisor: Prof. Dr. Nedjeljka Žagar
 3rd academic year abroad: Technical University of Berlin, Germany (2011 – 2012)
 
 ## Skills
-* Data analysis and visualization using various programming languages and tools (Fortran, Unix Shell scripting, Python, C, gnuplot, NCL, etc.)
+* Data analysis and visualization using various programming languages and tools (Fortran, Python, C, Unix shell, gnuplot, NCL)
 * Numerical modeling (model usage and development): radiative transfer library libRadtran, NCAR Cloud Model (CM1)
 
 ## Publications
@@ -71,7 +71,7 @@ See [Events tab](https://ninacrnivec.github.io/events/)
 * Gold Award at 51th National Mathematics Competition of Slovenia (2007)
 * Silver Awards at 50th and 51th National Mathematics Competitions of Slovenia (2006, 2007)
   
-## Professional Activities & Memberships
+## Professional Activities
 * Reviewer for journal Geoscientific Model Development
 * Member of American Geophysical Union (AGU)
 * Committee member of [“Slovensko meteorološko društvo (SMD)”](http://www.smd.v-izdelavi.si/domov/) (Slovenian Meteorological Society)
