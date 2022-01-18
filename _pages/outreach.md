@@ -17,9 +17,9 @@ redirect_from:
 
 * Podcast interview about my PhD research on cloud-radiation interaction problem in weather and climate models, [ARSO podcast: Student corner](https://meteo.arso.gov.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20210317_ep057.mp3) (03/2021)
 
-* Contribution to the article in Slovenian newspaper ['Delo - Sobotna priloga: Razglednice z vroče strani Alp'](https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/) (12/2020)
+* Contribution to the article in Slovenian newspaper ['Delo - Sobotna priloga: Razglednice z vroče strani Alp'](https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/) about tackling climate change crisis (12/2020)
 
-* We initiated the project [Interview: In brief](http://meteorolog.si/index.php/2020/09/15/napovednik-intervjuji-na-kratko/) on the Slovenian weather and climate portal [Meteorolog.si](http://meteorolog.si/) (together with Katarina Kosovelj and Matija Klančar) to present diverse work of meteorologists to foster student interest in meteorology (09/2020)
+* We initiated the project [Interview: In brief](http://meteorolog.si/index.php/2020/09/15/napovednik-intervjuji-na-kratko/) to present diverse work of meteorologists on the Slovenian weather and climate portal [Meteorolog.si](http://meteorolog.si/) (together with Katarina Kosovelj and Matija Klančar) to foster student interest in meteorology (09/2020)
 
 * Podcast interview about tropical cyclones as well as studying and researching meteorology in Slovenia and abroad, [ARSO podcast: Interview with meteorologist Nina Črnivec](http://www.meteo.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20200520_ep040.mp3) (05/2020)
 
