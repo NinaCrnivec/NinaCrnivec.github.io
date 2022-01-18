@@ -13,5 +13,5 @@ author_profile: true
 
 ## Theses Supervision
 
-* Co-supervisor of bachelor thesis (together with Prof. Dr. Bernhard Mayer), Ludwig-Maximilians-University Munich (2017)<br/>
+* Co-supervisor of bachelor student (together with Prof. Dr. Bernhard Mayer), Ludwig-Maximilians-University Munich (2017)<br/>
   * <ins>Thesis title</ins>: _Modellierung von 3D solaren Erwärmungsraten in Abhängigkeit vom Aspektverhältnis der Wolken (Modelling of 3D solar heating rates as a function of cloud aspect ratio)_
