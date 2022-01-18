@@ -9,6 +9,14 @@ author_profile: true
 * American Geophysical Union Fall Meeting (12/2021)<br/>**Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman: “Evaluating and constraining models' stratocumulus and cumulus cloud feedbacks in the tropics using satellite observations to reduce uncertainties in future climate projections” (talk)
 * NASA Goddard Space Flight Center Early Career Scientist Forum, virtual (11/2021)<br/>**Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman: “Constraining tropical cumulus and stratocumulus cloud feedbacks in climate models using satellite observations” (lightning talk)
 * Cloud Feedback Model Intercomparison Project (CFMIP) Meeting, virtual (09/2021)<br/>**Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman: “Constraining cumulus and stratocumulus cloud feedbacks in climate models using satellite observations” (poster)
+* 4th Symposium of Slovene Researchers Abroad (Climate Change Panel) organized by Association of Slovenes Educated Abroad and Ministry of Education, Science and Sport, Ljubljana, Slovenia (12/2019)<br/>**Črnivec, N.**: “Cloud-radiation interaction problem in numerical weather and climate prediction [In Slovene]" (invited talk) 
+<!-- 
+_More information & event media coverage:_
+[Društvo VTIS](https://www.drustvovtis.si/za-nami-ze-4-simpozij-slovenskih-raziskovalcev-v-tujini/),
+[Republika Slovenija gov.si](https://www.gov.si/dogodki/2019-12-23-4-simpozij-slovenskih-raziskovalcev-v-tujini/),
+[STA-Znanost](http://znanost.sta.si/2711367/simpozij-slovenskih-raziskovalcev-v-tujini-v-luci-krozenja-znanja),
+[Karierni centri Univerze v Ljubljani](https://kc.uni-lj.si/novice/4-simpozij-slovenskih-raziskovalcev-v-tujini.html)<br/> 
+-->
 * Institutional seminar, Ludwig-Maximilians-University Munich, Munich, Germany (02/2019)<br/>**Črnivec, N.** and B. Mayer: “Towards an improved treatment of unresolved cloud-radiation interaction in numerical models” (talk)
 * [Waves To Weather 4th Annual Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/4th-annual-meeting-nov18/index.html), Landau, Germany (11/2018)<br/>**Črnivec, N.** and B. Mayer: "B4-Workpackage 2: Radiative heating and cooling at cloud scale and its impact on dynamics" (poster)
 * [Waves To Weather Research Area B (Cloud-scale Uncertainties) Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/rab-meeting-mar2018/index.html), Johannes Gutenberg University Mainz, Mainz, Germany (03/2018)<br/>**Črnivec, N.** and B. Mayer: “Radiative heating and cooling at cloud scale and its impact on dynamics” (talk)
