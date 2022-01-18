@@ -26,5 +26,5 @@ _Quantifying the bias of radiative heating rates in numerical weather prediction
 Cloud Gallery
 ------
 ![Clouds](/images/CloudTypesNC.jpg)
-
+_Complex interaction between clouds and atmospheric radiation occurring in a real world_
 
