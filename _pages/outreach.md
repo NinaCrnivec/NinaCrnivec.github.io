@@ -13,22 +13,21 @@ redirect_from:
 
 <u>In Slovene</u>:
 
-* Interview for [Svet24](https://novice.svet24.si/clanek/novice/slovenija/6073055dc2e54/najvec-skode-bodo-utrpeli-slovenski-sadjarji-vinogradniki-in-cebelarji) about extreme weather events in the present and future climate in relation to severe frost in April 2021 which affected many regions in Slovenia (together with Andreja Sušnik and Lina Boljka) (04/2021)
+* Interview for [Svet24](https://novice.svet24.si/clanek/novice/slovenija/6073055dc2e54/najvec-skode-bodo-utrpeli-slovenski-sadjarji-vinogradniki-in-cebelarji) about extreme weather events in the present and future climate in relation to severe frost in April 2021 which affected multiple regions in Slovenia (together with Andreja Sušnik and Lina Boljka) (04/2021)
 
-* Podcast interview about my PhD research on cloud-radiation interaction problem in weather and climate models, **ARSO podcast**: [Student corner](https://meteo.arso.gov.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20210317_ep057.mp3) (03/2021)
+* Podcast interview about my PhD research on cloud-radiation interaction problem in weather and climate models, [ARSO podcast: Student corner](https://meteo.arso.gov.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20210317_ep057.mp3) (03/2021)
 
-* Contribution to the Slovenian newspaper 'Delo - Sobotna priloga: [Razglednice z vroče strani Alp'](https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/) (12/2020)
+* Contribution to the article in Slovenian newspaper ['Delo - Sobotna priloga: Razglednice z vroče strani Alp'](https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/) (12/2020)
 
-* Together with Katarina Kosovelj and Matija Klančar we initiated the project [Interview: In brief](http://meteorolog.si/index.php/2020/09/15/napovednik-intervjuji-na-kratko/) on the Slovenian weather and climate portal [Meteorolog.si](http://meteorolog.si/) to present diverse work of meteorologists to foster student interest in meteorology (09/2020)
+* We initiated the project [Interview: In brief](http://meteorolog.si/index.php/2020/09/15/napovednik-intervjuji-na-kratko/) on the Slovenian weather and climate portal [Meteorolog.si](http://meteorolog.si/) (together with Katarina Kosovelj and Matija Klančar) to present diverse work of meteorologists to foster student interest in meteorology (09/2020)
 
-* Podcast interview about tropical cyclones as well as studying and researching meteorology in Slovenia and abroad, **ARSO podcast**: [Interview with meteorologist Nina Črnivec](http://www.meteo.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20200520_ep040.mp3) (05/2020)
+* Podcast interview about tropical cyclones as well as studying and researching meteorology in Slovenia and abroad, [ARSO podcast: Interview with meteorologist Nina Črnivec](http://www.meteo.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20200520_ep040.mp3) (05/2020)
 
-* [Big Steps](https://www.facebook.com/dvtis/photos/a.1017215245070418/1956902154435051/?type=3&theater) coverage by Association of Slovenes Educated Abroad [In Slovene & English] (02/2020)
+* [Big Steps](https://www.facebook.com/dvtis/photos/a.1017215245070418/1956902154435051/?type=3&theater) coverage by Association of Slovenes Educated Abroad (02/2020)
 
-* Podcast interview about my PhD research, **Metina lista**: [Meta PHoDcast 107: Nina Črnivec, meteorologist](https://metinalista.si/meta-phodcast-107-nina-crnivec-meteorologinja/) & @Meteorolog.si: [Metina lista: Interview with meteorologist Nina Črnivec](http://meteorolog.si/index.php/2020/02/03/metina-lista-intervju-z-meteorologinjo-nino-crnivec/) (01/2020)
+* Podcast interview about my PhD research on atmospheric radiation and clouds, [Metina lista: Meta PHoDcast 107: Nina Črnivec, meteorologist](https://metinalista.si/meta-phodcast-107-nina-crnivec-meteorologinja/), [Meteorolog.si: Metina lista: Interview with meteorologist Nina Črnivec](http://meteorolog.si/index.php/2020/02/03/metina-lista-intervju-z-meteorologinjo-nino-crnivec/) (01/2020)
 
-* Radio interview on **Radio Študent** - Science: [How shall we mitigate climate change?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe?fbclid=IwAR2y3n6dfT9tYwNvE19qQpJQxxlx4NXMCNswiruB8Ier-CspBRPHdpXCQM4) (11/2019)<br/> 
-<sub>Kako bomo blažili podnebne spremembe? Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji _Zahteve slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje_. Hvala Radiu Študent za povabilo na intervju in še posebej Zarji Muršič za spretno manevriranje pogovora med štirimi po svetu razpršenimi znanstveniki! 🙂</sup>
+* Radio interview about tackling climate change crisis (together with Žiga Zaplotnik, Lina Boljka and Aljoša Slameršak), [Radio Študent - Science: How shall we mitigate climate change?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe?fbclid=IwAR2y3n6dfT9tYwNvE19qQpJQxxlx4NXMCNswiruB8Ier-CspBRPHdpXCQM4) (11/2019)<br/> 
 
 * Our 'Request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy' (joint work with [Žiga Zaplotnik](https://zaplotnik.github.io/), [Lina Boljka](https://lina-boljka.github.io/) and [Aljoša Slameršak](https://ictaweb.uab.cat/personal_detail.php?id=4088)) has received extensive media coverage (11-12/2019):
 > - **RTV-SLO (MMC):** [Znanstveniki: Slovenija ne kaže pripravljenosti, da bi se na podnebne spremembe odločno odzvala](https://www.rtvslo.si/okolje/novice/znanstveniki-slovenija-ne-kaze-pripravljenosti-da-bi-se-na-podnebne-spremembe-odlocno-odzvala/504612?fbclid=IwAR2Px1cLtDykMJxNszkG6MI1QDOM2LneGWqK70LchAvEST9RBr_VWVjM-7Y)<br/> 
