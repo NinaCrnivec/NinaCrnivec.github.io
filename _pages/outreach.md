@@ -11,21 +11,23 @@ redirect_from:
 
 ## Education & Public Outreach
 
-* Interview for [Svet24](https://novice.svet24.si/clanek/novice/slovenija/6073055dc2e54/najvec-skode-bodo-utrpeli-slovenski-sadjarji-vinogradniki-in-cebelarji) about extreme weather events in the present and future climate (together with A. Sušnik and L. Boljka) [In Slovene] (04/2021)
+<u>In Slovene</u>:
 
-* Podcast interview about my PhD research on cloud-radiation interaction problem in weather and climate models, **ARSO podcast**: ['Student corner'](https://meteo.arso.gov.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20210317_ep057.mp3) [In Slovene] (03/2021)
+* Interview for [Svet24](https://novice.svet24.si/clanek/novice/slovenija/6073055dc2e54/najvec-skode-bodo-utrpeli-slovenski-sadjarji-vinogradniki-in-cebelarji) about extreme weather events in the present and future climate (together with A. Sušnik and L. Boljka) (04/2021)
 
-* Contribution to the Slovenian newspaper 'Delo - Sobotna priloga: [Razglednice z vroče strani Alp'](https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/) [In Slovene] (12/2020)
+* Podcast interview about my PhD research on cloud-radiation interaction problem in weather and climate models, **ARSO podcast**: ['Student corner'](https://meteo.arso.gov.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20210317_ep057.mp3) (03/2021)
 
-* Together with Katarina Kosovelj and Matija Klančar we initiated the project ['Interview: In brief'](http://meteorolog.si/index.php/2020/09/15/napovednik-intervjuji-na-kratko/) on the Slovenian weather and climate portal [Meteorolog.si](http://meteorolog.si/) to present diverse work of meteorologists to foster student interest in meteorology [In Slovene] (09/2020)
+* Contribution to the Slovenian newspaper 'Delo - Sobotna priloga: [Razglednice z vroče strani Alp'](https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/) (12/2020)
 
-* Podcast interview about tropical cyclones as well as studying and researching meteorology in Slovenia and abroad, **ARSO podcast**: ['Interview with meteorologist Nina Črnivec'](http://www.meteo.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20200520_ep040.mp3) [In Slovene] (05/2020)
+* Together with Katarina Kosovelj and Matija Klančar we initiated the project ['Interview: In brief'](http://meteorolog.si/index.php/2020/09/15/napovednik-intervjuji-na-kratko/) on the Slovenian weather and climate portal [Meteorolog.si](http://meteorolog.si/) to present diverse work of meteorologists to foster student interest in meteorology (09/2020)
+
+* Podcast interview about tropical cyclones as well as studying and researching meteorology in Slovenia and abroad, **ARSO podcast**: ['Interview with meteorologist Nina Črnivec'](http://www.meteo.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20200520_ep040.mp3) (05/2020)
 
 * [Big Steps](https://www.facebook.com/dvtis/photos/a.1017215245070418/1956902154435051/?type=3&theater) coverage by Association of Slovenes Educated Abroad [In Slovene & English] (02/2020)
 
-* Podcast interview about my PhD research, **Metina lista**: [Meta PHoDcast 107: Nina Črnivec, meteorologist](https://metinalista.si/meta-phodcast-107-nina-crnivec-meteorologinja/) & @Meteorolog.si: [Metina lista: Interview with meteorologist Nina Črnivec](http://meteorolog.si/index.php/2020/02/03/metina-lista-intervju-z-meteorologinjo-nino-crnivec/) [In Slovene] (01/2020)
+* Podcast interview about my PhD research, **Metina lista**: [Meta PHoDcast 107: Nina Črnivec, meteorologist](https://metinalista.si/meta-phodcast-107-nina-crnivec-meteorologinja/) & @Meteorolog.si: [Metina lista: Interview with meteorologist Nina Črnivec](http://meteorolog.si/index.php/2020/02/03/metina-lista-intervju-z-meteorologinjo-nino-crnivec/) (01/2020)
 
-* Radio interview on 'Radio Študent' - Science: How shall we mitigate climate change? [In Slovene] (11/2019):<br/> 
+* Radio interview on 'Radio Študent' - Science: How shall we mitigate climate change? (11/2019):<br/> 
 Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji _Zahteve slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje_: [Radio Študent - Znanost: Kako bomo blažili podnebne spremembe?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe?fbclid=IwAR2y3n6dfT9tYwNvE19qQpJQxxlx4NXMCNswiruB8Ier-CspBRPHdpXCQM4) _Hvala Radiu Študent za povabilo na intervju in še posebej Zarji Muršič za spretno manevriranje pogovora med štirimi po svetu razpršenimi znanstveniki!_ 🙂
 
 * Our 'Request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy' (joint work with [Žiga Zaplotnik](https://zaplotnik.github.io/), [Lina Boljka](https://lina-boljka.github.io/) and [Aljoša Slameršak](https://ictaweb.uab.cat/personal_detail.php?id=4088)) has received extensive media coverage (11-12/2019):
@@ -57,11 +59,13 @@ Prisluhnite, kaj o problematiki podnebnih sprememb menimo avtorji _Zahteve slove
 > - **Metina lista** (01/2020): [Meta PHoDcast 107: Nina Črnivec, meteorologinja](https://metinalista.si/meta-phodcast-107-nina-crnivec-meteorologinja/)<br/> 
 > - **RTV-SLO (Dnevnik)** (01/2020): [Neizkoriščen sklad za podnebne spremembe](https://4d.rtvslo.si/arhiv/dnevnik/174665542/00:00:00)<br/> 
 
-* Co-organizer of '[Mädchen machen Technik](https://www.wavestoweather.de/equal_opportunity/activities/maedchenmachentechnik2018/index.html)' (Girls and Technology), Meteorological Institute Munich, LMU Munich, Germany [in German] (09/2018)<br/>
+<u>In German</u>:
 
-* Co-organizer of '[Mädchen Zukunftstag 2016](https://www.wavestoweather.de/equal_opportunity/activities/girls_day_2016/index.html), [2017](https://www.wavestoweather.de/equal_opportunity/activities/girls_day_2017/index.html), [2018](https://www.wavestoweather.de/equal_opportunity/activities/girlsday-2018/index.html)' (Girls' Day), Meteorological Institute Munich, LMU Munich, Germany [in German] (04/2016, 04/2017, 04/2018)<br/>
+* Co-organizer of '[Mädchen machen Technik](https://www.wavestoweather.de/equal_opportunity/activities/maedchenmachentechnik2018/index.html)' (Girls and Technology), Meteorological Institute Munich, LMU Munich, Germany (09/2018)<br/>
 
-* Co-organizer of 'Tag der offenen Tür' (Doors Open Day) representing MIM/LMU Munich at German Aerospace Center, Oberpfaffenhofen, Germany [in German] (10/2016)
+* Co-organizer of '[Mädchen Zukunftstag 2016](https://www.wavestoweather.de/equal_opportunity/activities/girls_day_2016/index.html), [2017](https://www.wavestoweather.de/equal_opportunity/activities/girls_day_2017/index.html), [2018](https://www.wavestoweather.de/equal_opportunity/activities/girlsday-2018/index.html)' (Girls' Day), Meteorological Institute Munich, LMU Munich, Germany (04/2016, 04/2017, 04/2018)<br/>
+
+* Co-organizer of 'Tag der offenen Tür' (Doors Open Day) representing MIM/LMU Munich at German Aerospace Center, Oberpfaffenhofen, Germany (10/2016)
 
 
 
