@@ -60,7 +60,7 @@ See [Teaching tab](https://ninacrnivec.github.io/teaching/)
 See [Events tab](https://ninacrnivec.github.io/events/)
   
 ## Awards & Scholarships
-* **European Meteorological Society Media Award:** [Outreach and Communication Award](https://www.emetsoc.org/oc2020-for-rescccue-slovenia/) (together with Dr. Žiga Zaplotnik, Dr. Lina Boljka and Aljoša Slameršak) for self-initiated ongoing project **["RESCCCUE – REminding Slovenian authorities Climate Change Crisis requires Urgent Effort"](https://www.emetsoc.org/wp-content/uploads/2020/06/oc2020_RESCCCUE_project-description.pdf)** (2020)
+* **European Meteorological Society Media Award:** [Outreach and Communication Award](https://www.emetsoc.org/oc2020-for-rescccue-slovenia/) (together with Dr. Žiga Zaplotnik, Dr. Lina Boljka and Aljoša Slameršak) for the project **["RESCCCUE – REminding Slovenian authorities Climate Change Crisis requires Urgent Effort"](https://www.emetsoc.org/wp-content/uploads/2020/06/oc2020_RESCCCUE_project-description.pdf)** (2020)
 * Ph.D. fellowship for the project ["B4 – Radiative heating and cooling at cloud scale and its impact on dynamics"](https://w2w.meteo.physik.uni-muenchen.de/research_areas/phase1/b4/index.html) within Transregional Collaborative Research Center SFB/TRR 165 Waves To Weather (W2W) funded by German Research Foundation (2016 – 2019)
 * Travel Grant for one-month scientific stay at Naval Postgraduate School, California (2015)
 * National Excellence Scholarship Ad Futura for studying abroad, awarded by the Slovene Human Resources Development and Scholarship Fund (2013 – 2015)
