@@ -29,6 +29,7 @@ redirect_from:
 
 * Radio interview about tackling climate change crisis (together with Žiga Zaplotnik, Lina Boljka and Aljoša Slameršak), [Radio Študent - Science: How shall we mitigate climate change?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe?fbclid=IwAR2y3n6dfT9tYwNvE19qQpJQxxlx4NXMCNswiruB8Ier-CspBRPHdpXCQM4) (11/2019)<br/> 
 
+<!---
 * Our 'Request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy' (joint work with [Žiga Zaplotnik](https://zaplotnik.github.io/), [Lina Boljka](https://lina-boljka.github.io/) and [Aljoša Slameršak](https://ictaweb.uab.cat/personal_detail.php?id=4088)) has received extensive media coverage (11-12/2019):
 > - **RTV-SLO (MMC):** [Znanstveniki: Slovenija ne kaže pripravljenosti, da bi se na podnebne spremembe odločno odzvala](https://www.rtvslo.si/okolje/novice/znanstveniki-slovenija-ne-kaze-pripravljenosti-da-bi-se-na-podnebne-spremembe-odlocno-odzvala/504612?fbclid=IwAR2Px1cLtDykMJxNszkG6MI1QDOM2LneGWqK70LchAvEST9RBr_VWVjM-7Y)<br/> 
 > - **24 ur:** [Odprto pismo: Podnebne spremembe ogrožajo življenja več kot milijarde ljudi](https://www.24ur.com/novice/slovenija/razocarani-slovenski-znanstveniki-politiki-se-ne-zavedajo-resnosti-problema.html)<br/> 
@@ -57,6 +58,7 @@ redirect_from:
 > - **Frekvenca X - Val 202** (01/2020): [Stopinja in pol 1/4: Ko narava ni več naravna](https://val202.rtvslo.si/2019/12/frekvenca-x-177/)<br/> 
 > - **Metina lista** (01/2020): [Meta PHoDcast 107: Nina Črnivec, meteorologinja](https://metinalista.si/meta-phodcast-107-nina-crnivec-meteorologinja/)<br/> 
 > - **RTV-SLO (Dnevnik)** (01/2020): [Neizkoriščen sklad za podnebne spremembe](https://4d.rtvslo.si/arhiv/dnevnik/174665542/00:00:00)<br/> 
+-->
 
 <u>In German</u>:
 
