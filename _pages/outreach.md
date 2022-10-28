@@ -64,6 +64,8 @@ redirect_from:
 
 * [The Slovenian project RESCCCUE awarded by the European Meteorological Association](https://www.uni-lj.si/research_and_development/research_news/interdisciplinary_research/2020070315391882/the_slovenian_project_rescccue_awarded_by_the_european_meteorological_association/), University of Ljubljana - Research News (07/2020)
 
+![RESCCCUE Word Art](/images/RESCCCUE_WordArt.png)
+
 <u>In German</u>:
 
 * Co-organizer of '[Mädchen machen Technik](https://www.wavestoweather.de/equal_opportunity/activities/maedchenmachentechnik2018/index.html)' (Girls and Technology), Meteorological Institute Munich, LMU Munich, Germany (09/2018)<br/>
