@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 ## Presentations
-* American Geophysical Union Fall Meeting (12/2021)<br/>**Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman: “Evaluating and constraining models' stratocumulus and cumulus cloud feedbacks in the tropics using satellite observations to reduce uncertainties in future climate projections” (talk)
+* Cloud Feedback Model Intercomparison Project (CFMIP) Meeting, University of Washington, Seattle (07/2022)<br/>**Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman: “Evaluating the representation of tropical stratocumulus and shallow cumulus clouds as well as their radiative effects in
+CMIP6 models using satellite observations” (poster)
+* American Geophysical Union Fall Meeting & NASA GISS Clouds Research Group Meeting, virtual (12/2021)<br/>
+ **Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman: “Evaluating and constraining models' stratocumulus and cumulus cloud feedbacks in the tropics using satellite observations to reduce uncertainties in future climate projections” (talk)
 * NASA Goddard Space Flight Center Early Career Scientist Forum, virtual (11/2021)<br/>**Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman: “Constraining tropical cumulus and stratocumulus cloud feedbacks in climate models using satellite observations” (lightning talk)
 * Cloud Feedback Model Intercomparison Project (CFMIP) Meeting, virtual (09/2021)<br/>**Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman: “Constraining cumulus and stratocumulus cloud feedbacks in climate models using satellite observations” (poster)
 * 4th Symposium of Slovene Researchers Abroad (Climate Change Panel) organized by Association of Slovenes Educated Abroad and Ministry of Education, Science and Sport, Ljubljana, Slovenia (12/2019)<br/>**Črnivec, N.**: “Cloud-radiation interaction problem in weather and climate prediction [In Slovene]" (invited talk) 
@@ -43,9 +46,11 @@ Strajnar, B., N. Pristov, **N. Črnivec**, J. Cedilnik, P. Smerkol, V. Švagelj,
 Smith, R. K., G. Kilroy, C. Schmidt, **N. Črnivec**, M. T. Montgomery: “Boundary Layer Control of Tropical Cyclone Intensification"
 
 ## Other attended workshops & seminars:
-* Academic Application Boot Camp, Columbia University, virtual event series (06/2021)
-* Teach Climate Science with NASA Data, Endeavor STEM Teaching Certificate Project, NASA, virtual event (06/2021)
-* Field Photography Training, Columbia University, virtual event (06/2021)
+* Analysis of PPEs (perturbed parameter ensembles) in Atmospheric Research (APPEAR) Workshop, organised by the WCRP Earth System Modelling and Observations Project, virtual (10/2022)
+* NASA Clouds and the Earth’s Radiant Energy System (CERES) Science Team Meeting, virtual (10/2021)
+* Academic Application Boot Camp, Columbia University, virtual (06/2021)
+* Teach Climate Science with NASA Data, Endeavor STEM Teaching Certificate Project, NASA, virtual (06/2021)
+* Field Photography Training, Columbia University, virtual (06/2021)
 * Joint 30th ALADIN Workshop and HIRLAM (High Resolution Limited Area Model) All Staff Meeting, virtual (04/2020)
 * The Role of Creativity in Scientific Research, event organized by American Slovenian Education Foundation (ASEF) & University of Ljubljana, Ljubljana, Slovenia (10/2019)
 * Data Science Workshop: Introduction to network analysis in Python, University of Ljubljana, Ljubljana, Slovenia (09/2019)
