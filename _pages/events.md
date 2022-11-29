@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Presentations
+* Bjerknes Center for Climate Research seminar series, University of Bergen (11/2022)<br/>
+**Črnivec, N.** and B. Mayer: "Towards an improved treatment of cloud-radiation interaction in weather and climate models" (invited talk) [Abstract](https://bjerknes.uib.no/en/article/seminar-talk-nina-crnivec)
+* Slovenian Meteorological Society seminar series (11/2022)<br/>
+**Črnivec, N.** and B. Mayer: "Cloud-radiation interaction problem in weather and climate models [In Slovene]" (invited talk)
 * Cloud Feedback Model Intercomparison Project (CFMIP) Meeting, University of Washington, Seattle (07/2022)<br/>**Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman: “Evaluating the representation of tropical stratocumulus and shallow cumulus clouds as well as their radiative effects in
 CMIP6 models using satellite observations” (poster)
 * American Geophysical Union Fall Meeting & NASA GISS Clouds Research Group Meeting, virtual (12/2021)<br/>
@@ -37,7 +41,7 @@ _More information & event media coverage:_
 * Dynamic Meteorology seminar, University of Ljubljana, Ljubljana, Slovenia (01/2013)<br/>**Črnivec, N.** and N. Žagar: “Sutcliffe model of baroclinic development [In Slovene]” (talk)
 
 ## Contributing author for the following presentations:
-* European Meteorological Society Annual Meeting, virtual (09/2021)<br/> Zaplotnik, Ž., Boljka, L., **Črnivec, N.**, Slameršak, A.: Project RESCCCUE: “REminding Slovenian authorities Climate Change Crisis requires Urgent Effort” [abstract](https://meetingorganizer.copernicus.org/EMS2021/EMS2021-416.html)
+* European Meteorological Society Annual Meeting, virtual (09/2021)<br/> Zaplotnik, Ž., Boljka, L., **Črnivec, N.**, Slameršak, A.: Project RESCCCUE: “REminding Slovenian authorities Climate Change Crisis requires Urgent Effort” [Abstract](https://meetingorganizer.copernicus.org/EMS2021/EMS2021-416.html)
 * A Consortium for COnvection-scale modelling Research and Development (ACCORD) All Staff Workshop, virtual (04/2021)<br/>
 Pristov, N., B. Strajnar, J. Jerman, J. Cedilnik, M. Ličer, A. Fettich, M. Ličar, **N. Črnivec**, P. Smerkol: "NWP activities at ARSO (Slovenia)" (poster)
 * European Working Group on Limited-Area Modelling (EWGLAM) and Short-Range Numerical Weather Prediction (SRNWP) Meeting, virtual (09/2020)<br/>
