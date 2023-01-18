@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+<font color="DarkCyan"><b><i>Submitted/In review</i></b></font>
+
+* G. Cesana, A. Ackerman, **N. Črnivec**, R. Pincus and H. Chepfer: An Observation-Based Method to Assess Tropical Stratocumulus and Shallow Cumulus Clouds and Feedbacks in Two CMIP Generations. Submitted to Environmental Research Communications, 2023.
+
+* **Črnivec, N.**, G. Cesana and R. Pincus: Evaluating the representation of tropical stratocumulus and shallow cumulus clouds as well as their radiative effects in CMIP6 models using satellite observations. Submitted to Journal of Geophysical Research - Atmospheres, 2022. [Preprint on ESS Open Archive](https://essopenarchive.org/users/572355/articles/617258-evaluating-the-representation-of-tropical-stratocumulus-and-shallow-cumulus-clouds-as-well-as-their-radiative-effects-in-cmip6-models-using-satellite-observations?commit=e3c095d6922b4fff9779c4986eb4324d14748343)
+
 <font color="DarkCyan"><b><i>Peer-reviewed publications</i></b></font>
 
 * **Črnivec, N.** and B. Mayer: Towards an improved treatment of cloud–radiation interaction in weather and climate models: exploring the potential of the Tripleclouds method for various cloud types using libRadtran 2.0.4, _Geosci. Model Dev._, 14, 3663–3682, [https://doi.org/10.5194/gmd-14-3663-2021](https://doi.org/10.5194/gmd-14-3663-2021), 2021. 
