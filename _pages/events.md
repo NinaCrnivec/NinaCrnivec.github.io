@@ -42,7 +42,12 @@ _More information & event media coverage:_
 * Dynamic Meteorology seminar, University of Ljubljana, Ljubljana, Slovenia (01/2013)<br/>**Črnivec, N.** and N. Žagar: “Sutcliffe model of baroclinic development [In Slovene]” (talk)
 
 ## Contributing author for the following presentations:
-* European Meteorological Society Annual Meeting, virtual (09/2021)<br/> Zaplotnik, Ž., Boljka, L., **Črnivec, N.**, Slameršak, A.: Project RESCCCUE: “REminding Slovenian authorities Climate Change Crisis requires Urgent Effort” [Abstract](https://meetingorganizer.copernicus.org/EMS2021/EMS2021-416.html)
+* American Meteorological Society Conference on Climate Variability and Change, Denver, Colorado (01/2023)<br/>
+Cesana, G., A. Ackerman, **N. Črnivec**, R. Pincus, H. Chepfer: "A Novel Observation-Based Approach to Evaluate Tropical Stratocumulus and Shallow Cumulus Clouds and Feedbacks in CMIP Models" (talk) [Abstract](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/419113)
+* NOAA Climate Sensitivity Task Force Meeting, virtual (11/2022)<br/>
+Cesana, G., **N. Črnivec**, R. Pincus, A. Ackerman: "Evaluating and Constraining Models’ Stratocumulus and Cumulus Cloud Feedbacks in the Tropics using Satellite Observations to Reduce Uncertainties in Future Climate Projections" (talk)
+* European Meteorological Society Annual Meeting, virtual (09/2021)<br/>
+Zaplotnik, Ž., L. Boljka, **N. Črnivec**, A. Slameršak: Project RESCCCUE: “REminding Slovenian authorities Climate Change Crisis requires Urgent Effort” [Abstract](https://meetingorganizer.copernicus.org/EMS2021/EMS2021-416.html)
 * A Consortium for COnvection-scale modelling Research and Development (ACCORD) All Staff Workshop, virtual (04/2021)<br/>
 Pristov, N., B. Strajnar, J. Jerman, J. Cedilnik, M. Ličer, A. Fettich, M. Ličar, **N. Črnivec**, P. Smerkol: "NWP activities at ARSO (Slovenia)" (poster)
 * European Working Group on Limited-Area Modelling (EWGLAM) and Short-Range Numerical Weather Prediction (SRNWP) Meeting, virtual (09/2020)<br/>
