@@ -47,13 +47,13 @@ Cesana, G., A. Ackerman, **N. Črnivec**, R. Pincus, H. Chepfer: "A Novel Observ
 * NOAA Climate Sensitivity Task Force Meeting, virtual (11/2022)<br/>
 Cesana, G., **N. Črnivec**, R. Pincus, A. Ackerman: "Evaluating and Constraining Models’ Stratocumulus and Cumulus Cloud Feedbacks in the Tropics using Satellite Observations to Reduce Uncertainties in Future Climate Projections" (talk)
 * European Meteorological Society Annual Meeting, virtual (09/2021)<br/>
-Zaplotnik, Ž., L. Boljka, **N. Črnivec**, A. Slameršak: Project RESCCCUE: “REminding Slovenian authorities Climate Change Crisis requires Urgent Effort” [Abstract](https://meetingorganizer.copernicus.org/EMS2021/EMS2021-416.html)
+Zaplotnik, Ž., L. Boljka, **N. Črnivec**, A. Slameršak: Project RESCCCUE: “REminding Slovenian authorities Climate Change Crisis requires Urgent Effort” (lightning talk) [Abstract](https://meetingorganizer.copernicus.org/EMS2021/EMS2021-416.html)
 * A Consortium for COnvection-scale modelling Research and Development (ACCORD) All Staff Workshop, virtual (04/2021)<br/>
 Pristov, N., B. Strajnar, J. Jerman, J. Cedilnik, M. Ličer, A. Fettich, M. Ličar, **N. Črnivec**, P. Smerkol: "NWP activities at ARSO (Slovenia)" (poster)
 * European Working Group on Limited-Area Modelling (EWGLAM) and Short-Range Numerical Weather Prediction (SRNWP) Meeting, virtual (09/2020)<br/>
 Strajnar, B., N. Pristov, **N. Črnivec**, J. Cedilnik, P. Smerkol, V. Švagelj, J. Čampa, A. Fettich, M. Ličer, J. Jerman, M. Ličar: "ALADIN in Slovenia - 2020" (poster)
 * [American Meteorological Society Conference on Hurricanes and Tropical Meteorology](https://ams.confex.com/ams/32Hurr/webprogram/32HURRICANES.html), San Juan, Puerto Rico (04/2016)<br/>
-Smith, R. K., G. Kilroy, C. Schmidt, **N. Črnivec**, M. T. Montgomery: “Boundary Layer Control of Tropical Cyclone Intensification"
+Smith, R. K., G. Kilroy, C. Schmidt, **N. Črnivec**, M. T. Montgomery: “Boundary Layer Control of Tropical Cyclone Intensification" (talk) [Video](https://ams.confex.com/ams/32Hurr/videogateway.cgi/id/33543?recordingid=33543&uniqueid=Paper293190&entry_password=914455)
 
 ## Other attended workshops & seminars:
 * Analysis of PPEs (perturbed parameter ensembles) in Atmospheric Research (APPEAR) Workshop, organised by the WCRP Earth System Modelling and Observations Project, virtual (10/2022)
