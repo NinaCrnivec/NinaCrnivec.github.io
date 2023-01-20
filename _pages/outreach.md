@@ -68,6 +68,10 @@ redirect_from:
 
 ![RESCCCUE Word Art](/images/RESCCCUE_WordArt.png)
 
+* [Research Highlight for Crnivec and Mayer (2020) in Waves To Weather quarterly newsletter](https://www.wavestoweather.de/communication/dissemination-activities/publications/quarterly_newsletter/2020/w2w_newsletter_q3_2020.pdf) (09/2020)<br/>
+
+* [Research Highlight for Crnivec and Mayer (2019) in Waves To Weather quarterly newsletter](https://www.wavestoweather.de/communication/dissemination-activities/publications/quarterly_newsletter/2019/w2w_newsletter_q2_20191.pdf) (06/2019)<br/>
+
 <u>In German</u>:
 
 * Co-organizer of '[Mädchen machen Technik](https://www.wavestoweather.de/equal_opportunity/activities/maedchenmachentechnik2018/index.html)' (Girls and Technology), Meteorological Institute Munich, LMU Munich, Germany (09/2018)<br/>
