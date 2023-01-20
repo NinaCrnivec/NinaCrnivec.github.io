@@ -51,7 +51,7 @@ The initial arguments were based on an axisymmetric perspective, invoking the cl
 
 While working as a meteorologist in the NWP branch at the Slovenian Environment Agency I had a chance to experience operational weather forecasting. For the purpose of the WMO project SEE-MHEWS (South-East European Multi-Hazard Early Warning Advisory System) our NWP group set up the mesoscale model ALADIN in a novel configuration covering a larger domain over South-East Europe compared to the Slovenian operational version. I was mainly responsible for model validation (utilizing kinetic energy spectra), testing/optimization of model performance at ECMWF's HPC facility and post-processing of output fields on various grids using Python package EPyGrAM ([GitHub repository](https://github.com/NinaCrnivec/epygram_postprocessing)). I was subsequently involved in the project eGAFOR (Electronic General Aviation FORecast), whereby I processed meteorological fields of interest for aviation pilots on standard height levels.
 
-![SEEMHEWS](/images/figNCrnivec_SEEMHEWS_domain.png){ width=60% height=60% }
+![SEEMHEWS](/images/figNCrnivec_SEEMHEWS_domain_s0-6.png)
 
-<em><font color="Grey">Model domain in the SEE-MHEWS configuration</font></em>
+<em><font color="Grey">Increased ALADIN model domain size in the SEE-MHEWS configuration</font></em>
 
