@@ -9,11 +9,13 @@ I combine theory, numerical modeling and observations to study various physical 
 
 <font color="DarkCyan"><b><i>Postdoctoral research:</i></b></font>
 
-**Constraining cumulus and stratocumulus cloud feedbacks in climate models using satellite observations** 
+**Evaluating marine tropical shallow cumulus and stratocumulus cloud feedbacks in climate models using satellite observations** 
 
-Low-cloud feedbacks contribute strongly to the multimodel spread in equilibrium climate sensitivity. In my postdoctoral research I employ satellite observations to constrain low-cloud feedbacks in a suite of CMIP5 and CMIP6 climate models. The principal aim of this research is to separately evaluate feedbacks related to the two main low-cloud categories: shallow cumulus and stratocumulus. To accomplish this task I utilize the [Cumulus And Stratocumuls CloudSat-CALIPSO Dataset (CASCCAD)](https://data.giss.nasa.gov/clouds/casccad/) recently created by Cesana et al. (2019).<br/> 
+Low-cloud feedbacks contribute strongly to the multimodel spread in equilibrium climate sensitivity. In my postdoctoral research I employ satellite observations to evaluate individual marine tropical low-cloud regimes (shallow cumulus, stratocumulus), associated radiative fluxes and feedbacks in global climate models. To accomplish this task I utilize the [Cumulus And Stratocumuls CloudSat-CALIPSO Dataset (CASCCAD)](https://data.giss.nasa.gov/clouds/casccad/) recently created by Cesana et al. (2019).<br/> 
 
 ![CASCCAD](/images/figNCrnivec_CASCCAD_CuSc_global.png)
+
+<em><font color="Grey">Shallow cumulus and stratocumulus cloud regimes derived from CASCCAD</font></em>
 
 <font color="DarkCyan"><b><i>Doctoral research:</i></b></font>
 
