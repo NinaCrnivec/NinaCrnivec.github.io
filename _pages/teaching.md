@@ -15,7 +15,7 @@ author_profile: true
   * <ins>Lecture</ins>: **Radiative transfer modeling problem in a cloudy atmosphere** (audience: bachelor and master students of Meteorology and Physics, host: Dr. Žiga Zaplotnik)
   * <ins>Content</ins>: The lecture covers basic principles of radiative transfer theory (absorption, scattering, emission), radiative heating rates in clear-sky versus cloudy atmosphere, three-dimensional Monte Carlo radiation modeling and Independent Column Approximation, two-stream methodology, traditional (plane-parallel) and state-of-the-art representation of subgrid cloud structure in radiation schemes of weather and climate models.
 
-## Theses Supervision
+## Mentoring Experience
 
 * Co-supervisor of bachelor student (together with Prof. Dr. Bernhard Mayer), Ludwig-Maximilians-University Munich (2017)<br/>
   * <ins>Thesis title</ins>: _Modellierung von 3D solaren Erwärmungsraten in Abhängigkeit vom Aspektverhältnis der Wolken (Modelling of 3D solar heating rates as a function of cloud aspect ratio)_
