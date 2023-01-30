@@ -11,11 +11,11 @@ redirect_from:
 
 ## Work Experience
 
-* **Postdoctoral Research Scientist**, Columbia University, Earth Institute, Center for Climate Systems Research and NASA Goddard Institute for Space Studies (2021 – present)<br/> 
+* **Postdoctoral Research Scientist**, Columbia University, Earth Institute, Center for Climate Systems Research and NASA Goddard Institute for Space Studies, New York, New York (2021 – present)<br/> 
 <ins>Project</ins>: [Evaluating and Constraining Models’ Stratocumulus and Cumulus Cloud Feedbacks in the Tropics using Satellite Observations to Reduce Uncertainties in Future Climate Projections](https://www.earth.columbia.edu/projects/view/2203) of NOAA <br/>
 Advisors: Dr. Grégory Cesana, Prof. Dr. Robert Pincus, Dr. Andrew Ackerman
 
-* **Meteorologist**, Slovenian Environment Agency (2020 – 2021)<br/> 
+* **Meteorologist**, Slovenian Environment Agency, Ljubljana, Slovenia (2020 – 2021)<br/> 
 Section for meteorological, hydrological and oceanographic modeling:<br/>
 <ins>Project</ins>: [South-East European Multi-Hazard Early Warning Advisory System (SEE-MHEWS)](https://public.wmo.int/en/projects/see-mhews-a) of WMO<br/>
 Section for meteorological, hydrological and oceanographic forecasts:<br/>
@@ -60,7 +60,8 @@ See [Teaching tab](https://ninacrnivec.github.io/teaching/)
 See [Events tab](https://ninacrnivec.github.io/events/)
   
 ## Awards & Scholarships
-* **European Meteorological Society Media Award:** [Outreach and Communication Award](https://www.emetsoc.org/oc2020-for-rescccue-slovenia/) (together with Dr. Žiga Zaplotnik, Dr. Lina Boljka and Aljoša Slameršak) for the project **["RESCCCUE – REminding Slovenian authorities Climate Change Crisis requires Urgent Effort"](https://www.emetsoc.org/wp-content/uploads/2020/06/oc2020_RESCCCUE_project-description.pdf)** (2020)
+* Columbia Climate School Enrichment Funding (2023)
+* [European Meteorological Society Media Award: Outreach and Communication Award](https://www.emetsoc.org/oc2020-for-rescccue-slovenia/) (together with Dr. Žiga Zaplotnik, Dr. Lina Boljka and Aljoša Slameršak) for the project **["RESCCCUE – REminding Slovenian authorities Climate Change Crisis requires Urgent Effort"](https://www.emetsoc.org/wp-content/uploads/2020/06/oc2020_RESCCCUE_project-description.pdf)** (2020)
 * Ph.D. fellowship for the project ["B4 – Radiative heating and cooling at cloud scale and its impact on dynamics"](https://w2w.meteo.physik.uni-muenchen.de/research_areas/phase1/b4/index.html) within Transregional Collaborative Research Center SFB/TRR 165 Waves To Weather (W2W) funded by German Research Foundation (2016 – 2019)
 * Travel Grant for one-month scientific stay at Naval Postgraduate School, California (2015)
 * National Excellence Scholarship Ad Futura for studying abroad, awarded by the Slovene Human Resources Development and Scholarship Fund (2013 – 2015)
