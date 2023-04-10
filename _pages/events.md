@@ -6,12 +6,16 @@ author_profile: true
 ---
 
 ## Presentations
+* Ocean and Climate Physics Special Seminar, Lamont-Doherty Earth Observatory, Columbia Universty, Palisades, New York (04/2023)<br/>**Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman, B. Mayer, F. Jakub: "Shallow clouds, their interplay with atmospheric radiation and their critical role in the climate system" (talk)
+* Department of Earth and Atmospheric Sciences (research group of Prof. Luo), City University of New York, New York City, New York (03/2023)<br/>**Črnivec, N.**, B. Mayer, F. Jakub, G. Cesana, R. Pincus, A. Ackerman: "Clouds, their interaction with solar and terrestrial radiation and their impact on climate" (talk)
+* Seminar, NOAA Geophysical Fluid Dynamics Laboratory, Princeton University, Princeton, New Jersey (03/2023)<br/>**Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman, B. Mayer, F. Jakub: "Shallow clouds, their interaction with atmospheric radiation and their role in the climate system" (talk)
+* Lunch Seminar, NASA Goddard Institute for Space Studies, New York City, New York (03/2023)<br/>**Črnivec, N.** and B. Mayer: "Towards an improved treatment of cloud-radiation interaction in weather and climate models" (talk) 
 * 7th Symposium of Slovene Researchers Abroad (Environmental Change Panel) organized by Association of Slovenes Educated Abroad and Ministry of Education, Science and Sport, virtual (12/2022)<br/>**Črnivec, N.**: “Clouds and Climate [In Slovene]" (invited talk) [Video](https://www.youtube.com/watch?v=VmXpTefYQoI)
-* Bjerknes Center for Climate Research seminar series, University of Bergen, virtual (11/2022)<br/>
+* Bjerknes Center for Climate Research Seminar, University of Bergen, virtual (11/2022)<br/>
 **Črnivec, N.** and B. Mayer: "Towards an improved treatment of cloud-radiation interaction in weather and climate models" (invited talk) [Abstract](https://bjerknes.uib.no/en/article/seminar-talk-nina-crnivec)
-* Slovenian Meteorological Society seminar series, virtual (11/2022)<br/>
+* Slovenian Meteorological Society Seminar, virtual (11/2022)<br/>
 **Črnivec, N.** and B. Mayer: "Cloud-radiation interaction problem in weather and climate models [In Slovene]" (invited talk)
-* Cloud Feedback Model Intercomparison Project (CFMIP) Meeting, University of Washington, Seattle (07/2022)<br/>**Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman: “Evaluating the representation of tropical stratocumulus and shallow cumulus clouds as well as their radiative effects in
+* Cloud Feedback Model Intercomparison Project (CFMIP) Meeting, University of Washington, Seattle, Washington (07/2022)<br/>**Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman: “Evaluating the representation of tropical stratocumulus and shallow cumulus clouds as well as their radiative effects in
 CMIP6 models using satellite observations” (poster)
 * American Geophysical Union Fall Meeting & NASA GISS Clouds Research Group Meeting, virtual (12/2021)<br/>
  **Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman: “Evaluating and constraining models' stratocumulus and cumulus cloud feedbacks in the tropics using satellite observations to reduce uncertainties in future climate projections” (talk)
