@@ -11,6 +11,18 @@ redirect_from:
 
 ## Education & Public Outreach
 
+<u>In English</u>:
+
+* [Featured in NASA Goddard Space Flight Center Early Career Scientist Spotlight series](https://science.gsfc.nasa.gov/600/ECSS/Nina-Crnivec.html) (03/2023)<br/>
+
+* [The Slovenian project RESCCCUE awarded by the European Meteorological Association](https://www.uni-lj.si/research_and_development/research_news/interdisciplinary_research/2020070315391882/the_slovenian_project_rescccue_awarded_by_the_european_meteorological_association/), University of Ljubljana - Research News (07/2020)
+
+![RESCCCUE Word Art](/images/RESCCCUE_WordArt.png)
+
+* [Research Highlight for Crnivec and Mayer (2020) in Waves To Weather quarterly newsletter](https://www.wavestoweather.de/communication/dissemination-activities/publications/quarterly_newsletter/2020/w2w_newsletter_q3_2020.pdf) (09/2020)<br/>
+
+* [Research Highlight for Crnivec and Mayer (2019) in Waves To Weather quarterly newsletter](https://www.wavestoweather.de/communication/dissemination-activities/publications/quarterly_newsletter/2019/w2w_newsletter_q2_20191.pdf) (06/2019)<br/>
+
 <u>In Slovene</u>:
 
 * [Interview for Svet24](https://novice.svet24.si/clanek/novice/slovenija/6073055dc2e54/najvec-skode-bodo-utrpeli-slovenski-sadjarji-vinogradniki-in-cebelarji) about extreme weather events in the present and future climate in relation to severe frost in April 2021 which affected multiple regions in Slovenia (together with Andreja Sušnik and Lina Boljka) (04/2021)
@@ -19,7 +31,7 @@ redirect_from:
 
 * Contribution to the article in Slovenian newspaper [Delo - Sobotna priloga](https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/) about tackling climate change crisis (12/2020)
 
-* [Interview for Meteorolog.si](https://meteorolog.si/index.php/2020/12/18/nina-crnivec/) about my work at Slovenian Environment Agency (12/2020)
+* [Interview for Meteorolog.si](https://meteorolog.si/index.php/2020/12/18/nina-crnivec/) about my work at the operational weather service at Slovenian Environment Agency (12/2020)
 
 * We initiated the project [Interview: In brief](http://meteorolog.si/index.php/2020/09/15/napovednik-intervjuji-na-kratko/) to present diverse work of meteorologists on the Slovenian weather and climate portal [Meteorolog.si](http://meteorolog.si/) to foster student interest in meteorology (together with Katarina Kosovelj and Matija Klančar) (09/2020)
 
@@ -29,7 +41,7 @@ redirect_from:
 
 * Podcast interview about my PhD research on atmospheric radiation and clouds, [Metina lista: Meta PHoDcast 107: Nina Črnivec, meteorologist](https://metinalista.si/meta-phodcast-107-nina-crnivec-meteorologinja/), [Meteorolog.si: Metina lista: Interview with meteorologist Nina Črnivec](http://meteorolog.si/index.php/2020/02/03/metina-lista-intervju-z-meteorologinjo-nino-crnivec/) (01/2020)
 
-* Radio interview about tackling climate change crisis (together with Žiga Zaplotnik, Lina Boljka and Aljoša Slameršak), [Radio Študent - Science: How shall we mitigate climate change?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe?fbclid=IwAR2y3n6dfT9tYwNvE19qQpJQxxlx4NXMCNswiruB8Ier-CspBRPHdpXCQM4) (11/2019)<br/> 
+* Radio interview about tackling climate change crisis (together with Žiga Zaplotnik, Lina Boljka and Aljoša Slameršak), [Radio Student - Science: How shall we mitigate climate change?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe?fbclid=IwAR2y3n6dfT9tYwNvE19qQpJQxxlx4NXMCNswiruB8Ier-CspBRPHdpXCQM4) (11/2019)<br/> 
 
 <!---
 * Our 'Request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy' (joint work with [Žiga Zaplotnik](https://zaplotnik.github.io/), [Lina Boljka](https://lina-boljka.github.io/) and [Aljoša Slameršak](https://ictaweb.uab.cat/personal_detail.php?id=4088)) has received extensive media coverage (11-12/2019):
@@ -61,16 +73,6 @@ redirect_from:
 > - **Metina lista** (01/2020): [Meta PHoDcast 107: Nina Črnivec, meteorologinja](https://metinalista.si/meta-phodcast-107-nina-crnivec-meteorologinja/)<br/> 
 > - **RTV-SLO (Dnevnik)** (01/2020): [Neizkoriščen sklad za podnebne spremembe](https://4d.rtvslo.si/arhiv/dnevnik/174665542/00:00:00)<br/> 
 -->
-
-<u>In English</u>:
-
-* [The Slovenian project RESCCCUE awarded by the European Meteorological Association](https://www.uni-lj.si/research_and_development/research_news/interdisciplinary_research/2020070315391882/the_slovenian_project_rescccue_awarded_by_the_european_meteorological_association/), University of Ljubljana - Research News (07/2020)
-
-![RESCCCUE Word Art](/images/RESCCCUE_WordArt.png)
-
-* [Research Highlight for Crnivec and Mayer (2020) in Waves To Weather quarterly newsletter](https://www.wavestoweather.de/communication/dissemination-activities/publications/quarterly_newsletter/2020/w2w_newsletter_q3_2020.pdf) (09/2020)<br/>
-
-* [Research Highlight for Crnivec and Mayer (2019) in Waves To Weather quarterly newsletter](https://www.wavestoweather.de/communication/dissemination-activities/publications/quarterly_newsletter/2019/w2w_newsletter_q2_20191.pdf) (06/2019)<br/>
 
 <u>In German</u>:
 
