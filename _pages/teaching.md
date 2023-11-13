@@ -19,3 +19,6 @@ author_profile: true
 
 * Co-supervisor of bachelor student (together with Prof. Dr. Bernhard Mayer), Ludwig-Maximilians-University Munich (2017)<br/>
   * <ins>Thesis title</ins>: _Modellierung von 3D solaren Erwärmungsraten in Abhängigkeit vom Aspektverhältnis der Wolken (Modelling of 3D solar heating rates as a function of cloud aspect ratio)_
+ 
+* Mentor, Climatematch Academy: Computational Tools For Climate Science, virtual (2023)<br/>
+  * <ins>Role</ins>: Providing guidance to students on various issues such as professional development, research strategy, computational tools for Earth science, technical and soft skills, effective collaboration, principles of scientific integrity and inclusive work environment, science communication, bridging the gap between climate research and climate action, career advice for minority groups including women in science.
