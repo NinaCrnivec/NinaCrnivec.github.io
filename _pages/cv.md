@@ -11,47 +11,52 @@ redirect_from:
 
 ## Work Experience
 
-* **Postdoctoral Research Scientist**, Columbia University, Earth Institute, Center for Climate Systems Research and NASA Goddard Institute for Space Studies, New York, New York (2021 – present)<br/> 
-<ins>Project</ins>: [Evaluating and Constraining Models’ Stratocumulus and Cumulus Cloud Feedbacks in the Tropics using Satellite Observations to Reduce Uncertainties in Future Climate Projections](https://www.earth.columbia.edu/projects/view/2203) of NOAA <br/>
+* **Invited lecturer**, University of Ljubljana, Ljubljana, Slovenia (2024)<br/> 
+<ins>Subject</ins>: Climate Change <br/>
+Host: Dr. Žiga Zaplotnik
+
+* **Postdoctoral Research Scientist**, Columbia University, Earth Institute, Center for Climate Systems Research and NASA Goddard Institute for Space Studies, New York City, New York (2021 – 2023)<br/> 
+<ins>Project</ins>: [Evaluating and Constraining Models’ Stratocumulus and Cumulus Cloud Feedbacks in the Tropics using Satellite Observations to Reduce Uncertainties in Future Climate Projections](https://www.earth.columbia.edu/projects/view/2203) within [NOAA Climate Sensitivity Task Force](https://cpo.noaa.gov/divisions-programs/earth-system-science-and-modeling-division/modeling-analysis-predictions-and-projections/task-forces/climate-sensitivity-task-force-2020-2023/)<br/>
 Advisors: Dr. Grégory Cesana, Prof. Dr. Robert Pincus, Dr. Andrew Ackerman
 
 * **Meteorologist**, Slovenian Environment Agency, Ljubljana, Slovenia (2020 – 2021)<br/> 
 Section for meteorological, hydrological and oceanographic modeling:<br/>
-<ins>Project</ins>: [South-East European Multi-Hazard Early Warning Advisory System (SEE-MHEWS)](https://public.wmo.int/en/projects/see-mhews-a) of WMO<br/>
+<ins>Project</ins>: [South-East European Multi-Hazard Early Warning Advisory System (SEE-MHEWS)](https://www.see-mhews.org/) of WMO<br/>
 Section for meteorological, hydrological and oceanographic forecasts:<br/>
 <ins>Project</ins>: [Electronic General Aviation FORecast (eGAFOR)](https://egafor.eu/)<br/>
+
+* **Visiting Scientist**, Naval Postgraduate School, Monterey, California (April – May 2015)<br/> 
+Research visit to Prof. Dr. Michael Montgomery, Department of Meteorology, to conduct collaborative work on tropical cyclone dynamics using high-resolution numerical modeling <br/> 
+Attended [NASA Hurricane and Severe Storm Sentinel (HS3)](https://espo.nasa.gov/hs3/content/HS3_0) Science Team Meeting, NASA Ames Research Park, Mountain View, California
 
 ## Education
 
 * **Dr.rer.nat.**, Faculty of Physics, Ludwig-Maximilians-University Munich, Germany (2016 – 2019/2020)<br/> 
 <ins>Dissertation</ins>: _Towards an improved treatment of unresolved cloud-radiation interaction in weather and climate models_<br/> 
 Supervisors: Prof. Dr. Bernhard Mayer, Prof. Dr. George Craig<br/>
-Research group: [Remote sensing and radiative transfer](https://www.en.meteo.physik.uni-muenchen.de/forschung/atmo_fern/index.html)
-
-* **Visiting scientist**, Naval Postgraduate School, Monterey, California (April – May 2015)<br/> 
-Research visit to Prof. Dr. Michael Montgomery, Department of Meteorology
+Research group: [Remote sensing and radiative transfer, Meteorological Institute Munich](https://www.en.meteo.physik.uni-muenchen.de/forschung/atmo_fern/index.html)
 
 * **M.Sc. Meteorology**, Ludwig-Maximilians-University Munich, Germany (2013 – 2015)<br/> 
 <ins>Thesis</ins>: _Dependence of tropical cyclone intensification on latitude and sea surface temperature_<br/> 
 Supervisors: Prof. Dr. Roger K. Smith, Dr. Gerard Kilroy<br/> 
-Research group: [Tropical meteorology](https://www.en.meteo.physik.uni-muenchen.de/forschung/tropische/index.html)
+Research group: [Tropical meteorology, Meteorological Institute Munich](https://www.en.meteo.physik.uni-muenchen.de/forschung/tropische/index.html)
 
 * **B.Sc. Meteorology with Geophysics**, University of Ljubljana, Slovenia (2011 – 2014)<br/>
 <ins>Seminar</ins>: _North Atlantic Oscillation_<br/> 
 Supervisor: Prof. Dr. Nedjeljka Žagar
 
 * **B.Sc. Physics**, University of Ljubljana, Slovenia (2009 – 2013)<br/>
-3rd academic year abroad: Technical University of Berlin, Germany (2011 – 2012)
+Third academic year abroad: Technical University of Berlin, Germany (2011 – 2012)
 
-## Skills
+## Technical Skills & Tools
+* Numerical modeling including model development and validation: radiative transfer library libRadtran, NCAR Cloud Model (CM1)
 * Data analysis and visualization using various programming languages and tools (Fortran, Python, C, Unix shell, gnuplot, NCL)
-* Numerical modeling (model usage and development): radiative transfer library libRadtran, NCAR Cloud Model (CM1)
 
 ## Publications
 
 See [Publications tab](https://ninacrnivec.github.io/publications/)
   
-## Teaching
+## Teaching, Mentoring & Leadership
 
 See [Teaching tab](https://ninacrnivec.github.io/teaching/)
   
@@ -60,12 +65,13 @@ See [Teaching tab](https://ninacrnivec.github.io/teaching/)
 See [Events tab](https://ninacrnivec.github.io/events/)
   
 ## Awards & Scholarships
-* Columbia Climate School Enrichment Funding (2023)
-* [European Meteorological Society Media Award: Outreach and Communication Award](https://www.emetsoc.org/oc2020-for-rescccue-slovenia/) (together with Dr. Žiga Zaplotnik, Dr. Lina Boljka and Aljoša Slameršak) for the project **["RESCCCUE – REminding Slovenian authorities Climate Change Crisis requires Urgent Effort"](https://www.emetsoc.org/wp-content/uploads/2020/06/oc2020_RESCCCUE_project-description.pdf)** (2020)
-* Ph.D. fellowship for the project ["B4 – Radiative heating and cooling at cloud scale and its impact on dynamics"](https://w2w.meteo.physik.uni-muenchen.de/research_areas/phase1/b4/index.html) within Transregional Collaborative Research Center SFB/TRR 165 Waves To Weather (W2W) funded by German Research Foundation (2016 – 2019)
+* Columbia Climate School Enrichment Funding for professional development and research visits to Princeton University and NOAA Geophysical Fluid Dynamics Laboratory in Princeton, New Jersey, as well as Climate and Radiation Laboratory at NASA Goddard Space Flight Center in Greenbelt, Maryland (2023)
+* Postdoctoral position at Columbia University and NASA GISS to work on the project funded by Modeling, Analysis, Predictions and Projections (MAPP) program, NOAA Climate Program Office (2021 – 2023)
+* [European Meteorological Society Media Award: Outreach and Communication Award](https://www.emetsoc.org/oc2020-for-rescccue-slovenia/) (together with Dr. Žiga Zaplotnik, Dr. Lina Boljka and Dr. Aljoša Slameršak) for the project **["RESCCCUE – REminding Slovenian authorities Climate Change Crisis requires Urgent Effort"](https://www.emetsoc.org/wp-content/uploads/2020/06/oc2020_RESCCCUE_project-description.pdf)** (2020)
+* Ph.D. position to work on the project ["B4 – Radiative heating and cooling at cloud scale and its impact on dynamics"](https://w2w.meteo.physik.uni-muenchen.de/research_areas/phase1/b4/index.html) within Transregional Collaborative Research Center SFB/TRR 165 Waves To Weather (W2W) funded by German Research Foundation (2016 – 2019)
 * Travel Grant for one-month scientific stay at Naval Postgraduate School, California (2015)
 * National Excellence Scholarship Ad Futura for studying abroad, awarded by the Slovene Human Resources Development and Scholarship Fund (2013 – 2015)
-* Erasmus Grant for studying abroad at Technical University of Berlin (2011 – 2012)
+* ERASMUS Grant for studying abroad at Technical University of Berlin (2011 – 2012)
 * Zois Scholarship for distinctly talented students, awarded by the Slovene Human Resources Development and Scholarship Fund (entire secondary school and university studying period in Slovenia: 2005 – 2013)
 * Dean’s Award for outstanding academic achievement, University of Ljubljana (2009 – 2014)
 * Golden Matura Award for outstanding achievements at secondary school final examination and Special Award for top final grades in all subjects in the last study year (2009)
@@ -73,10 +79,11 @@ See [Events tab](https://ninacrnivec.github.io/events/)
 * Silver Awards at 50th and 51th National Mathematics Competitions of Slovenia (2006, 2007)
   
 ## Professional Activities
-* Reviewer for journal Geoscientific Model Development
-* Member of American Geophysical Union (AGU)
-* Member of [“Slovensko meteorološko društvo (SMD)”](http://www.smd.v-izdelavi.si/domov/) (Slovenian Meteorological Society)
-* Member of ["Društvo v tujini izobraženih Slovencev (Društvo VTIS)"](https://www.drustvovtis.si/) (Association of Slovenes Educated Abroad) 
+* [Topic Editor for European Geosciences Union's journal Geoscientific Model Development](https://www.geoscientific-model-development.net/editorial_board.html) (2023 – present)
+* Reviewer for journal Geoscientific Model Development (2021 – present)
+* Member of [Slovenian Meteorological Society](http://www.smd.v-izdelavi.si/domov/) (2019 – present)
+* Member of [Association of Slovenes Educated Abroad ("Društvo VTIS")](https://www.drustvovtis.si/) (2018 – present)
+* Member of American Geophysical Union (2021 – 2023)
 
 
 
