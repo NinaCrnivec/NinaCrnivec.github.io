@@ -25,11 +25,19 @@ redirect_from:
 
 <u>In Slovene</u>:
 
-* [Interview for Svet24](https://novice.svet24.si/clanek/novice/slovenija/6073055dc2e54/najvec-skode-bodo-utrpeli-slovenski-sadjarji-vinogradniki-in-cebelarji) about extreme weather events in the present and future climate in relation to severe frost in April 2021 which affected multiple regions in Slovenia (together with Andreja Sušnik and Lina Boljka) (04/2021)
+* Lecture on weather and climate, primary school Brinje Grosuplje, Slovenia (01/2024)
+
+* [Podcast interview for "Radio Študent" - Science](https://radiostudent.si/znanost/odprti-termin-za-znanost/nocni-program-znanstvene-redakcije-0) discussing diverse topics such as my overall experience in weather and climate research community and international career path (12/2023)
+
+* [Interview for "Večer"](https://vecer.com/slovenija/resevanje-sveta-pred-podnebnim-zlomom-lahko-clovek-spreminja-vreme-in-podnebje-10344702) before COP28 about climate change issues, pointing out the uncertainty of weather modification approaches such as thunderstorm cloud seeding (11/2023)
+
+* [Interview for "Zarja/Jana"](https://novice.svet24.si/revija/jana/clanek/zgodbe/649140df5a399/kako-naredis-oblak) about my postdoctoral research on tropical marine clouds at Columbia/NASA and elucidating the problematics of climate geoingeering approaches such as marine cloud brightening (06/2023)
+
+* [Interview for "Svet24"](https://novice.svet24.si/clanek/novice/slovenija/6073055dc2e54/najvec-skode-bodo-utrpeli-slovenski-sadjarji-vinogradniki-in-cebelarji) about extreme weather events in the present and future climate in relation to severe frost in April 2021 which affected multiple regions in Slovenia (together with Andreja Sušnik and Lina Boljka) (04/2021)
 
 * Podcast interview about my PhD research on cloud-radiation interaction problem in weather and climate models, [ARSO podcast: Student corner](https://meteo.arso.gov.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20210317_ep057.mp3) (03/2021)
 
-* Contribution to the article in Slovenian newspaper [Delo - Sobotna priloga](https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/) about tackling climate change crisis (12/2020)
+* Contribution to the [article in Slovenian newspaper "Delo - Sobotna priloga"](https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/) about tackling climate change crisis (12/2020)
 
 * [Interview for Meteorolog.si](https://meteorolog.si/index.php/2020/12/18/nina-crnivec/) about my work at the operational weather service at Slovenian Environment Agency (12/2020)
 
@@ -39,9 +47,9 @@ redirect_from:
 
 * [Big Steps](https://www.facebook.com/dvtis/photos/a.1017215245070418/1956902154435051/?type=3&theater) coverage by Association of Slovenes Educated Abroad (02/2020)
 
-* Podcast interview about my PhD research on atmospheric radiation and clouds, [Metina lista: Meta PHoDcast 107: Nina Črnivec, meteorologist](https://metinalista.si/meta-phodcast-107-nina-crnivec-meteorologinja/), [Meteorolog.si: Metina lista: Interview with meteorologist Nina Črnivec](http://meteorolog.si/index.php/2020/02/03/metina-lista-intervju-z-meteorologinjo-nino-crnivec/) (01/2020)
+* Podcast interview about my PhD research on atmospheric radiation and clouds, ["Metina lista": Meta PHoDcast 107: Nina Črnivec, meteorologist](https://metinalista.si/meta-phodcast-107-nina-crnivec-meteorologinja/), [Meteorolog.si: "Metina lista": Interview with meteorologist Nina Črnivec](http://meteorolog.si/index.php/2020/02/03/metina-lista-intervju-z-meteorologinjo-nino-crnivec/) (01/2020)
 
-* Radio interview about tackling climate change crisis (together with Žiga Zaplotnik, Lina Boljka and Aljoša Slameršak), [Radio Student - Science: How shall we mitigate climate change?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe?fbclid=IwAR2y3n6dfT9tYwNvE19qQpJQxxlx4NXMCNswiruB8Ier-CspBRPHdpXCQM4) (11/2019)<br/> 
+* Radio interview about tackling climate change crisis (together with Žiga Zaplotnik, Lina Boljka and Aljoša Slameršak), ["Radio Študent" - Science: How shall we mitigate climate change?](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe?fbclid=IwAR2y3n6dfT9tYwNvE19qQpJQxxlx4NXMCNswiruB8Ier-CspBRPHdpXCQM4) (11/2019)<br/> 
 
 <!---
 * Our 'Request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy' (joint work with [Žiga Zaplotnik](https://zaplotnik.github.io/), [Lina Boljka](https://lina-boljka.github.io/) and [Aljoša Slameršak](https://ictaweb.uab.cat/personal_detail.php?id=4088)) has received extensive media coverage (11-12/2019):
