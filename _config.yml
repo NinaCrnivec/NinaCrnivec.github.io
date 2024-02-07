@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nina Črnivec"
   avatar           : "NinaCrnivec.JPG"
-  bio              : "Postdoctoral Research Scientist at NASA GISS"
-  location         : "New York, New York"
-  employer         : "Columbia University"
+  bio              : "Meteorologist and Climate Scientist"
+  location         : "Ljubljana, Slovenia"
+  employer         : #"Columbia University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.si/citations?user=WiQKea8AAAAJ&hl=sl"
-  email            : "nc2941@columbia.edu"
+  email            : "nina.crnivec@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Nina_Crnivec"
   uri              :
   bitbucket        :
