@@ -65,11 +65,11 @@ See [Publications tab](https://ninacrnivec.github.io/publications/)
 
 See [Teaching tab](https://ninacrnivec.github.io/teaching/)
   
-## Conferences & Workshops
+## Conferences, Seminars & Workshops
 
 See [Events tab](https://ninacrnivec.github.io/events/)
   
-## Awards & Scholarships
+## Awards, Funding & Scholarships
 * Columbia Climate School Enrichment Funding for professional development and research visits to Princeton University and NOAA Geophysical Fluid Dynamics Laboratory in Princeton, New Jersey, as well as Climate and Radiation Laboratory at NASA Goddard Space Flight Center in Greenbelt, Maryland (2023)
 * Postdoctoral research scientist position at Columbia University and NASA GISS to work on the project funded by Modeling, Analysis, Predictions and Projections (MAPP) program, NOAA Climate Program Office (2021 – 2023)
 * [European Meteorological Society Media Award: Outreach and Communication Award](https://www.emetsoc.org/oc2020-for-rescccue-slovenia/) (together with Dr. Žiga Zaplotnik, Dr. Lina Boljka and Dr. Aljoša Slameršak) for the project **["RESCCCUE – REminding Slovenian authorities Climate Change Crisis requires Urgent Effort"](https://www.emetsoc.org/wp-content/uploads/2020/06/oc2020_RESCCCUE_project-description.pdf)** (2020)
@@ -83,7 +83,7 @@ See [Events tab](https://ninacrnivec.github.io/events/)
 * Gold Award at 51th National Mathematics Competition of Slovenia (2007)
 * Silver Awards at 50th and 51th National Mathematics Competitions of Slovenia (2006, 2007)
   
-## Professional Activities
+## Other Professional Activities
 * [Topic Editor for European Geosciences Union's journal Geoscientific Model Development](https://www.geoscientific-model-development.net/editorial_board.html) (2023 – present)
 * Reviewer for journal Geoscientific Model Development (2021 – present)
 * Member of [Slovenian Meteorological Society](http://www.smd.v-izdelavi.si/domov/) (2019 – present)
