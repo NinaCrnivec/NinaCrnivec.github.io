@@ -15,8 +15,8 @@ redirect_from:
 <ins>Subject</ins>: Climate Change <br/>
 Host: Dr. Žiga Zaplotnik
 
-* **Postdoctoral Research Scientist**, Columbia University, Earth Institute, Center for Climate Systems Research and NASA Goddard Institute for Space Studies, New York City, New York (2021 – 2023)<br/> 
-<ins>Project</ins>: [Evaluating and Constraining Models’ Stratocumulus and Cumulus Cloud Feedbacks in the Tropics using Satellite Observations to Reduce Uncertainties in Future Climate Projections](https://www.earth.columbia.edu/projects/view/2203) within [NOAA Climate Sensitivity Task Force](https://cpo.noaa.gov/divisions-programs/earth-system-science-and-modeling-division/modeling-analysis-predictions-and-projections/task-forces/climate-sensitivity-task-force-2020-2023/)<br/>
+* **Postdoctoral Research Scientist**, Center for Climate Systems Research, Earth Institute, Columbia University and NASA Goddard Institute for Space Studies, New York City, New York (2021 – 2023)<br/> 
+<ins>Project</ins>: [Evaluating and Constraining Models’ Stratocumulus and Cumulus Cloud Feedbacks in the Tropics using Satellite Observations to Reduce Uncertainties in Future Climate Projections](https://www.earth.columbia.edu/projects/view/2203) of [NOAA Climate Sensitivity Task Force](https://cpo.noaa.gov/divisions-programs/earth-system-science-and-modeling-division/modeling-analysis-predictions-and-projections/task-forces/climate-sensitivity-task-force-2020-2023/)<br/>
 Advisors: Dr. Grégory Cesana, Prof. Dr. Robert Pincus, Dr. Andrew Ackerman
 
 * **Meteorologist**, Slovenian Environment Agency, Ljubljana, Slovenia (2020 – 2021)<br/> 
@@ -48,9 +48,14 @@ Supervisor: Prof. Dr. Nedjeljka Žagar
 * **Bachelor of Science, Physics**, University of Ljubljana, Slovenia (2009 – 2013)<br/>
 Third academic year abroad at Technical University of Berlin, Germany (2011 – 2012)
 
-## Technical Skills & Tools
-* Numerical modeling including model development and validation: radiative transfer library libRadtran, NCAR Cloud Model (CM1)
-* Data analysis and visualization using various programming languages and tools (Fortran, Python, C, Unix shell, gnuplot, NCL)
+## Skills & Tools
+* **Numerical modeling including model development and validation**:
+    * [Library for radiative transfer – libRadtran](http://www.libradtran.org/doku.php) for cloud-radiation interaction studies; coding of two newly-implemented radiation solvers: the classic "δ-Eddington two-stream method with maximum-random overlap assumption for partial cloudiness" and its upgrade – the "Tripleclouds radiation scheme based on the core-shell model for convective clouds" for use in global weather and climate models
+    * [National Center for Atmospheric Research (NCAR) Cloud Model (CM1)](https://www2.mmm.ucar.edu/people/bryan/cm1/) for tropical cyclone intensification experiments; implementation of a balanced tropical cyclone vortex as a new initialization option
+    * Validation of the atmospheric component of global climate models using [NASA A-train satellite observations](https://atrain.nasa.gov/)
+    * Regional numerical weather prediction model ALADIN – optimization and validation of a new model configuration at ECMWF High Performance Computing (HPC) facility
+* **Data analysis and visualization** (NetCDF, GRIB formats) utilizing various programming languages and tools (Fortran, Python, C, Unix shell, gnuplot, NCL)
+* **Scientific writing** (with LaTeX) and **presentation skills** in English (fluent), German (fluent), Slovene (native)
 
 ## Publications
 
@@ -84,6 +89,8 @@ See [Events tab](https://ninacrnivec.github.io/events/)
 * Member of [Slovenian Meteorological Society](http://www.smd.v-izdelavi.si/domov/) (2019 – present)
 * Member of [Association of Slovenes Educated Abroad ("Društvo VTIS")](https://www.drustvovtis.si/) (2018 – present)
 * Member of American Geophysical Union (2021 – 2023)
+* [Member of Slovenian female experts network She Knows ("Ona Ve")](https://onave.si/dr-nina-crnivec/) striving to increase the presence of women in media and general decision making process (2022 – present)
+
 
 
 
