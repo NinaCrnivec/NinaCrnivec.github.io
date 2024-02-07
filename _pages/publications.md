@@ -5,25 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-<font color="DarkCyan"><b><i>Submitted/In review</i></b></font>
-
-* Cesana, G., A. Ackerman, **N. Črnivec**, R. Pincus and H. Chepfer: An Observation-Based Method to Assess Tropical Stratocumulus and Shallow Cumulus Clouds and Feedbacks in Two CMIP Generations. Submitted to Environmental Research Communications, 2023.
-
-* **Črnivec, N.**, G. Cesana and R. Pincus: Evaluating the representation of tropical stratocumulus and shallow cumulus clouds as well as their radiative effects in CMIP6 models using satellite observations. Submitted to Journal of Geophysical Research - Atmospheres, 2022. [Preprint on ESS Open Archive](https://essopenarchive.org/users/572355/articles/617258-evaluating-the-representation-of-tropical-stratocumulus-and-shallow-cumulus-clouds-as-well-as-their-radiative-effects-in-cmip6-models-using-satellite-observations?commit=e3c095d6922b4fff9779c4986eb4324d14748343)
-
 <font color="DarkCyan"><b><i>Peer-reviewed publications</i></b></font>
 
-* **Črnivec, N.** and B. Mayer: Towards an improved treatment of cloud–radiation interaction in weather and climate models: exploring the potential of the Tripleclouds method for various cloud types using libRadtran 2.0.4, _Geosci. Model Dev._, 14, 3663–3682, [https://doi.org/10.5194/gmd-14-3663-2021](https://doi.org/10.5194/gmd-14-3663-2021), 2021. 
+* Cesana, G., A. Ackerman, **N. Črnivec**, R. Pincus and H. Chepfer: An observation-based method to assess tropical stratocumulus and shallow cumulus clouds and feedbacks in CMIP6 and CMIP5 models. _Environmental Research Communications_, 5, 045001, [https://doi.org/10.1088/2515-7620/acc78a](https://doi.org/10.1088/2515-7620/acc78a), 2023.
 
-* Montgomery, M. T., G. Kilroy, R. K. Smith and **N. Črnivec**: Contribution of mean and eddy momentum processes to tropical cyclone intensification. _Quart. J. Roy. Meteor. Soc._, 146, 3101-3117, [https://doi.org/10.1002/qj.3837](https://doi.org/10.1002/qj.3837), 2020.
+* **Črnivec, N.**, G. Cesana and R. Pincus: Evaluating the representation of tropical stratocumulus and shallow cumulus clouds as well as their radiative effects in CMIP6 models using satellite observations. _Journal of Geophysical Research - Atmospheres_, 128, e2022JD038437, [https://doi.org/10.1029/2022JD038437](https://doi.org/10.1029/2022JD038437), 2023. [Preprint on ESS Open Archive](https://essopenarchive.org/users/572355/articles/617258-evaluating-the-representation-of-tropical-stratocumulus-and-shallow-cumulus-clouds-as-well-as-their-radiative-effects-in-cmip6-models-using-satellite-observations?commit=e3c095d6922b4fff9779c4986eb4324d14748343)
 
-* **Črnivec, N.** and B. Mayer: The incorporation of the Tripleclouds concept into the δ-Eddington two-stream radiation scheme: solver characterization and its application to shallow cumulus clouds. _Atmos. Chem. Phys._, 20, 10733–10755, [https://doi.org/10.5194/acp-20-10733-2020](https://doi.org/10.5194/acp-20-10733-2020), 2020. 
+* **Črnivec, N.** and B. Mayer: Towards an improved treatment of cloud–radiation interaction in weather and climate models: exploring the potential of the Tripleclouds method for various cloud types using libRadtran 2.0.4. _Geoscientific Model Development_, 14, 3663–3682, [https://doi.org/10.5194/gmd-14-3663-2021](https://doi.org/10.5194/gmd-14-3663-2021), 2021. 
 
-* **Črnivec, N.** and B. Mayer: Quantifying the bias of radiative heating rates in numerical weather prediction models for shallow cumulus clouds. _Atmos. Chem. Phys._, 19, 8083-8100, [https://doi.org/10.5194/acp-19-8083-2019](https://doi.org/10.5194/acp-19-8083-2019), 2019. 
+* Montgomery, M. T., G. Kilroy, R. K. Smith and **N. Črnivec**: Contribution of mean and eddy momentum processes to tropical cyclone intensification. _Quarterly Journal of the Royal Meteorological Society_, 146, 3101–3117, [https://doi.org/10.1002/qj.3837](https://doi.org/10.1002/qj.3837), 2020.
 
-* **Črnivec, N.** and R. K. Smith: Mean radiosonde soundings for the Australian monsoon/cyclone season. _Intern. J. Clim._, 37, 66-78, [https://doi.org/10.1002/joc.4687](https://doi.org/10.1002/joc.4687), 2016.
+* **Črnivec, N.** and B. Mayer: The incorporation of the Tripleclouds concept into the δ-Eddington two-stream radiation scheme: solver characterization and its application to shallow cumulus clouds. _Atmospheric Chemistry and Physics, 20, 10733–10755, [https://doi.org/10.5194/acp-20-10733-2020](https://doi.org/10.5194/acp-20-10733-2020), 2020. 
 
-* **Črnivec, N.**, R. K. Smith and G. Kilroy: Dependence of tropical cyclone intensification rate on sea surface temperature. _Quart. J. Roy. Meteor. Soc._, 142, 1618-1627, [https://doi.org/10.1002/qj.2752](https://doi.org/10.1002/qj.2752), 2016.
+* **Črnivec, N.** and B. Mayer: Quantifying the bias of radiative heating rates in numerical weather prediction models for shallow cumulus clouds. _Atmospheric Chemistry and Physics_, 19, 8083–8100, [https://doi.org/10.5194/acp-19-8083-2019](https://doi.org/10.5194/acp-19-8083-2019), 2019. 
+
+* **Črnivec, N.** and R. K. Smith: Mean radiosonde soundings for the Australian monsoon/cyclone season. _International Journal of Climatology_, 37, 66–78, [https://doi.org/10.1002/joc.4687](https://doi.org/10.1002/joc.4687), 2016.
+
+* **Črnivec, N.**, R. K. Smith and G. Kilroy: Dependence of tropical cyclone intensification rate on sea surface temperature. _Quartarely Journal of the Royal Meteorological Society_, 142, 1618–1627, [https://doi.org/10.1002/qj.2752](https://doi.org/10.1002/qj.2752), 2016.
 
 <font color="DarkCyan"><b><i>Theses</i></b></font>
 
@@ -33,7 +31,7 @@ author_profile: true
 
 <font color="DarkCyan"><b><i>Open letter</i></b></font>
 
-* Zaplotnik, Ž., L. Boljka, **N. Črnivec** and A. Slameršak, 2019: [A request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy](https://www.researchgate.net/publication/337167123_Zahteva_slovenskih_raziskovalcev_za_sprejetje_takojsnjih_ukrepov_za_blazenje_podnebnih_sprememb_in_prilagajanje_nanje_Odprto_pismo_slovenski_vladi_13_pp_podpisano_s_strani_vec_kot_100_Slovenskih_znans). <em>An open letter to the Slovenian government signed by over 100 Slovenian scientists</em> [In Slovene, includes English summary]. <a href="http://ninacrnivec.github.io/files/00206BBAC913191209121909.pdf">Answer from the government</a>. Media coverage:
+* Zaplotnik, Ž., L. Boljka, **N. Črnivec** and A. Slameršak, 2019: [A request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy](https://www.researchgate.net/publication/337167123_Zahteva_slovenskih_raziskovalcev_za_sprejetje_takojsnjih_ukrepov_za_blazenje_podnebnih_sprememb_in_prilagajanje_nanje_Odprto_pismo_slovenski_vladi_13_pp_podpisano_s_strani_vec_kot_100_Slovenskih_znans). <em>An open letter to the Slovenian government signed by over 100 Slovenian scientists</em> [In Slovene, includes English summary]. <a href="http://ninacrnivec.github.io/files/00206BBAC913191209121909.pdf">Answer from the government</a>. <ins>Media coverage</ins>:
 [RTV-SLO](https://www.rtvslo.si/okolje/novice/znanstveniki-slovenija-ne-kaze-pripravljenosti-da-bi-se-na-podnebne-spremembe-odlocno-odzvala/504612?fbclid=IwAR2Px1cLtDykMJxNszkG6MI1QDOM2LneGWqK70LchAvEST9RBr_VWVjM-7Y),
 [24ur](https://www.24ur.com/novice/slovenija/razocarani-slovenski-znanstveniki-politiki-se-ne-zavedajo-resnosti-problema.html),
 [Dnevnik](https://www.dnevnik.si/1042913601/slovenija/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb),
@@ -59,9 +57,13 @@ author_profile: true
 [Radio Študent](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe),
 [Radio Rai Furlanija Julijska Krajina](http://www.rai.it/dl/portali/site/articolo/ContentItem-99a019aa-ca1e-4865-b5e0-bc047ac1bab4.html).
 
+* Slameršak, A., Ž. Zaplotnik, L. Boljka and **N. Črnivec**, 2020: [Suggestions for a political programme for a green transition and a minimisation of climate change impacts](https://drive.google.com/file/d/1jB1u5CN3qE75PLRgBAbi-LucCHVcn0L8/view) _A letter to the Slovenian government_ [In Slovene]. 
+
+* Boljka, L., Ž. Zaplotnik, A. Slameršak and **N. Črnivec**, 2020: [Comments and suggestions on the draft of the Slovenian long-term climate change strategy](https://drive.google.com/file/d/1psP-qqJbKs0fBEgqDec83A-N8_pgAHTK/view). _A letter to the Slovenian Ministry for the Environment_ [In Slovene]. <ins>Media coverage</ins>: [OE Finance](https://oe.finance.si/8966414/(prejeli-smo)-Predlog-raziskovalcev-za-spremembe-osnutka-podnebne-strategije?cctest&), [Meteorolog.si](http://meteorolog.si/index.php/2020/10/01/opozorilo-na-premajhno-ambicioznost-osnutka-dolgorocne-podnebne-strategije-slovenije/), [Globus](https://4d.rtvslo.si/arhiv/globus/174722022).
+
 <font color="DarkCyan"><b><i>White paper</i></b></font>
 
-* Gams, M., **N. Črnivec**, L. Globevnik, S. Pejovnik, Ž. Zaplotnik, A. Zidanšek (editors), 2020: [White paper on environment protection](http://library.ijs.si/Stacks/Literature/Bela%20knjiga%20znanost%20o%20okolju%202020.pdf) [In Slovene]. _Jožef Stefan Institute_, Ljubljana, 160 pp. Authors: L. Boljka, M. Z. Božnar, M. Brnič Jager, B. Brudar, A. Čas, **N. Črnivec**, M. Debeljak, M. Gams, P. Glavič, L. Globevnik, B. Grašič, F. Gubina, A. Hace, T. Horvat, M. Jeran, L. Kozlovič, A. Krainer, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, B. Orel, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štrubelj, A. Šubic, J. Tasič, B. Tomažič, A. Vovk Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, D. Zupančič, T. Žagar.
+* Gams, M., **N. Črnivec**, L. Globevnik, S. Pejovnik, Ž. Zaplotnik, A. Zidanšek (editors), 2020: [White paper on environment protection](http://library.ijs.si/Stacks/Literature/Bela%20knjiga%20znanost%20o%20okolju%202020.pdf) [In Slovene]. _Jožef Stefan Institute_, Ljubljana, 160 pp. Authors (in alphabetical order): L. Boljka, M. Z. Božnar, M. Brnič Jager, B. Brudar, A. Čas, **N. Črnivec**, M. Debeljak, M. Gams, P. Glavič, L. Globevnik, B. Grašič, F. Gubina, A. Hace, T. Horvat, M. Jeran, L. Kozlovič, A. Krainer, K. Lipič, F. Lobnik, J. Malačič, T. Ogrin, B. Orel, S. Pejovnik, D. Popović, R. Seljak, A. Slameršak, G. Stanič, L. Štrubelj, A. Šubic, J. Tasič, B. Tomažič, A. Vovk Korže, Ž. Zaplotnik, A. Zidanšek, I. Zorko, D. Zupančič, T. Žagar.
 
 <font color="DarkCyan"><b><i>Bachelor seminars</i></b></font>
 
@@ -84,11 +86,5 @@ author_profile: true
 * **Črnivec, N.**: The impact of latitute and sea surface temperature on tropical cyclone intensification: master thesis summary. _Vetrnica: Journal of Slovenian Meteorological Society (Student corner)_ [In Slovene], 12-13, 40-41, 2020.
 
 * **Črnivec, N.**: My meteorological studying journey: experiences from abroad. _Vetrnica: Journal of Slovenian Meteorological Society (Student corner)_ [In Slovene], 12-13, 67-69, 2020.
-
-<font color="DarkCyan"><b><i>Other</i></b></font>
-
-* Slameršak, A., Ž. Zaplotnik, L. Boljka and **N. Črnivec**, 2020: [Suggestions for a political programme for a green transition and a minimisation of climate change impacts](https://drive.google.com/file/d/1jB1u5CN3qE75PLRgBAbi-LucCHVcn0L8/view) [In Slovene]. 
-
-* Boljka, L., Ž. Zaplotnik, A. Slameršak and **N. Črnivec**, 2020: [Comments and suggestions on the draft of the Slovenian long-term climate change strategy](https://drive.google.com/file/d/1psP-qqJbKs0fBEgqDec83A-N8_pgAHTK/view). _A letter to the Slovenian Ministry for the Environment_ [In Slovene]. Media: [OE Finance](https://oe.finance.si/8966414/(prejeli-smo)-Predlog-raziskovalcev-za-spremembe-osnutka-podnebne-strategije?cctest&), [Meteorolog.si](http://meteorolog.si/index.php/2020/10/01/opozorilo-na-premajhno-ambicioznost-osnutka-dolgorocne-podnebne-strategije-slovenije/), [Globus](https://4d.rtvslo.si/arhiv/globus/174722022).
 
 
