@@ -17,7 +17,7 @@ author_profile: true
 * Slovenian Meteorological Society Seminar, virtual (11/2022)<br/>
 **Črnivec, N.** and B. Mayer: "Cloud-radiation interaction problem in weather and climate models [In Slovene]" (invited talk) [Video](https://www.youtube.com/watch?v=0v3ymRMvsE0&t=458s)
 * Cloud Feedback Model Intercomparison Project (CFMIP) Meeting, University of Washington, Seattle, Washington (07/2022)<br/>**Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman: “Evaluating the representation of tropical stratocumulus and shallow cumulus clouds as well as their radiative effects in
-CMIP6 models using satellite observations” (poster)
+CMIP6 models using satellite observations” (poster presentation) [Poster](https://github.com/NinaCrnivec/NinaCrnivec.github.io/blob/master/files/posters_NC/Crnivec_CFMIP2022_poster_TropicalScCuCMIP6.pdf)
 * American Geophysical Union Fall Meeting & NASA GISS Clouds Research Group Meeting, virtual (12/2021)<br/>
  **Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman: “Evaluating and constraining models' stratocumulus and cumulus cloud feedbacks in the tropics using satellite observations to reduce uncertainties in future climate projections” (talk)
 * NASA Goddard Space Flight Center Early Career Scientist Forum, virtual (11/2021)<br/>**Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman: “Constraining tropical cumulus and stratocumulus cloud feedbacks in climate models using satellite observations” (lightning talk)
@@ -31,10 +31,10 @@ _More information & event media coverage:_
 [Karierni centri Univerze v Ljubljani](https://kc.uni-lj.si/novice/4-simpozij-slovenskih-raziskovalcev-v-tujini.html)<br/> 
 -->
 * Seminar, Meteorological Institute, Ludwig-Maximilians-University Munich, Munich, Germany (02/2019)<br/>**Črnivec, N.** and B. Mayer: “Towards an improved treatment of unresolved cloud-radiation interaction in numerical models” (talk)
-* [Waves To Weather 4th Annual Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/4th-annual-meeting-nov18/index.html), Landau, Germany (11/2018)<br/>**Črnivec, N.** and B. Mayer: "B4-Workpackage 2: Radiative heating and cooling at cloud scale and its impact on dynamics" (poster)
+* [Waves To Weather 4th Annual Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/4th-annual-meeting-nov18/index.html), Landau, Germany (11/2018)<br/>**Črnivec, N.** and B. Mayer: "B4-Workpackage 2: Radiative heating and cooling at cloud scale and its impact on dynamics" (poster presentation) [Poster](https://github.com/NinaCrnivec/NinaCrnivec.github.io/blob/master/files/posters_NC/Crnivec_2018_poster_W2W_B4wp2.pdf)
 * [Waves To Weather Research Area B (Cloud-scale Uncertainties) Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/rab-meeting-mar2018/index.html), Johannes Gutenberg University Mainz, Mainz, Germany (03/2018)<br/>**Črnivec, N.** and B. Mayer: “Radiative heating and cooling at cloud scale and its impact on dynamics” (talk)
 * [Waves To Weather Early Career Scientists Workshop](https://w2w.meteo.physik.uni-muenchen.de/meetings/ecs-workshop-mar-2018/index.html), Heidelberg University, Heidelberg, Germany (03/2018)<br/>**Črnivec, N.**: Fortran with Code::Blocks IDE (talk, tool presentation)
-* [Waves To Weather 3nd Annual Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/3rd-annual-meeting2017/index.html), Kempten, Germany (11/2017)<br/>**Črnivec, N.**, B. Mayer, I. Lerner, F. Jakub: "B4-Workpackage 2: Radiative heating and cooling at cloud scale and its impact on dynamics" (poster)
+* [Waves To Weather 3nd Annual Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/3rd-annual-meeting2017/index.html), Kempten, Germany (11/2017)<br/>**Črnivec, N.**, B. Mayer, I. Lerner, F. Jakub: "B4-Workpackage 2: Radiative heating and cooling at cloud scale and its impact on dynamics" (poster presentation)
 * [Waves To Weather Research Area B (Cloud-scale Uncertainties) Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/rab-meeting-2017/rab-grouppicture_2017.jpg), Johannes Gutenberg University Mainz, Mainz, Germany (05/2017)<br/>**Črnivec, N.** and B. Mayer: “1-D versus 3-D radiation from NWP perspective” (talk)
 * [Waves To Weather Early Career Scientists Workshop](https://w2w.meteo.physik.uni-muenchen.de/meetings/ecs_meeting_april2017/index.html), Bad Tölz, Germany (04/2017)<br/>**Črnivec, N.**: “1-D radiation parameterizations and their problems related to clouds” (talk)
 * [Waves To Weather 2nd Annual Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/annual_meeting2/index.html), Speyer, Germany (11/2016)<br/>**Črnivec, N.** and B. Mayer: “Quantifying the bias of 1-D COSMO heating rates” (talk)
@@ -54,9 +54,9 @@ Cesana, G., **N. Črnivec**, R. Pincus, A. Ackerman: "Evaluating and Constrainin
 * European Meteorological Society Annual Meeting, virtual (09/2021)<br/>
 Zaplotnik, Ž., L. Boljka, **N. Črnivec**, A. Slameršak: Project RESCCCUE: “REminding Slovenian authorities Climate Change Crisis requires Urgent Effort” (lightning talk) [Abstract](https://meetingorganizer.copernicus.org/EMS2021/EMS2021-416.html)
 * A Consortium for COnvection-scale modelling Research and Development (ACCORD) All Staff Workshop, virtual (04/2021)<br/>
-Pristov, N., B. Strajnar, J. Jerman, J. Cedilnik, M. Ličer, A. Fettich, M. Ličar, **N. Črnivec**, P. Smerkol: "NWP activities at ARSO (Slovenia)" (poster)
+Pristov, N., B. Strajnar, J. Jerman, J. Cedilnik, M. Ličer, A. Fettich, M. Ličar, **N. Črnivec**, P. Smerkol: "NWP activities at ARSO (Slovenia)" (poster presentation)
 * European Working Group on Limited-Area Modelling (EWGLAM) and Short-Range Numerical Weather Prediction (SRNWP) Meeting, virtual (09/2020)<br/>
-Strajnar, B., N. Pristov, **N. Črnivec**, J. Cedilnik, P. Smerkol, V. Švagelj, J. Čampa, A. Fettich, M. Ličer, J. Jerman, M. Ličar: "ALADIN in Slovenia – 2020" (poster)
+Strajnar, B., N. Pristov, **N. Črnivec**, J. Cedilnik, P. Smerkol, V. Švagelj, J. Čampa, A. Fettich, M. Ličer, J. Jerman, M. Ličar: "ALADIN in Slovenia – 2020" (poster presentation)
 * [American Meteorological Society Conference on Hurricanes and Tropical Meteorology](https://ams.confex.com/ams/32Hurr/webprogram/32HURRICANES.html), San Juan, Puerto Rico (04/2016)<br/>
 Smith, R. K., G. Kilroy, C. Schmidt, **N. Črnivec**, M. T. Montgomery: “Boundary Layer Control of Tropical Cyclone Intensification" (talk) [Video](https://ams.confex.com/ams/32Hurr/videogateway.cgi/id/33543?recordingid=33543&uniqueid=Paper293190&entry_password=914455)
 
