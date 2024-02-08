@@ -42,8 +42,8 @@ _More information & event media coverage:_
 * [Waves To Weather Research Area B (Cloud-scale Uncertainties) Meeting](https://w2w.meteo.physik.uni-muenchen.de/meetings/ra-b-meeting-jun-2016/index.html), Johannes Gutenberg University Mainz, Mainz, Germany (06/2016)<br/>**Črnivec, N.** and B. Mayer: “Does 3-D atmospheric radiation impact weather?" (talk)
 * [Waves To Weather Early Career Scientists Workshop](https://w2w.meteo.physik.uni-muenchen.de/meetings/ecs-workshop-jun-2016/index.html), Kaub, Germany (06/2016)<br/>**Črnivec, N.** and B. Mayer: “Atmospheric radiation and its impact on weather” (talk)
 * [Waves To Weather Early Career Scientists Workshop](https://w2w.meteo.physik.uni-muenchen.de/meetings/ecs-workshop-dec15/index.html), Karlsruhe Institute of Technology, Karlsruhe, Germany (12/2015)<br/>**Črnivec, N.**: “Tropical cyclone intensification” (talk, presentation skills training)
-* Seminar, Meteorological Institute, Ludwig-Maximilians-University Munich, Munich, Germany (10/2015)<br/>**Črnivec, N.** and R. K. Smith: “The diurnal cycle of mature tropical cyclones” (talk)
-* Institutional seminar, University of Ljubljana, Ljubljana, Slovenia (05/2013)<br/>**Črnivec, N.** and N. Žagar: “North Atlantic Oscillation [In Slovene]” (talk)
+* Literature Seminar, Meteorological Institute, Ludwig-Maximilians-University Munich, Munich, Germany (10/2015)<br/>**Črnivec, N.** and R. K. Smith: “The diurnal cycle of mature tropical cyclones” (talk) [Slides](https://github.com/NinaCrnivec/NinaCrnivec.github.io/blob/master/files/slides_NC/Crnivec_LiteratureSeminar_LMU_Munich_2015_TC.pdf)
+* Institutional seminar, University of Ljubljana, Ljubljana, Slovenia (05/2013)<br/>**Črnivec, N.** and N. Žagar: “North Atlantic Oscillation [In Slovene]” (talk) [Slides](https://github.com/NinaCrnivec/NinaCrnivec.github.io/blob/master/files/slides_NC/Crnivec_MeteoSeminar_UNILJ_2013_NAO.pdf)
 * Dynamic Meteorology seminar, University of Ljubljana, Ljubljana, Slovenia (01/2013)<br/>**Črnivec, N.** and N. Žagar: “Sutcliffe model of baroclinic development [In Slovene]” (talk)
 
 ## Contributing author for the following presentations:
