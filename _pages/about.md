@@ -7,11 +7,16 @@ redirect_from:
    - /about/
    - /about.html
 ---
-I am an atmospheric scientist interested in a wide variety of phenomena shaping Earth's weather and climate. My research focuses on clouds, radiative transfer and their interplay as well as on dynamics of larger cloud systems such as tropical cyclones. I am currently a [postdoctoral research scientist](https://ccsr.columbia.edu/people/nina-crnivec) at the Center for Climate Systems Research at Columbia University & NASA GISS, where I aim to better understand low clouds and the role they play in the complex, nonlinear, multiscale climate system. I use theory, observations and a hiearchy of numerical models to tackle these challenging problems. I am also engaged in science outreach activities and communicating climate change on board of the [RESCCCUE](https://www.emetsoc.org/oc2020-for-rescccue-slovenia/) team. 
+
+Hi, and welcome to my website! I am an atmospheric scientist interested in a wide variety of phenomena shaping Earth’s weather and climate. My research focuses on shallow clouds, solar and terrestrial radiation, cloud-radiative interactions and feedbacks, as well as tropical cyclone dynamics. To study these challenging topics I use mathematical theory, observations and a hierarchy of numerical models ranging from detailed radiative transfer and cloud-resolving models to global climate models. 
+
+Within the World Climate Research Programme's [Fresh Eyes on Coupled Model Intercomparison Project](https://wcrp-cmip.org/fresh-eyes-on-cmip/) initiative I'm currently steering a worldwide group of early-career researchers striving to advance data analysis tools for the next generation of climate models. I'm also engaged in science outreach activities and communicating climate change on board of the [RESCCCUE](https://www.emetsoc.org/oc2020-for-rescccue-slovenia/) team.
+
+If you share any of these research interests and concerns, and would want to chat or collaborate with me, feel free to reach out to me via Email or Twitter/X.
 
 Research Interests
 ------
-- Satellite meteorology, cloud feedbacks, climate sensitivity
+- Shallow clouds, cloud feedbacks, climate sensitivity, satellite meteorology
 
 - Cloud-radiation interaction, cloud inhomogeneity, three-dimensional radiative transfer 
 
