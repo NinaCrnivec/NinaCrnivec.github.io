@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education & Public Outreach
 
-<u>In English</u>:
+<b><font color="slateblue"><u>In English:</u></font></b> 
 
 * [Featured in NASA Goddard Space Flight Center Early Career Scientist Spotlight series](https://science.gsfc.nasa.gov/600/ECSS/Nina-Crnivec.html) (03/2023)<br/>
 
@@ -23,7 +23,7 @@ redirect_from:
 
 * [Research Highlight for Crnivec and Mayer (2019) in Waves To Weather quarterly newsletter](https://www.wavestoweather.de/communication/dissemination-activities/publications/quarterly_newsletter/2019/w2w_newsletter_q2_20191.pdf) (06/2019)<br/>
 
-<u>In Slovene</u>:
+<b><font color="slateblue"><u>In Slovene:</u></font></b> 
 
 * Lecture on weather and climate, primary school Brinje Grosuplje, Slovenia (01/2024)
 
@@ -82,7 +82,7 @@ redirect_from:
 > - **RTV-SLO (Dnevnik)** (01/2020): [Neizkoriščen sklad za podnebne spremembe](https://4d.rtvslo.si/arhiv/dnevnik/174665542/00:00:00)<br/> 
 -->
 
-<u>In German</u>:
+<b><font color="slateblue"><u>In German:</u></font></b> 
 
 * Co-organizer of '[Mädchen machen Technik](https://www.wavestoweather.de/equal_opportunity/activities/maedchenmachentechnik2018/index.html)' (Girls and Technology), Meteorological Institute Munich, LMU Munich, Germany (09/2018)<br/>
 
