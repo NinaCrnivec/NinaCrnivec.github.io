@@ -87,6 +87,7 @@ See [Events tab](https://ninacrnivec.github.io/events/)
 ## Other Professional Activities
 * [Topic Editor for European Geosciences Union's journal Geoscientific Model Development](https://www.geoscientific-model-development.net/editorial_board.html) (2023 – present)
 * Reviewer for journal Geoscientific Model Development (2021 – present)
+* Member of [NASA / international Intercomparison of 3D Radiation Codes (I3RC) community](https://earth.gsfc.nasa.gov/climate/model/i3rc) (2021 – present)
 * Member of [Slovenian Meteorological Society](http://www.smd.v-izdelavi.si/domov/) (2019 – present)
 * Member of [Association of Slovenes Educated Abroad ("Društvo VTIS")](https://www.drustvovtis.si/) (2018 – present)
 * Member of American Geophysical Union (2021 – 2023)
