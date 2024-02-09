@@ -9,7 +9,8 @@ author_profile: true
 
 * Cesana, G., A. Ackerman, **N. Črnivec**, R. Pincus and H. Chepfer: An observation-based method to assess tropical stratocumulus and shallow cumulus clouds and feedbacks in CMIP6 and CMIP5 models. _Environmental Research Communications_, 5, 045001, [https://doi.org/10.1088/2515-7620/acc78a](https://doi.org/10.1088/2515-7620/acc78a), 2023.
 
-* **Črnivec, N.**, G. Cesana and R. Pincus: Evaluating the representation of tropical stratocumulus and shallow cumulus clouds as well as their radiative effects in CMIP6 models using satellite observations. _Journal of Geophysical Research – Atmospheres_, 128, e2022JD038437, [https://doi.org/10.1029/2022JD038437](https://doi.org/10.1029/2022JD038437), 2023.<br/> 
+* **Črnivec, N.**, G. Cesana and R. Pincus: Evaluating the representation of tropical stratocumulus and shallow cumulus clouds as well as their radiative effects in CMIP6 models using satellite observations. _Journal of Geophysical Research – Atmospheres_, 128, e2022JD038437, [https://doi.org/10.1029/2022JD038437](https://doi.org/10.1029/2022JD038437), 2023.<br/>
+[Supporting Information](https://agupubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1029%2F2022JD038437&file=2022JD038437-sup-0001-Supporting+Information+SI-S01.pdf), 
 [Preprint on ESS Open Archive](https://essopenarchive.org/users/572355/articles/617258-evaluating-the-representation-of-tropical-stratocumulus-and-shallow-cumulus-clouds-as-well-as-their-radiative-effects-in-cmip6-models-using-satellite-observations?commit=e3c095d6922b4fff9779c4986eb4324d14748343)
 
 * **Črnivec, N.** and B. Mayer: Towards an improved treatment of cloud–radiation interaction in weather and climate models: exploring the potential of the Tripleclouds method for various cloud types using libRadtran 2.0.4. _Geoscientific Model Development_, 14, 3663–3682, [https://doi.org/10.5194/gmd-14-3663-2021](https://doi.org/10.5194/gmd-14-3663-2021), 2021. 
@@ -32,7 +33,9 @@ author_profile: true
 
 <font color="DarkCyan"><b><i>Open letter</i></b></font>
 
-* Zaplotnik, Ž., L. Boljka, **N. Črnivec** and A. Slameršak, 2019: [A request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy](https://www.researchgate.net/publication/337167123_Zahteva_slovenskih_raziskovalcev_za_sprejetje_takojsnjih_ukrepov_za_blazenje_podnebnih_sprememb_in_prilagajanje_nanje_Odprto_pismo_slovenski_vladi_13_pp_podpisano_s_strani_vec_kot_100_Slovenskih_znans). <em>An open letter to the Slovenian government signed by over 100 Slovenian scientists</em> [In Slovene, includes English summary]. <a href="http://ninacrnivec.github.io/files/00206BBAC913191209121909.pdf">Answer from the government</a>. <ins>Media coverage</ins>:
+* Zaplotnik, Ž., L. Boljka, **N. Črnivec** and A. Slameršak, 2019: [A request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy](https://www.researchgate.net/publication/337167123_Zahteva_slovenskih_raziskovalcev_za_sprejetje_takojsnjih_ukrepov_za_blazenje_podnebnih_sprememb_in_prilagajanje_nanje_Odprto_pismo_slovenski_vladi_13_pp_podpisano_s_strani_vec_kot_100_Slovenskih_znans). <em>An open letter to the Slovenian government signed by over 100 Slovenian scientists</em> [In Slovene, includes English summary].<br/>
+<a href="http://ninacrnivec.github.io/files/00206BBAC913191209121909.pdf">Answer from the government</a><br/>
+<b><font color="slateblue"><u>Media coverage:</u></font></b> 
 [RTV-SLO](https://www.rtvslo.si/okolje/novice/znanstveniki-slovenija-ne-kaze-pripravljenosti-da-bi-se-na-podnebne-spremembe-odlocno-odzvala/504612?fbclid=IwAR2Px1cLtDykMJxNszkG6MI1QDOM2LneGWqK70LchAvEST9RBr_VWVjM-7Y),
 [24ur](https://www.24ur.com/novice/slovenija/razocarani-slovenski-znanstveniki-politiki-se-ne-zavedajo-resnosti-problema.html),
 [Dnevnik](https://www.dnevnik.si/1042913601/slovenija/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb),
@@ -58,7 +61,9 @@ author_profile: true
 [Radio Študent](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe),
 [Radio Rai Furlanija Julijska Krajina](http://www.rai.it/dl/portali/site/articolo/ContentItem-99a019aa-ca1e-4865-b5e0-bc047ac1bab4.html).
 
-* Boljka, L., Ž. Zaplotnik, A. Slameršak and **N. Črnivec**, 2020: [Comments and suggestions on the draft of the Slovenian long-term climate change strategy](https://drive.google.com/file/d/1psP-qqJbKs0fBEgqDec83A-N8_pgAHTK/view). _A letter to the Slovenian Ministry for the Environment_ [In Slovene]. <ins>Media coverage</ins>: [OE Finance](https://oe.finance.si/8966414/(prejeli-smo)-Predlog-raziskovalcev-za-spremembe-osnutka-podnebne-strategije?cctest&), [Meteorolog.si](http://meteorolog.si/index.php/2020/10/01/opozorilo-na-premajhno-ambicioznost-osnutka-dolgorocne-podnebne-strategije-slovenije/), [Globus](https://4d.rtvslo.si/arhiv/globus/174722022).
+* Boljka, L., Ž. Zaplotnik, A. Slameršak and **N. Črnivec**, 2020: [Comments and suggestions on the draft of the Slovenian long-term climate change strategy](https://drive.google.com/file/d/1psP-qqJbKs0fBEgqDec83A-N8_pgAHTK/view). _A letter to the Slovenian Ministry for the Environment_ [In Slovene].<br/>
+<b><font color="slateblue"><u>Media coverage:</u></font></b>
+[OE Finance](https://oe.finance.si/8966414/(prejeli-smo)-Predlog-raziskovalcev-za-spremembe-osnutka-podnebne-strategije?cctest&), [Meteorolog.si](http://meteorolog.si/index.php/2020/10/01/opozorilo-na-premajhno-ambicioznost-osnutka-dolgorocne-podnebne-strategije-slovenije/), [Globus](https://4d.rtvslo.si/arhiv/globus/174722022).
 
 * Slameršak, A., Ž. Zaplotnik, L. Boljka and **N. Črnivec**, 2020: [Suggestions for a political programme for a green transition and a minimisation of climate change impacts](https://drive.google.com/file/d/1jB1u5CN3qE75PLRgBAbi-LucCHVcn0L8/view) _A letter to the Slovenian government_ [In Slovene]. 
 
