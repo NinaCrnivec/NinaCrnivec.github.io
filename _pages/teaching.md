@@ -7,17 +7,27 @@ author_profile: true
 
 ## Teaching Experience
 
-* **Teaching assistant**, Ludwig-Maximilians-University Munich (2016 — 2018)<br/>
+* **Teaching assistant**, Ludwig-Maximilians-University Munich, Germany (2016 — 2018)<br/>
   * <ins>Lecture</ins>: **Clouds: Microphysics and Convection** (Meteorology master's study course, lecturers: Prof. Dr. Markus Rapp, Dr. Tobias Zinner)  
   * <ins>Content</ins>: The lecture covers cloud processes from the micro- to the meso-scale. The "Microphysics" part includes topics such as droplet formation, diffusional droplet growth, coalescence, precipitation, distinguishment between the warm, cold, and mixed-phase cloud microphysics, aerosol direct/indirect effects, thunderstorm electrification and lightning. The "Convection" part covers the convective instability criteria, generation and organization of convection (single cell, multicell, supercell), tornadoes, thunderstorm outflow, downdrafts, mesoscale convective systems (squall lines, tropical cyclones).
   
-* **Invited lecturer**, University of Ljubljana (2022)<br/>
+* **Invited lecturer**, University of Ljubljana, virtual (2022)<br/>
   * <ins>Lecture</ins>: **Radiative transfer modeling in a cloudy atmosphere** (audience: bachelor and master students of Meteorology and Physics, host: Dr. Žiga Zaplotnik)
   * <ins>Content</ins>: The lecture covers basic principles of radiative transfer theory (absorption, scattering, emission), radiative heating rates in clear-sky versus cloudy atmosphere, three-dimensional Monte Carlo radiation modeling and Independent Column Approximation, two-stream methodology, traditional (plane-parallel) and state-of-the-art representation of subgrid cloud structure in radiation schemes of weather and climate models.
+ 
+* **Invited lecturer**, University of Ljubljana, Slovenia (2024)<br/>
+  * <ins>Lecture</ins>: **Global Climate Modeling** within interdisciplinary subject **[Climate Change](https://podnebnespremembe.fmf.uni-lj.si/)** (course principals: Dr. Žiga Zaplotnik, Prof. Dr. Miha Ravnik)
+  * [SLIDES](https://unilj-my.sharepoint.com/personal/ziga_zaplotnik_fmf_uni-lj_si1/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fziga%5Fzaplotnik%5Ffmf%5Funi%2Dlj%5Fsi1%2FDocuments%2FPodnebne%20spremembe%2FCrnivecNina%5FUNILJ%5F2024%5FGlobalnoPodnebnoModeliranje%2Epdf&parent=%2Fpersonal%2Fziga%5Fzaplotnik%5Ffmf%5Funi%2Dlj%5Fsi1%2FDocuments%2FPodnebne%20spremembe&ga=1)
+
+* **Invited lecturer**, University of Nova Gorica, Slovenia (2024)<br/>
+Set of lectures within interdisciplinary subject **Fundamentals of Environmental Science**:
+  * <ins>Lecture</ins>: **Fundamentals of Meteorology I**
+  * <ins>Lecture</ins>: **Fundamentals of Meteorology II**
+  * <ins>Lecture</ins>: **Air Pollution and Climate Change**
 
 ## Mentoring Experience
 
-* **Co-supervisor of bachelor student** (together with Prof. Dr. Bernhard Mayer), Ludwig-Maximilians-University Munich (2017)<br/>
+* **Co-supervisor of bachelor student** (together with Prof. Dr. Bernhard Mayer), Ludwig-Maximilians-University Munich, Germany (2017)<br/>
   * <ins>Thesis title</ins>: _Modellierung von 3D solaren Erwärmungsraten in Abhängigkeit vom Aspektverhältnis der Wolken (Modelling of 3D solar heating rates as a function of cloud aspect ratio)_
 
 * **Mentor, [Climatematch Academy: Computational Tools For Climate Science](https://academy.climatematch.io/courses/2023-computational-tools-for-climate-science)**, virtual summer academy for worldwide students (2023)<br/>
