@@ -39,8 +39,9 @@ Set of lectures within interdisciplinary subject **Fundamentals of Environmental
 * **Co-lead of the [World Climate Research Programme's Fresh Eyes on CMIP](https://wcrp-cmip.org/fresh-eyes-on-cmip/) Data Analysis working group** (Aug 2023 – present)<br/>
 
   * <ins>Role</ins>: Together with Dr. Joshua Dorrington (KIT, Germany) and Dr. Abdullah Al Fahad (NASA GSFC, USA) I'm currently leading a global team of early career researchers aiming to advance data analysis tools for the next phase of the Coupled Model Intercomparison Project (CMIP). <em>Thus if you have encountered any issues or challenges when analyzing CMIP6/CMIP5 data, please reach out and share your concerns, so that we can strive for proper improvements in CMIP7.</em>
-  * <ins>Task</ins>: As a first step we are striving to complete the list of [Tools for using climate data](https://wcrp-cmip.org/tools/) including various data access platforms, programming languages and useful packages, command line operators, evaluation and benchmarking tools as well as other data analysis and visualization tools. Please feel free to explore the Tools repository and make suggestions about further useful tools that should be added to the repository.
+  * <ins>Task</ins>: As a first step we are striving to complete the list of [Tools for using climate data](https://wcrp-cmip.org/tools/) including various data access platforms, programming languages and useful packages, command line operators, evaluation and benchmarking tools as well as other data analysis and visualization tools. Please feel free to explore the Tools repository and make suggestions about further practical tools that should be added to the repository.
 
+![WCRP CMIP Tools for using Climate Data](/images/WCRP_CMIP_DA_Tools_NC.png)
 
 * **Co-lead of the ["RESCCCUE – REminding Slovenian authorities Climate Change Crisis requires Urgent Effort"](https://www.emetsoc.org/wp-content/uploads/2020/06/oc2020_RESCCCUE_project-description.pdf) project team, awarded European Meteorological Society Outreach and Communication Award (2020)** <br/>
 
