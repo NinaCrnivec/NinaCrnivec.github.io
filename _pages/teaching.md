@@ -10,6 +10,7 @@ author_profile: true
 * **Invited lecturer**, University of Nova Gorica, Slovenia (2024)<br/>
 Set of lectures within interdisciplinary subject **Fundamentals of Environmental Science**:
   * <ins>Lecture</ins>: **Fundamentals of Meteorology I**
+    * <ins>Content</ins>: Composition of Earth's atmosphere (gases, aerosols, hydrometeors), vertical structure of the atmosphere, spatial and temporal scales of atmospheric motion / phenomena, meteorological instruments and observations (thermometer, hygrometer, barometer, anemometer, rain gauge; weather balloon, radar, satellites), cloud classification, various cloud microphysics regimes including liquid-phase, ice-phase and mixed-phase processes, common air lifting mechanisms leading to cloud formation.
   * <ins>Lecture</ins>: **Fundamentals of Meteorology II**
   * <ins>Lecture</ins>: **Air Pollution and Climate Change**
     * <ins>Content</ins>: Air pollutants and their natural and anthropogenic sources, particulate matter, tropospheric versus stratospheric ozone, greenhouse gases, solar and terrestrial radiation, absorption spectra of atmospheric gases, Earth's radiative balance / imbalance (greenhouse effect), Nobel Prize in Physics for climate science groundwork, climate system components and their interactions, impact of aerosols on clouds and climate, cloud feedbacks, indicators of climate and environmental change, future climate change at global scale and in Slovenia, action to address climate crisis in Slovenia.
