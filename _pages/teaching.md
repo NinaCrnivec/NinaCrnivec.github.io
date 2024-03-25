@@ -12,6 +12,7 @@ Set of lectures within interdisciplinary subject **Fundamentals of Environmental
   * <ins>Lecture</ins>: **Fundamentals of Meteorology I**
   * <ins>Lecture</ins>: **Fundamentals of Meteorology II**
   * <ins>Lecture</ins>: **Air Pollution and Climate Change**
+    * <ins>Content</ins>: Air pollutants and their natural and anthropogenic sources, particulate matter, tropospheric versus stratospheric ozone, greenhouse gases, solar and terrestrial radiation, absorption spectra of atmospheric gases, Earth's radiative balance / imbalance (greenhouse effect), Nobel Prize in Physics for climate science groundwork, climate system components and their interactions, impact of aerosols on clouds and climate, cloud feedbacks, indicators of climate and environmental change, future climate change at global scale and in Slovenia, action to address climate crisis in Slovenia.
 
 * **Invited lecturer**, University of Ljubljana, Slovenia (2024)<br/>
   * <ins>Lecture</ins>: **Global Climate Modeling** within interdisciplinary subject **[Climate Change](https://podnebnespremembe.fmf.uni-lj.si/)** (course principals: Dr. Žiga Zaplotnik, Prof. Dr. Miha Ravnik)
