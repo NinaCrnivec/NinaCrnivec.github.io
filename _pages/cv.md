@@ -10,10 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ## Work Experience
+* **Invited lecturer**, University of Nova Gorica, Vipava, Slovenia (2024)<br/> 
+<ins>Subject</ins>: Fundamentals of Environmental Science (Host: Dr. Erika Jež)<br/>
 
 * **Invited lecturer**, University of Ljubljana, Ljubljana, Slovenia (2024)<br/> 
-<ins>Subject</ins>: Climate Change <br/>
-Host: Dr. Žiga Zaplotnik
+<ins>Subject</ins>: Climate Change (Host: Dr. Žiga Zaplotnik)<br/>
 
 * **Postdoctoral Research Scientist**, Center for Climate Systems Research, Earth Institute, Columbia University and NASA Goddard Institute for Space Studies, New York City, New York (2021 – 2023)<br/> 
 <ins>Project</ins>: [Evaluating and Constraining Models’ Stratocumulus and Cumulus Cloud Feedbacks in the Tropics using Satellite Observations to Reduce Uncertainties in Future Climate Projections](https://www.earth.columbia.edu/projects/view/2203) of [NOAA Climate Sensitivity Task Force](https://cpo.noaa.gov/divisions-programs/earth-system-science-and-modeling-division/modeling-analysis-predictions-and-projections/task-forces/climate-sensitivity-task-force-2020-2023/)<br/>
