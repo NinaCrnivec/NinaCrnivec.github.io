@@ -48,6 +48,9 @@ In particular, I investigated how various environmental factors, such as latitud
 The Dunion sounding, however, is based on the observations in the Caribbean and the question that we addressed in a follow-up study ([Črnivec and Smith, 2016](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/joc.4687)) is to what extent is the Dunion sounding representative to TC environments in other parts of the globe. I therefore derived mean radiosonde soundings for the Australian monsoon/cyclone season, documented their various characteristics and finally examined how they control vortex amplification. 
 The initial arguments were based on an axisymmetric perspective, invoking the classical axisymmetric spin‐up mechanism. As an upgrade, we have recently investigated the relevance of non-axisymmetric features on the intensification process ([Montgomery et al., 2020](https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.3837)).
 
+![Tropical Cyclone](/images/figNCrnivec_TropicalCyclone_NCAR_CM1.png)
+
+<em><font color="Grey">Tropical cyclone simulated with the NCAR Cloud Model configured as described in Črnivec et al. (2016)</font></em>
 
 <font color="DarkCyan"><b><i>Numerical Weather Prediction (NWP) Experience:</i></b></font>
 
