@@ -55,7 +55,8 @@ Third academic year abroad at Technical University of Berlin, Germany (2011 – 
     * [National Center for Atmospheric Research (NCAR) Cloud Model (CM1)](https://www2.mmm.ucar.edu/people/bryan/cm1/) for tropical cyclone intensification experiments; implementation of a balanced tropical cyclone vortex as a new initialization option
     * Validation of the atmospheric component of global climate models using [NASA A-train satellite observations](https://atrain.nasa.gov/)
     * Regional numerical weather prediction model ALADIN – optimization and validation of a new model configuration at ECMWF High Performance Computing (HPC) facility
-* **Data analysis and visualization** (NetCDF, GRIB formats) utilizing various programming languages and tools (Fortran, Python, C, Unix shell, gnuplot, NCL)
+* **Linux OS** (Ubuntu, openSUSE) and **HPC cluster utilization** / job scheduling using SLURM and PBS  
+* **Data analysis and visualization** (NetCDF, GRIB formats) utilizing various programming languages and tools (Fortran, Python, C, Unix shell, gnuplot, R, NCL, ncview)
 * **Scientific writing** (with LaTeX) and **presentation skills** in English (fluent), German (fluent), Slovene (native)
 
 ## Publications
