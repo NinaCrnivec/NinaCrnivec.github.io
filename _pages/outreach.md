@@ -25,6 +25,8 @@ redirect_from:
 
 <b><font color="slateblue"><u>In Slovene:</u></font></b> 
 
+* [Interview for "Radio Prvi"](https://prvi.rtvslo.si/podkast/jutranja-vremenska-fronta/173251595/175031771), RTV Slovenia, explaining the basics of global climate modeling (03/2024)
+
 * Lecture on weather and climate, primary school Brinje Grosuplje, Slovenia (01/2024)
 
 * [Podcast interview for "Radio Študent" – Science](https://radiostudent.si/znanost/odprti-termin-za-znanost/nocni-program-znanstvene-redakcije-0) discussing diverse topics such as my overall experience in weather and climate research community and international career path (12/2023)
