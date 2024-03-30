@@ -22,7 +22,7 @@ Advisors: Dr. Grégory Cesana, Prof. Dr. Robert Pincus, Dr. Andrew Ackerman
 
 * **Meteorologist**, Slovenian Environment Agency, Ljubljana, Slovenia (2020 – 2021)<br/> 
 Section for meteorological, hydrological and oceanographic modeling:<br/>
-<ins>Project</ins>: [South-East European Multi-Hazard Early Warning Advisory System (SEE-MHEWS)](https://www.see-mhews.org/) of WMO<br/>
+<ins>Project</ins>: [South-East European Multi-Hazard Early Warning Advisory System (SEE-MHEWS)](https://www.see-mhews.org/) of World Meteorological Organization<br/>
 Section for meteorological, hydrological and oceanographic forecasts:<br/>
 <ins>Project</ins>: [Electronic General Aviation FORecast (eGAFOR)](https://egafor.eu/)<br/>
 
@@ -86,6 +86,7 @@ See [Events tab](https://ninacrnivec.github.io/events/)
 * Silver Awards at 50th and 51th National Mathematics Competitions of Slovenia (2006, 2007)
   
 ## Other Professional Activities
+* Co-lead of the [WCRP's Fresh Eyes on CMIP](https://wcrp-cmip.org/fresh-eyes-on-cmip/) Data Analysis Work Group (2023 – present)
 * [Topic Editor for European Geosciences Union's journal Geoscientific Model Development](https://www.geoscientific-model-development.net/editorial_board.html) (2023 – present)
 * Reviewer for journal Geoscientific Model Development (2021 – present)
 * Member of [NASA / international Intercomparison of 3D Radiation Codes (I3RC) community](https://earth.gsfc.nasa.gov/climate/model/i3rc) (2021 – present)
