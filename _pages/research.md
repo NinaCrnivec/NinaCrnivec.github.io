@@ -9,13 +9,17 @@ I combine theory, numerical modeling and observations to study various physical 
 
 <font color="DarkCyan"><b><i>Postdoctoral research:</i></b></font>
 
-**Evaluating marine tropical shallow cumulus and stratocumulus cloud feedbacks in climate models using satellite observations** 
+**Evaluating marine tropical shallow cumulus and stratocumulus clouds, associated radiative fluxes and feedbacks in climate models using satellite observations** 
 
-Low-cloud feedbacks contribute strongly to the multimodel spread in equilibrium climate sensitivity. In my postdoctoral research I employ satellite observations to evaluate individual marine tropical low-cloud regimes (shallow cumulus, stratocumulus), associated radiative fluxes and feedbacks in global climate models. To accomplish this task I utilize the [Cumulus And Stratocumuls CloudSat-CALIPSO Dataset (CASCCAD)](https://data.giss.nasa.gov/clouds/casccad/) recently created by Cesana et al. (2019).<br/> 
+Low-cloud feedbacks contribute strongly to the multimodel spread in equilibrium climate sensitivity. In my postdoctoral research I employed satellite observations to evaluate individual marine tropical low-cloud regimes (shallow cumulus, stratocumulus), associated radiative fluxes and feedbacks in global climate models. To accomplish this task I utilized the [Cumulus And Stratocumuls CloudSat-CALIPSO Dataset (CASCCAD)](https://data.giss.nasa.gov/clouds/casccad/) recently created by Cesana et al. (2019).<br/> 
 
 ![CASCCAD](/images/figNCrnivec_CASCCAD_CuSc_global.png)
 
 <em><font color="Grey">Shallow cumulus and stratocumulus cloud regimes derived from CASCCAD</font></em>
+
+![Taylor diagrams](/images/Crnivec_etal_2023_JGRA_FigTaylorDiagrams.png)
+
+<em><font color="Grey">Taylor diagrams are a handy tool for model evaluation – demonstrating that CMIP6 models struggle capturing geographical distributions of tropical marine low-cloud cover (LCC) and associated shortwave cloud-radiative effect (CRE) within Sc- and Cu- regimes (figure courtesy of Črnivec et al., 2023)</font></em>
 
 <font color="DarkCyan"><b><i>Doctoral research:</i></b></font>
 
