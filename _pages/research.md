@@ -11,15 +11,15 @@ I combine theory, numerical modeling and observations to study various physical 
 
 **Evaluating marine tropical shallow cumulus and stratocumulus clouds, associated radiative fluxes and feedbacks in climate models using satellite observations** 
 
-Low clouds cover substantial regions of dark tropical oceans, reflect a huge amount of sunlight back to space and thereby cool the Earth, yet this phenomenon has been poorly simulated in several previous generations of climate models and it has been highly uncertain how this phenomenon will change in the future. In my postdoctoral research I employed satellite observations to evaluate the representation of low clouds over tropical oceans, associated radiative fluxes and feedbacks in a suite of newest global climate models. The focus was thereby laid on discriminating individual low-cloud regimes such as stratocumulus (Sc) and shallow cumulus (Cu), which are governed by a distinct interplay of physical processes within moist marine boundary layer and exhibit a contrasting response to global warming. To accomplish this task I utilized the [Cumulus And Stratocumuls CloudSat-CALIPSO Dataset (CASCCAD)](https://data.giss.nasa.gov/clouds/casccad/) created by Cesana et al. (2019).<br/> 
+Low clouds cover substantial regions of dark tropical oceans, reflect a huge amount of sunlight back to space and thereby cool the Earth, yet this phenomenon has been poorly simulated in several previous generations of climate models and it has been highly uncertain how this phenomenon will change in the future. In my postdoctoral research I employed satellite observations to evaluate the representation of low clouds over tropical oceans, associated radiative fluxes and feedbacks in a suite of newest global climate models. The focus was thereby laid on discriminating individual low-cloud regimes such as stratocumulus (Sc) and shallow cumulus (Cu), which are governed by a distinct interplay of physical processes within moist marine boundary layer and exhibit a contrasting response to global warming. To accomplish this task I utilized the [Cumulus And Stratocumuls CloudSat-CALIPSO Dataset (CASCCAD)](https://data.giss.nasa.gov/clouds/casccad/) created by Cesana et al. (2019) who exploited precise instrumentation on board of the NASA A-train satellite constellation to classify low clouds into various regimes based on cloud morphology.<br/> 
 
 ![CASCCAD](/images/figNCrnivec_CASCCAD_CuSc_global.png)
 
-<em><font color="Grey">Shallow cumulus and stratocumulus cloud regimes derived from CASCCAD</font></em>
+<em><font color="Grey">Shallow cumulus and stratocumulus cloud regimes derived from CASCCAD – in the tropics extensive Sc decks are typically located off the west coast of continents, whereas more scattered Cu clouds are commonly found further west over the open ocean.</font></em>
 
 ![Taylor diagrams](/images/Crnivec_etal_2023_JGRA_FigTaylorDiagrams.png)
 
-<em><font color="Grey">Taylor diagrams are a handy tool for model evaluation – demonstrating that CMIP6 models struggle capturing geographical distributions of tropical marine low-cloud cover (LCC) and associated shortwave cloud-radiative effect (CRE) within Sc- and Cu- regimes (figure courtesy of Črnivec et al., 2023)</font></em>
+<em><font color="Grey">Taylor diagrams are a handy tool for model evaluation – demonstrating that CMIP6 models struggle capturing geographical distributions of tropical marine low-cloud cover (LCC) and associated shortwave cloud-radiative effect (CRE) within Sc- and Cu- regimes (figure courtesy of Črnivec et al., 2023).</font></em>
 
 <font color="DarkCyan"><b><i>Doctoral research:</i></b></font>
 
