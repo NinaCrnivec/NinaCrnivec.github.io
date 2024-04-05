@@ -23,6 +23,8 @@ Assessing the representation of Sc and Cu in climate model output, however, is c
 
 <em><font color="Grey">Taylor diagrams are a handy tool for model evaluation – demonstrating that CMIP6 models struggle capturing geographical distributions of tropical marine low-cloud cover (LCC) and associated shortwave cloud-radiative effect (CRE) within Sc- and Cu- regimes (figure courtesy of Črnivec et al., 2023).</font></em>
 
+We subsequently addressed the question how has the representation of marine tropical Sc and Cu clouds and associated feedbacks for the abrupt 4xCO2 scenario changed between CMIP5 and CMIP6. We thereby found that, collectively, CMIP6 models notably increased Sc cloud cover and slightly increased Cu cloud cover compared to their CMIP5 predecessors, and are thus closer to observations. We further showed that CMIP6 models notably improved the representation of Sc feedback (in terms of mean and pattern) and slightly improved the representation of Cu feedback compared to CMIP5 models. Yet CMIP6 models still underestimate the magnitude of positive Sc and Cu feedbacks relative to observationally inferred estimates. We finally demonstrated that the change in marine tropical low-cloud feedback between two consecutive model versions stemming from the same climate modeling center correlates well with the change in Sc cloud cover. In simple words, the addition of Sc clouds, which produce a larger positive feedback, naturally resulted in an increased low-cloud feedback in CMIP6 ensemble ([Cesana et al., 2023](https://iopscience.iop.org/article/10.1088/2515-7620/acc78a)).
+
 <font color="DarkCyan"><b><i>Doctoral research:</i></b></font>
 
 **Cloud-radiation interaction modeling to advance parameterizations in weather and climate models**<br/> 
