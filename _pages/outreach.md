@@ -25,7 +25,7 @@ redirect_from:
 
 <b><font color="slateblue"><u>In Slovene:</u></font></b> 
 
-* [Interview for "Radio Študent" - Science](https://radiostudent.si/znanost/arso/aerso) about aerosols of various types and origins as well as their relation to clouds, climate and air pollution (04/2024)
+* [Interview for "Radio Študent" – Science](https://radiostudent.si/znanost/arso/aerso) about aerosols of various types and origins as well as their relation to clouds, climate and air pollution (04/2024)
 
 * [Interview for "Radio Prvi"](https://prvi.rtvslo.si/podkast/jutranja-vremenska-fronta/173251595/175031771), RTV Slovenia, explaining the basics of global climate modeling (03/2024)
 
