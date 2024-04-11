@@ -25,11 +25,13 @@ redirect_from:
 
 <b><font color="slateblue"><u>In Slovene:</u></font></b> 
 
+* [Interview for "Radio Študent" - Science](https://radiostudent.si/znanost/arso/aerso) about aerosols of various types and origins as well as their relation to clouds, climate and air pollution (04/2024)
+
 * [Interview for "Radio Prvi"](https://prvi.rtvslo.si/podkast/jutranja-vremenska-fronta/173251595/175031771), RTV Slovenia, explaining the basics of global climate modeling (03/2024)
 
 * Lecture on weather and climate, primary school Brinje Grosuplje, Slovenia (01/2024)
 
-* [Podcast interview for "Radio Študent" – Science](https://radiostudent.si/znanost/odprti-termin-za-znanost/nocni-program-znanstvene-redakcije-0) discussing diverse topics such as my overall experience in weather and climate research community and international career path (12/2023)
+* [Interview for "Radio Študent" – Science](https://radiostudent.si/znanost/odprti-termin-za-znanost/nocni-program-znanstvene-redakcije-0) discussing diverse topics such as my overall experience in weather and climate research community and international career path (12/2023)
 
 * [Interview for "Večer"](https://vecer.com/slovenija/resevanje-sveta-pred-podnebnim-zlomom-lahko-clovek-spreminja-vreme-in-podnebje-10344702) before COP28 about climate change issues, pointing out the uncertainty of weather modification approaches such as thunderstorm cloud seeding (11/2023)
 
@@ -39,7 +41,7 @@ redirect_from:
 
 * [Podcast interview for ARSO podcast: Student corner](https://meteo.arso.gov.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20210317_ep057.mp3) about my PhD research on cloud-radiation interaction problem in weather and climate models (03/2021)
 
-* Contribution to the [article in Slovenian newspaper "Delo – Sobotna priloga"](https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/) about tackling climate change crisis (12/2020)
+* [Contribution to the article in Slovenian newspaper "Delo – Sobotna priloga"](https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/) about tackling climate change crisis (12/2020)
 
 * [Interview for Meteorolog.si](https://meteorolog.si/index.php/2020/12/18/nina-crnivec/) about my work at the operational weather service at Slovenian Environment Agency (12/2020)
 
