@@ -70,7 +70,7 @@ With a growing computational power the resolution of NWP models is progressively
 
 I was subsequently involved in the project <em>Electronic General Aviation FORecast (eGAFOR)</em>, whereby I processed meteorological fields of interest for aviation pilots on standard height levels. Some final products and visualizations can be found at [ARSO METEO Aviation webpage](http://www.meteo.si/met/sl/aviation/).
 
-![SEEMHEWS](/images/figNCrnivec_SEEMHEWS_domain_s0-6.png)
+![SEEMHEWS](/images/figNCrnivec_SEEMHEWSA_infographic.png)
 
-<em><font color="Grey">Increased ALADIN model domain size in the SEE-MHEWS configuration</font></em>
+<em><font color="Grey">SEE-MHEWS-A project infographic</font></em>
 
