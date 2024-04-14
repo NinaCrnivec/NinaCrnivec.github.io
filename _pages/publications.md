@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<font color="DarkCyan"><b><i>Peer-reviewed publications</i></b></font>
+<font color="DarkCyan"><b><i>Peer-reviewed scientific publications</i></b></font>
 
 * Cesana, G., A. Ackerman, **N. Črnivec**, R. Pincus and H. Chepfer: An observation-based method to assess tropical stratocumulus and shallow cumulus clouds and feedbacks in CMIP6 and CMIP5 models. _Environmental Research Communications_, 5, 045001, [https://doi.org/10.1088/2515-7620/acc78a](https://doi.org/10.1088/2515-7620/acc78a), 2023.
 
@@ -30,6 +30,12 @@ author_profile: true
 * **Črnivec, N.**: [Towards an improved treatment of unresolved cloud-radiation interaction in weather and climate models](https://edoc.ub.uni-muenchen.de/27502/13/Crnivec_Nina.pdf). _Doctoral dissertation_, Ludwig-Maximilians-University Munich, 2020.
 
 * **Črnivec, N.**: [Dependence of tropical cyclone intensification on latitude and sea surface temperature](https://github.com/NinaCrnivec/NinaCrnivec.github.io/blob/master/files/NinaCrnivec_MA.pdf). _Master thesis_, Ludwig-Maximilians-University Munich, 2015.
+
+<font color="DarkCyan"><b><i>Technical NWP articles</i></b></font>
+
+* Strajnar, B., N. Pristov, J. Cedilnik, **N. Črnivec** and J. Čampa: ALADIN highlights in Slovenia - 2020.  [_ALADIN-HIRLAM Newsletter_, 16](http://www.umr-cnrm.fr/aladin/IMG/pdf/nl16.pdf), 94-99, 2021.
+
+* **Črnivec, N.**, B. Strajnar, N. Pristov and J. Cedilnik: [Preparation of ECMWF LBCs for RC LACE: spectral analysis](https://github.com/NinaCrnivec/NinaCrnivec.github.io/blob/master/files/Crnivec_etal_2020_AHNL15_p73-76.pdf). [_ALADIN-HIRLAM Newsletter_, 15](http://www.umr-cnrm.fr/aladin/IMG/pdf/nl15.pdf), 73-76, 2020.
 
 <font color="DarkCyan"><b><i>Open letter</i></b></font>
 
@@ -66,6 +72,7 @@ author_profile: true
 [OE Finance](https://oe.finance.si/8966414/(prejeli-smo)-Predlog-raziskovalcev-za-spremembe-osnutka-podnebne-strategije?cctest&), [Meteorolog.si](http://meteorolog.si/index.php/2020/10/01/opozorilo-na-premajhno-ambicioznost-osnutka-dolgorocne-podnebne-strategije-slovenije/), [Globus](https://4d.rtvslo.si/arhiv/globus/174722022).
 
 * Slameršak, A., Ž. Zaplotnik, L. Boljka and **N. Črnivec**, 2020: [Suggestions for a political programme for a green transition and a minimisation of climate change impacts](https://drive.google.com/file/d/1jB1u5CN3qE75PLRgBAbi-LucCHVcn0L8/view) _A letter to the Slovenian government_ [In Slovene]. 
+<b><font color="slateblue"><u>Media coverage:</u></font></b> [Delo – Sobotna priloga](https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/)
 
 <font color="DarkCyan"><b><i>White paper</i></b></font>
 
@@ -78,12 +85,6 @@ author_profile: true
 * **Črnivec, N.**: Sutcliffe model of baroclinic development. _Dynamic Meteorology seminar work_ [In Slovene], University of Ljubljana, 2013.
 
 * **Črnivec, N.**: [Sustainable energy - the future for Slovenia?](https://www.researchgate.net/publication/349103009_Trajnostna_energija_-_prihodnost_za_Slovenijo) _Climate Change seminar work_ [In Slovene], University of Ljubljana, 2012.
-
-<font color="DarkCyan"><b><i>Technical notes</i></b></font>
-
-* Strajnar, B., N. Pristov, J. Cedilnik, **N. Črnivec** and J. Čampa: ALADIN highlights in Slovenia - 2020.  [_ALADIN-HIRLAM Newsletter_, 16](http://www.umr-cnrm.fr/aladin/IMG/pdf/nl16.pdf), 94-99, 2021.
-
-* **Črnivec, N.**, B. Strajnar, N. Pristov and J. Cedilnik: [Preparation of ECMWF LBCs for RC LACE: spectral analysis](https://github.com/NinaCrnivec/NinaCrnivec.github.io/blob/master/files/Crnivec_etal_2020_AHNL15_p73-76.pdf). [_ALADIN-HIRLAM Newsletter_, 15](http://www.umr-cnrm.fr/aladin/IMG/pdf/nl15.pdf), 73-76, 2020.
 
 <font color="DarkCyan"><b><i>Popular scientific articles</i></b></font>
 
