@@ -90,7 +90,7 @@ author_profile: true
 
 * Zaplotnik, Ž., L. Boljka, **N. Črnivec** and A. Slameršak: Climate change – open letter: A request by the Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy. _Vetrnica: Journal of Slovenian Meteorological Society (Interesting facts)_ [In Slovene], 12-13, 6-11, 2020.
 
-* **Črnivec, N.**: The impact of latitute and sea surface temperature on tropical cyclone intensification: master thesis summary. _Vetrnica: Journal of Slovenian Meteorological Society (Student corner)_ [In Slovene], 12-13, 40-41, 2020.
+* **Črnivec, N.**: The impact of latitude and sea surface temperature on tropical cyclone intensification: master thesis summary. _Vetrnica: Journal of Slovenian Meteorological Society (Student corner)_ [In Slovene], 12-13, 40-41, 2020.
 
 * **Črnivec, N.**: My meteorological studying journey: experiences from abroad. _Vetrnica: Journal of Slovenian Meteorological Society (Student corner)_ [In Slovene], 12-13, 67-69, 2020.
 
