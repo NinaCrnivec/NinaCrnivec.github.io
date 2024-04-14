@@ -71,8 +71,8 @@ author_profile: true
 <b><font color="slateblue"><u>Media coverage:</u></font></b>
 [OE Finance](https://oe.finance.si/8966414/(prejeli-smo)-Predlog-raziskovalcev-za-spremembe-osnutka-podnebne-strategije?cctest&), [Meteorolog.si](http://meteorolog.si/index.php/2020/10/01/opozorilo-na-premajhno-ambicioznost-osnutka-dolgorocne-podnebne-strategije-slovenije/), [Globus](https://4d.rtvslo.si/arhiv/globus/174722022).
 
-* Slameršak, A., Ž. Zaplotnik, L. Boljka and **N. Črnivec**, 2020: [Suggestions for a political programme for a green transition and a minimisation of climate change impacts](https://drive.google.com/file/d/1jB1u5CN3qE75PLRgBAbi-LucCHVcn0L8/view) _A letter to the Slovenian government_ [In Slovene]. 
-<b><font color="slateblue"><u>Media coverage:</u></font></b> [Delo – Sobotna priloga](https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/)
+* Slameršak, A., Ž. Zaplotnik, L. Boljka and **N. Črnivec**, 2020: [Suggestions for a political programme for a green transition and a minimisation of climate change impacts](https://drive.google.com/file/d/1jB1u5CN3qE75PLRgBAbi-LucCHVcn0L8/view) _A letter to the Slovenian government_ [In Slovene].<br/> 
+<b><font color="slateblue"><u>Media coverage:</u></font></b> [Delo – Sobotna priloga](https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/).
 
 <font color="DarkCyan"><b><i>White paper</i></b></font>
 
