@@ -11,6 +11,8 @@ redirect_from:
 
 ## Education & Public Outreach
 
+I regularly participate in science outreach activities exploiting diverse communication channels. I thus gave multiple media interviews for various radios, podcasts, magazines, newspapers as well as popular-scientific lectures mostly discussing my research and broader climate change issues to educate the general public and younger generation. In this way I hope to spark interest for meteorology and climate science and concurrently raise climate change awareness so that we as a society can more effectively tackle the global climate crisis and best preserve our beautiful planet.
+
 <b><font color="slateblue"><u>In English:</u></font></b> 
 
 * [Featured in NASA Goddard Space Flight Center Early Career Scientist Spotlight series](https://science.gsfc.nasa.gov/600/ECSS/Nina-Crnivec.html) (03/2023)<br/>
