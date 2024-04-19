@@ -72,7 +72,8 @@ Smith, R. K., G. Kilroy, C. Schmidt, **N. Črnivec**, M. T. Montgomery: “Bound
 
 ## Other attended workshops & seminars:
 * Analysis of Perturbed Parameter Ensembles in Atmospheric Research (APPEAR) Workshop, organised by the WCRP Earth System Modelling and Observations Project, virtual (10/2022)
-* NASA GISS Clouds Research Group monthly meetings, virtual / GISS, New York City, New York (2021–2023)
+* NOAA Climate Sensitivity Task Force monthly meetings, virtual (2021 – 2023)
+* NASA GISS Clouds Research Group monthly meetings, virtual / GISS, New York City, New York (2021 – 2023)
 * NASA Clouds and the Earth’s Radiant Energy System (CERES) Science Team Meeting, virtual (10/2021)
 * Academic Application Boot Camp, Columbia University, virtual (06/2021)
 * Teach Climate Science with NASA Data, Endeavor STEM Teaching Certificate Project, NASA, virtual (06/2021)
