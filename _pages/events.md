@@ -17,6 +17,8 @@ author_profile: true
 
 ![Clouds and Climate](/images/clouds_papers_framed_NCrnivec.png)
 
+<em><font color="Grey">Clouds are highly variable in space and time posing a real challenge to climate modelers, limiting our ability to reliably predict the amount of future global warming. At the Symposium of Slovene researchers Dr. Blaž Gasparini and I elucidate some of the contemporary problems in the field of clouds and climate science.</font></em>
+
 * Bjerknes Center for Climate Research Seminar, University of Bergen, virtual (11/2022)<br/>
 **Črnivec, N.** and B. Mayer: "Towards an improved treatment of cloud-radiation interaction in weather and climate models" (invited talk)
 [Abstract](https://bjerknes.uib.no/en/article/seminar-talk-nina-crnivec)
