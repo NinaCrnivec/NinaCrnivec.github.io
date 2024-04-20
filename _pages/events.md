@@ -14,6 +14,9 @@ author_profile: true
 [Video](https://www.youtube.com/watch?v=9Royf00yZog)
 * 7th Symposium of Slovene Researchers Abroad (Environmental Change Panel) organized by Association of Slovenes Educated Abroad and Ministry of Education, Science and Sport, virtual (12/2022)<br/>**Črnivec, N.**: “Clouds and Climate [In Slovene]" (invited talk)
 [Video](https://www.youtube.com/watch?v=VmXpTefYQoI)
+
+![Clouds and Climate](/images/clouds_papers_framed_NCrnivec.png)
+
 * Bjerknes Center for Climate Research Seminar, University of Bergen, virtual (11/2022)<br/>
 **Črnivec, N.** and B. Mayer: "Towards an improved treatment of cloud-radiation interaction in weather and climate models" (invited talk)
 [Abstract](https://bjerknes.uib.no/en/article/seminar-talk-nina-crnivec)
