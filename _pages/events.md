@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Presentations
+* [Red Bull Basement Conference](https://www.redbull.com/si-sl/events/basement-slovenia/ljubljana-delavnica), University of Ljubljana, Ljubljana, Slovenia (05/2024)<br/>
+**Črnivec, N.**: Researching clouds for more accurate weather and climate prediction (talk)
 * Joint Cloud Precipitation Center / Climate and Radiation Laboratory Seminar, NASA Goddard Space Flight Center, Greenbelt, Maryland (04/2023)<br/>**Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman, B. Mayer, F. Jakub: "Shallow clouds, their interaction with atmospheric radiation and their role in the climate system" (talk)
 * [Ocean and Climate Physics Special Seminar](https://lamont.columbia.edu/events/ocean-climate-physics-seminars), Lamont-Doherty Earth Observatory, Columbia Universty, Palisades, New York (04/2023)<br/>**Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman, B. Mayer, F. Jakub: "Shallow clouds, their interplay with atmospheric radiation and their critical role in the climate system" (talk)
 * [Department of Earth and Atmospheric Sciences (research group of Prof. Luo)](https://zluo.ccny.cuny.edu/), City University of New York, New York City, New York (03/2023)<br/>**Črnivec, N.**, B. Mayer, F. Jakub, G. Cesana, R. Pincus, A. Ackerman: "Clouds, their interaction with solar and terrestrial radiation and their impact on climate" (talk)
