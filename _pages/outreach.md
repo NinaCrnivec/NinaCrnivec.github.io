@@ -39,6 +39,8 @@ I regularly participate in science outreach activities exploiting diverse commun
 
 * [Interview for "Zarja/Jana"](https://novice.svet24.si/revija/jana/clanek/zgodbe/649140df5a399/kako-naredis-oblak) about my postdoctoral research on tropical marine clouds at Columbia/NASA and elucidating the problematics of climate geoingeering approaches such as marine cloud brightening (06/2023)
 
+* [European Meteorological Society Media Awards Ceremony](https://www.youtube.com/watch?v=3taZqPIbZh4) talking about the RESCCCUE project (04/2021)
+
 * [Interview for "Svet24"](https://novice.svet24.si/clanek/novice/slovenija/6073055dc2e54/najvec-skode-bodo-utrpeli-slovenski-sadjarji-vinogradniki-in-cebelarji) about extreme weather events in the present and future climate in relation to severe frost in April 2021 which affected multiple regions in Slovenia (together with Dr. Andreja Sušnik and Dr. Lina Boljka) (04/2021)
 
 * [Podcast interview for ARSO podcast: Student corner](https://meteo.arso.gov.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20210317_ep057.mp3) about my PhD research on cloud-radiation interaction problem in weather and climate models (03/2021)
