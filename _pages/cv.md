@@ -10,6 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Work Experience
+
+* **Assistant Professor**, Atmospheric Science Group, Faculty of mathematics and physics, University of Ljubljana, Ljubljana, Slovenia (2024 – present)<br/> 
+
 * **Invited lecturer**, University of Nova Gorica, Vipava, Slovenia (2024)<br/> 
 <ins>Subject</ins>: Fundamentals of Environmental Science (Host: Dr. Erika Jež)<br/>
 
@@ -53,7 +56,7 @@ Third academic year abroad at Technical University of Berlin, Germany (2011 – 
 * **Numerical modeling including model development and validation**:
     * [Library for radiative transfer – libRadtran](http://www.libradtran.org/doku.php) for cloud-radiation interaction studies; coding of two newly-implemented radiation solvers: the classic "δ-Eddington two-stream method with maximum-random overlap assumption for partial cloudiness" and its upgrade – the "Tripleclouds radiation scheme based on the core-shell model for convective clouds" for use in global weather and climate models
     * [National Center for Atmospheric Research (NCAR) Cloud Model (CM1)](https://www2.mmm.ucar.edu/people/bryan/cm1/) for tropical cyclone intensification experiments; implementation of a balanced tropical cyclone vortex as a new initialization option
-    * Validation of the atmospheric component of global climate models using [NASA A-train satellite observations](https://atrain.nasa.gov/)
+    * Validation of the atmospheric component of global climate models (clouds, radiative fluxes, cloud-radiative feedbacks) using [NASA A-train satellite observations](https://atrain.nasa.gov/)
     * Regional numerical weather prediction model ALADIN – optimization and validation of a new model configuration at ECMWF High Performance Computing (HPC) facility
 * **Linux OS** (Ubuntu, openSUSE), **remote connect and file transfer utilities** (ssh tunneling, sftp) and **HPC cluster utilization** / job scheduling (using SLURM, PBS)
 * **Data analysis and visualization** (NetCDF, GRIB formats) utilizing various programming languages and tools (Fortran, Python, C, Unix shell, gnuplot, R, NCL, ncview)
@@ -88,7 +91,7 @@ See [Events tab](https://ninacrnivec.github.io/events/)
   
 ## Other Professional Activities
 * Co-lead of the [WCRP's Fresh Eyes on CMIP](https://wcrp-cmip.org/fresh-eyes-on-cmip/) Data Analysis Work Group (2023 – present)
-* [Topic Editor for European Geosciences Union's journal Geoscientific Model Development](https://www.geoscientific-model-development.net/editorial_board.html) (2023 – present)
+* [Topic Editor for European Geosciences Union's journal Geoscientific Model Development](https://www.geoscientific-model-development.net/editorial_board.html) (2023 – 2025)
 * Reviewer for journal Geoscientific Model Development (2021 – present)
 * Member of [NASA / international Intercomparison of 3D Radiation Codes (I3RC) community](https://earth.gsfc.nasa.gov/climate/model/i3rc) (2021 – present)
 * Member of [Slovenian Meteorological Society](http://www.smd.v-izdelavi.si/domov/) (2019 – present)
