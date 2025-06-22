@@ -27,17 +27,27 @@ I regularly participate in science outreach activities exploiting diverse commun
 
 <b><font color="slateblue"><u>In Slovene:</u></font></b> 
 
+* Interview for "Planet TV" about my research work at Columbia University and NASA GISS elucidating how clouds shape our climate (10/2024)
+
+* Interview at "Cafe Slamič" about my research experience and science communication, Ljubljana (09/2024)
+  
+* Interview for "Podcast Po(L)polni" (04/2024)
+
 * [Interview for "Radio Študent" – Science](https://radiostudent.si/znanost/arso/aerso) about aerosols of various types and origins as well as their relation to clouds, climate and air pollution (04/2024)
 
-* [Interview for "Radio Prvi"](https://prvi.rtvslo.si/podkast/jutranja-vremenska-fronta/173251595/175031771), RTV Slovenia, explaining the basics of global climate modeling (03/2024)
+* Interview for "Radio Prvi", RTV Slovenia, about clouds and climate (03/2024)
 
-* Lecture on weather and climate, primary school Brinje Grosuplje, Slovenia (01/2024)
+* [Interview for "Radio Prvi"](https://prvi.rtvslo.si/podkast/jutranja-vremenska-fronta/173251595/175031771), RTV Slovenia, explaining the basics of global climate modeling (03/2024)
+  
+* Interview for "Radio 1 - Denis Avdić Show" about my research and difficulties with cloud geoengineering, on international women's day within "She knows" initative (03/2024)
+
+* Lecture on weather and climate, for students with learning disabilties, primary school Brinje Grosuplje, Slovenia (01/2024)
 
 * [Interview for "Radio Študent" – Science](https://radiostudent.si/znanost/odprti-termin-za-znanost/nocni-program-znanstvene-redakcije-0) discussing diverse topics such as my overall experience in weather and climate research community and international career path (12/2023)
 
 * [Interview for "Večer"](https://vecer.com/slovenija/resevanje-sveta-pred-podnebnim-zlomom-lahko-clovek-spreminja-vreme-in-podnebje-10344702) before COP28 about climate change issues, pointing out the uncertainty of weather modification approaches such as thunderstorm cloud seeding (11/2023)
 
-* [Interview for "Zarja/Jana"](https://novice.svet24.si/revija/jana/clanek/zgodbe/649140df5a399/kako-naredis-oblak) about my postdoctoral research on tropical marine clouds at Columbia/NASA and elucidating the problematics of climate geoingeering approaches such as marine cloud brightening (06/2023)
+* [Interview for "Zarja/Jana"](https://novice.svet24.si/revija/jana/clanek/zgodbe/649140df5a399/kako-naredis-oblak) about my postdoctoral research on tropical marine clouds at Columbia/NASA and elucidating the problematics of climate geoengineering approaches such as marine cloud brightening (06/2023)
 
 * [European Meteorological Society Media Awards Ceremony](https://www.youtube.com/watch?v=3taZqPIbZh4) talking about the RESCCCUE project (04/2021)
 
