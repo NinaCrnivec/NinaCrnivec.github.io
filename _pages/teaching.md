@@ -16,8 +16,8 @@ author_profile: true
     * <ins>Content</ins>: [Introduction to meteorology](https://www.fmf.uni-lj.si/media/publishing/2023/09/12/10/39/33/Introduction_to_meteorology_Gregor_Skok_2023.pdf).
   * <ins>Subject</ins>: **Air & Air Pollution** (meteorological part)
     * <ins>Content</ins>: This subject introduces basic meteorology concepts required to understand the transport, dispersion and (wet) deposition of air pollutants, before specifically addressing topics such as advection-diffusion equation, plume rise, analytical Gaussian plume models for point- and line-emission sources, numerical Eulerian and Lagrangian approaches to air pollution modelling. 
-  * <ins>Lecture</ins>: **Clouds, Climate Modelling and Climate Change** within subject [Selected Topics in Contemporary Physics](https://www.fmf.uni-lj.si/en/study-mathematics/programmes/3mafi/2024/7003223/courses/576/)
-  * <ins>Lecture</ins>: **Global Climate Modelling** within subject [Climate Change](https://podnebnespremembe.fmf.uni-lj.si/)
+  * <ins>Lecture</ins>: **Clouds, Climate Modelling and Climate Change** within subject **[Selected Topics in Contemporary Physics](https://www.fmf.uni-lj.si/en/study-mathematics/programmes/3mafi/2024/7003223/courses/576/)**
+  * <ins>Lecture</ins>: **Global Climate Modelling** within subject **[Climate Change](https://podnebnespremembe.fmf.uni-lj.si/)**
 
 
 * **Invited lecturer**, University of Nova Gorica, Slovenia (2024)<br/>
