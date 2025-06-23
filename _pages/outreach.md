@@ -39,7 +39,7 @@ I regularly participate in science outreach activities exploiting diverse commun
 
 * [Interview for "Radio Prvi"](https://prvi.rtvslo.si/podkast/jutranja-vremenska-fronta/173251595/175031771), RTV Slovenia, explaining the basics of global climate modeling (03/2024)
   
-* Interview for "Radio 1 - Denis Avdić Show" about my research experience as well as pointing out difficulties with cloud geoengineering, on international women's day within "She knows" initative (03/2024)
+* Interview for "Radio 1 - Denis Avdić Show" on international women's day within "She knows" initative – talking about my research experience as well as explaining difficulties with cloud geoengineering (03/2024)
 
 * Lecture on weather and climate, for students with learning disabilties, primary school Brinje Grosuplje, Slovenia (01/2024)
 
