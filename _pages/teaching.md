@@ -7,6 +7,12 @@ author_profile: true
 
 ## Teaching Experience
 
+* **Assistant Professor**, University of Ljubljana, Slovenia (2024–present)<br/>
+  * <ins>Subject</ins>: **Atmospheric Numerical Modelling** 
+  * <ins>Subject</ins>: **Meteorological Observations and Instruments**
+  * <ins>Subject</ins>: **Meteorology**
+  * <ins>Subject</ins>: **Air & air pollution**
+
 * **Invited lecturer**, University of Nova Gorica, Slovenia (2024)<br/>
 Set of lectures within interdisciplinary subject **Fundamentals of Environmental Science**:
   * <ins>Lecture</ins>: **Fundamentals of Meteorology I**
