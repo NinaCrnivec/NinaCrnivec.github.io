@@ -8,8 +8,8 @@ author_profile: true
 ## Teaching Experience
 
 * **Assistant Professor**, University of Ljubljana, Slovenia (2024 – present)<br/>
-  * <ins>Subject</ins>: **Atmospheric Numerical Modelling** 
-  * <ins>Subject</ins>: **Meteorological Observations and Instruments** 
+  * <ins>Subject</ins>: [**Atmospheric Numerical Modelling**](https://www.fmf.uni-lj.si/en/study-physics/programmes/2fiz/2024/7000785/courses/669/) 
+  * <ins>Subject</ins>: [**Meteorological Observations and Instruments**](https://www.fmf.uni-lj.si/en/study-physics/programmes/1fiz/2024/7002912/courses/1274/)
   ![Radar Lisca](/images/OgledRadar_Lisca_NCrnivec.png)<br/>
  *Visiting meteorological radar at Lisca (personal archive)*<br/>
   * <ins>Subject</ins>: **Meteorology**
