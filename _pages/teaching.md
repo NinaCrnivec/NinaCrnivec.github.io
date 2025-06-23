@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching Experience
 
-* **Assistant Professor**, University of Ljubljana, Slovenia (2024–present)<br/>
+* **Assistant Professor**, University of Ljubljana, Slovenia (2024 – present)<br/>
   * <ins>Subject</ins>: **Atmospheric Numerical Modelling** 
   * <ins>Subject</ins>: **Meteorological Observations and Instruments** 
   * <ins>Subject</ins>: **Meteorology** 
@@ -42,6 +42,10 @@ Set of lectures within interdisciplinary subject **Fundamentals of Environmental
 
   
 ## Mentoring Experience
+
+* **Mentor, Atmospheric Science Seminar** (literature review), MSc-level subject, University of Ljubljana (2025 – present):<br/>
+  * <ins>Seminar title</ins>: Thunderstorms in a warming world: Observed trends and future projections<br/>
+  * <ins>Seminar title</ins>: Climate model downscaling: How to optimally acquire information about regional climate change from global climate models? 
 
 * **Mentor, [Climatematch Academy: Computational Tools For Climate Science](https://academy.climatematch.io/courses/2023-computational-tools-for-climate-science)**, virtual summer academy for worldwide students (2023)<br/>
   * <ins>Role</ins>: Providing guidance to students on various issues such as professional development, research strategy, computational tools for Earth system science, technical and soft skills, effective collaboration and networking, principles of scientific integrity and inclusive work environment, science communication, bridging the gap between climate research and climate action, career advice for minority groups including women in science.<br/>
