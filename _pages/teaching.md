@@ -9,11 +9,16 @@ author_profile: true
 
 * **Assistant Professor**, University of Ljubljana, Slovenia (2024 – present)<br/>
   * <ins>Subject</ins>: **Atmospheric Numerical Modelling** 
-  * <ins>Subject</ins>: **Meteorological Observations and Instruments** 
+  * <ins>Subject</ins>: **Meteorological Observations and Instruments**
+    
+  ![Radar Lisca](/images/OgledRadar_Lisca_NCrnivec.png)
+  
+_Visiting meteorological radar at Lisca (personal archive)_
+
   * <ins>Subject</ins>: **Meteorology** 
   * <ins>Subject</ins>: **Air & Air Pollution** 
-  * <ins>Lecture</ins>: **Clouds, climate modelling and climate change** within subject [Selected Topics in Contemporary Physics](https://www.fmf.uni-lj.si/en/study-mathematics/programmes/3mafi/2024/7003223/courses/576/)
-  * <ins>Lecture</ins>: **Global climate modelling** within subject [Climate Change](https://podnebnespremembe.fmf.uni-lj.si/)
+  * <ins>Lecture</ins>: **Clouds, Climate Modelling and Climate Change** within subject [Selected Topics in Contemporary Physics](https://www.fmf.uni-lj.si/en/study-mathematics/programmes/3mafi/2024/7003223/courses/576/)
+  * <ins>Lecture</ins>: **Global Climate Modelling** within subject [Climate Change](https://podnebnespremembe.fmf.uni-lj.si/)
 
 
 * **Invited lecturer**, University of Nova Gorica, Slovenia (2024)<br/>
