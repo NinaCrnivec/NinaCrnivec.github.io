@@ -16,7 +16,8 @@ author_profile: true
     * <ins>Content</ins>: [Introduction to meteorology](https://www.fmf.uni-lj.si/media/publishing/2023/09/12/10/39/33/Introduction_to_meteorology_Gregor_Skok_2023.pdf).
   * <ins>Subject</ins>: **Air & Air Pollution** (meteorological part)
     * <ins>Content</ins>: This subject consists of chemical and meteorological part. The latter introduces basic meteorology concepts required to understand the transport, dispersion and (wet) deposition of air pollutants, before addressing topics such as advection-diffusion equation, plume rise, analytical Gaussian plume models for point- and line-emission sources, numerical Eulerian and Lagrangian approaches to air pollution modelling.
-  * <ins>Lecture</ins>: **Clouds, Climate Modelling and Climate Change** within subject **[Selected Topics in Contemporary Physics](https://www.fmf.uni-lj.si/en/study-mathematics/programmes/3mafi/2024/7003223/courses/576/)**
+  * <ins>Lecture</ins>: **Clouds, Climate Modelling and Climate Change: How cloudy will our future be?** within subject **[Selected Topics in Contemporary Physics](https://www.fmf.uni-lj.si/en/study-mathematics/programmes/3mafi/2024/7003223/courses/576/)**
+    * <ins>Content</ins>: Introduction to the Earth's atmosphere, overview of various cloud phenomena and processes from the micro- to the global scale. Earth's radiation budget and climate change, impact of clouds on Earth's climate, aerosol-cloud-climate interactions, cloud-radiative effects, clouds feedbacks. Climate (Earth system) modelling, high-resolution atmospheric (cloud) modelling. Recent progress / achievements in the field of clouds and climate science, assessment of feedbacks in different cloud regimes following the latest IPCC report.
   * <ins>Lecture</ins>: **Global Climate Modelling** within subject **[Climate Change](https://podnebnespremembe.fmf.uni-lj.si/)**
     * <ins>Content</ins>: As outlined below on this page.
 
