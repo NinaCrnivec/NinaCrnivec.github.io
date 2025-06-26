@@ -103,7 +103,7 @@ Smith, R. K., G. Kilroy, C. Schmidt, **N. Črnivec**, M. T. Montgomery: “Bound
 * COSMO Training Course, Deutscher Wetterdienst (DWD), Langen, Germany (03/2017)
 * Summer School on Aerosol-Cloud Interactions, International Centre for Theoretical Physics (ICTP), Trieste, Italy (06/2016)
 
-![ICTP Summer School](/photos/2016-07_ICTP_Summer_School_GROUP3_gc.jpeg)
+![ICTP Summer School](/photos/2016-07_ICTP_summer_school_GROUP3_gc.jpeg)
 
 <em><font color="Grey">Participants of the summer school on aerosol-cloud interactions held at ICTP.</font></em>
   
