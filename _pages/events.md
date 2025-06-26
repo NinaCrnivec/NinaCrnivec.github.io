@@ -98,6 +98,11 @@ Smith, R. K., G. Kilroy, C. Schmidt, **N. Črnivec**, M. T. Montgomery: “Bound
 * Data Science Workshop: Introduction to network analysis in Python, University of Ljubljana, Ljubljana, Slovenia (09/2019)
 * Data Science Workshop on data analysis with R: summeRworkshop, University of Ljubljana, Ljubljana, Slovenia (07/2019)
 * Open Education Design Workshop, University of Nova Gorica, Vipava, Slovenia (07/2019)
+  
+![Open Education Vipava](/photos/OpenEducationDesignWorkshop_Vipava_2019_group.jpg)
+
+<em><font color="Grey">Participants of the Open Education Design Workshop held at Lanthieri Mansion in Vipava.</font></em>
+  
 * [Waves To Weather Early Career Scientists Workshop on Machine Learning and Neural Networks](https://www.wavestoweather.de/meetings/workshop_neural_networks_sep18/index.html), Zugspitze, Germany (09/2018)
 * Workshop on Scientific Writing, Ludwig-Maximilians University of Munich, Munich, Germany (06/2017)
 * COSMO Training Course, Deutscher Wetterdienst (DWD), Langen, Germany (03/2017)
@@ -105,7 +110,7 @@ Smith, R. K., G. Kilroy, C. Schmidt, **N. Črnivec**, M. T. Montgomery: “Bound
 
 ![ICTP Summer School](/photos/2016-07_ICTP_summer_school_GROUP3_gc.jpeg)
 
-<em><font color="Grey">Participants of the summer school on aerosol-cloud interactions held at ICTP.</font></em>
+<em><font color="Grey">Participants of the summer school on aerosol-cloud interactions held at ICTP in Trieste.</font></em>
   
 * [Waves To Weather Visualization Workshop](https://w2w.meteo.physik.uni-muenchen.de/meetings/visualization-workshop2016/index.html), Technical University of Munich, Garching, Germany (04/2016)
 * NASA Hurricane and Severe Storm Sentinel (HS3) Science Team Meeting, NASA Ames Research Park, Mountain View, California (05/2015)
