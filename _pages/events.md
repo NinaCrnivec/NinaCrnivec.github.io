@@ -5,9 +5,14 @@ permalink: /events/
 author_profile: true
 ---
 
+## Meeting organizer:
+* European Geosciences Union General Assembly, Vienna, Austria, 2025: [Session CL4-9: "New developments in Earth system modelling: model evaluation, benchmarking, and constraining"](https://meetingorganizer.copernicus.org/EGU25/session/52390). Convener: B. Hassler. Co-conveners: L. Brunner, C. Bishop, **N. Črnivec**, C. O'Reilly, R. Séférian, R. Swaminathan.
+
 ## Presentations
-* [Red Bull Basement Conference](https://www.redbull.com/si-sl/events/basement-slovenia/ljubljana-delavnica), University of Ljubljana, Ljubljana, Slovenia (05/2024)<br/>
-**Črnivec, N.**: Researching clouds for more accurate weather and climate prediction (talk)
+* [Red Bull Basement Slovenia Conference](https://www.redbull.com/si-sl/events/red-bull-basement-slovenia/ljubljana-delavnica), University of Ljubljana, Ljubljana, Slovenia (05/2024)<br/>
+**Črnivec, N.**: "Researching clouds for more accurate weather and climate prediction" (talk)
+* WCRP Fresh Eyes on CMIP Data Analysis Work Group Meeting, virtual (03/2024)<br/>
+**Črnivec, N.**: "Analysis of multi-model ensembles in climate science (literature review)" (talk)
 * Joint Cloud Precipitation Center / Climate and Radiation Laboratory Seminar, NASA Goddard Space Flight Center, Greenbelt, Maryland (04/2023)<br/>**Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman, B. Mayer, F. Jakub: "Shallow clouds, their interaction with atmospheric radiation and their role in the climate system" (talk)
 * [Ocean and Climate Physics Special Seminar](https://lamont.columbia.edu/events/ocean-climate-physics-seminars), Lamont-Doherty Earth Observatory, Columbia Universty, Palisades, New York (04/2023)<br/>**Črnivec, N.**, G. Cesana, R. Pincus, A. Ackerman, B. Mayer, F. Jakub: "Shallow clouds, their interplay with atmospheric radiation and their critical role in the climate system" (talk)
 * [Department of Earth and Atmospheric Sciences (research group of Prof. Luo)](https://zluo.ccny.cuny.edu/), City University of New York, New York City, New York (03/2023)<br/>**Črnivec, N.**, B. Mayer, F. Jakub, G. Cesana, R. Pincus, A. Ackerman: "Clouds, their interaction with solar and terrestrial radiation and their impact on climate" (talk)
@@ -79,9 +84,6 @@ Strajnar, B., N. Pristov, **N. Črnivec**, J. Cedilnik, P. Smerkol, V. Švagelj,
 * [American Meteorological Society Conference on Hurricanes and Tropical Meteorology](https://ams.confex.com/ams/32Hurr/webprogram/32HURRICANES.html), San Juan, Puerto Rico (04/2016)<br/>
 Smith, R. K., G. Kilroy, C. Schmidt, **N. Črnivec**, M. T. Montgomery: “Boundary Layer Control of Tropical Cyclone Intensification" (talk)
 [Video](https://ams.confex.com/ams/32Hurr/videogateway.cgi/id/33543?recordingid=33543&uniqueid=Paper293190&entry_password=914455)
-
-## Workshop / Meeting organizer:
-* European Geosciences Union General Assembly, Vienna, Austria, 2025: [Session CL4-9: "New developments in Earth system modelling: model evaluation, benchmarking, and constraining"](https://meetingorganizer.copernicus.org/EGU25/session/52390). Convener: B. Hassler. Co-conveners: L. Brunner, C. Bishop, **N. Črnivec**, C. O'Reilly, R. Séférian, R. Swaminathan.
 
 ## Other attended workshops & seminars:
 * Analysis of Perturbed Parameter Ensembles in Atmospheric Research (APPEAR) Workshop, organised by the WCRP Earth System Modelling and Observations Project, virtual (10/2022)
