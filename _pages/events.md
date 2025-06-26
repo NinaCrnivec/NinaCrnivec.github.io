@@ -102,6 +102,11 @@ Smith, R. K., G. Kilroy, C. Schmidt, **N. Črnivec**, M. T. Montgomery: “Bound
 * Workshop on Scientific Writing, Ludwig-Maximilians University of Munich, Munich, Germany (06/2017)
 * COSMO Training Course, Deutscher Wetterdienst (DWD), Langen, Germany (03/2017)
 * Summer School on Aerosol-Cloud Interactions, International Centre for Theoretical Physics (ICTP), Trieste, Italy (06/2016)
+
+![ICTP Summer School](/photos/2016-07_ICTP_Summer_School_GROUP3_gc.jpeg)
+
+<em><font color="Grey">Participants of the summer school on aerosol-cloud interactions held at ICTP.</font></em>
+  
 * [Waves To Weather Visualization Workshop](https://w2w.meteo.physik.uni-muenchen.de/meetings/visualization-workshop2016/index.html), Technical University of Munich, Garching, Germany (04/2016)
 * NASA Hurricane and Severe Storm Sentinel (HS3) Science Team Meeting, NASA Ames Research Park, Mountain View, California (05/2015)
 * Practical Training at Slovenian Environment Agency (Meteorological and hydrological office; Section for contol, flow and archive of data), Ljubljana, Slovenia (09/2012)
