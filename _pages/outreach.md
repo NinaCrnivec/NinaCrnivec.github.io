@@ -27,6 +27,8 @@ I regularly participate in science outreach activities exploiting diverse commun
 
 <b><font color="slateblue"><u>In Slovene:</u></font></b> 
 
+* [Informative video](https://www.youtube.com/watch?v=QwUcm7ND3C8&t=27s) about the profession and study of meteorology at the Faculty of mathematics and physics at University of Ljubljana is out (01/2025)
+
 * Interview for "Planet TV" about my research work at Columbia University and NASA GISS elucidating how clouds shape our climate (10/2024)
 
 * Interview at "Cafe Slamič" about my research experience and science communication, Ljubljana (09/2024)
