@@ -27,6 +27,7 @@ author_profile: true
     * <ins>Content</ins>: Introduction to the Earth's atmosphere – overview of various cloud phenomena and processes from the micro- to the global scale. Earth's radiation budget and climate change, impact of clouds on Earth's climate, aerosol-cloud-climate interactions, cloud-radiative effects, cloud feedbacks. Climate / Earth system modelling, high-resolution atmospheric (cloud) modelling. Recent progress / achievements in the field of clouds and climate science, assessment of feedbacks in different cloud regimes following the latest IPCC report.
 
       ![Clouds Puzzle](/images/clouds_puzzle_photo_NCrnivec.png)<br/>
+      <em><font color="Grey">How clouds will change as climate warms, and how this change in cloudiness will – in turn – affect our climate, remains one of the hardest puzzles in atmospheric science (photo: N. Črnivec)</font></em><br/>
 
   * <ins>Lecture</ins>: **Global Climate Modelling** within subject **[Climate Change](https://podnebnespremembe.fmf.uni-lj.si/)**
     * <ins>Content</ins>: As outlined below on this page.
