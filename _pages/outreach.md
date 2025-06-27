@@ -15,7 +15,7 @@ I regularly participate in science outreach activities exploiting diverse commun
 
 <b><font color="slateblue"><u>In English:</u></font></b> 
 
-* [Informative video](https://www.youtube.com/watch?v=TKgGIXfJLtQ) (with English subtitles) about the profession and study of meteorology at the Faculty of mathematics and physics at University of Ljubljana is out (01/2025)
+* [Informative video](https://www.youtube.com/watch?v=TKgGIXfJLtQ) (in Slovene with English subtitles) about the profession and study of meteorology at the Faculty of mathematics and physics at University of Ljubljana is out (01/2025)
 
 * [Featured in NASA Goddard Space Flight Center Early Career Scientist Spotlight series](https://science.gsfc.nasa.gov/600/ECSS/Nina-Crnivec.html) (03/2023)<br/>
 
