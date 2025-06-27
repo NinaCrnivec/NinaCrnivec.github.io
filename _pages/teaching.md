@@ -10,14 +10,14 @@ author_profile: true
 * **Assistant Professor**, University of Ljubljana, Slovenia (2024 – present)<br/>
   * <ins>Subject</ins>: [**Atmospheric Numerical Modelling**](https://www.fmf.uni-lj.si/en/study-physics/programmes/2fiz/2024/7000785/courses/669/)
 
-  ![UCLA-LES](/images/Crnivec_and_Mayer_2019_Fig2top.png)<br/>
-  <em><font color="Grey">Shallow cumulus cloud field evolving into stratocumulus deck as simulated with the University of California, Los Angeles, large-eddy simulation (UCLA-LES) (figure courtesy of Črnivec and Mayer, 2019)</font></em><br/>
+     ![UCLA-LES](/images/Crnivec_and_Mayer_2019_Fig2top.png)<br/>
+     <em><font color="Grey">Shallow cumulus cloud field evolving into stratocumulus deck as simulated with the University of California, Los Angeles, large-eddy simulation (UCLA-LES) (figure courtesy of Črnivec and Mayer, 2019)</font></em><br/>
 
   * <ins>Subject</ins>: [**Meteorological Observations and Instruments**](https://www.fmf.uni-lj.si/en/study-physics/programmes/1fiz/2024/7002912/courses/1274/)
     * <ins>Content</ins>: This subject covers a wide array of meteorological observations and instruments, encompassing both in-situ and remote sensing measurement techniques. Principle of measurement and sources of errors are discussed. Various types of meteorological stations, metadata, data quality control, and data homogenization are explained. Instruments and observations introduced in this subject include thermometer, hygrometer, psychrometer, barometer, anemometer, rain gauge, disdrometer, heliograph, radiometer, ceilometer; classic observations of clouds and other meteorological phenomena at synoptic weather stations, visibility; soil observations, snow measurement, evaporation and evapotranspiration measurement. Direct upper-air measurements with weather balloons and airplanes (WMO AMDAR system). Atmospheric remote sensing (passive, active). Meteorological radar (including Doppler and dual polarization measurement techniques), lidar, sodar. Exploitation of GNSS/GPS signals for meteorological applications. Meteorological satellites (geostationary versus polar orbit) including an overview of major satellite missions of NASA (such as CloudSat, CALIPSO, PACE) and ESA (Aeolus, EarthCARE). Overview of important field campaigns (such as NASA HS3, EUREC4A, NOAA ATOMIC, NASA/ESA JATAC, ORCHESTRA).
       
-  ![Radar Lisca](/images/OgledRadar_Lisca_NCrnivec.png)<br/>
-  <em><font color="Grey">Visiting meteorological radar at Lisca (personal archive)</font></em><br/>
+      ![Radar Lisca](/images/OgledRadar_Lisca_NCrnivec.png)<br/>
+      <em><font color="Grey">Visiting meteorological radar at Lisca (personal archive)</font></em><br/>
 
   * <ins>Subject</ins>: **Meteorology**
     * <ins>Content</ins>: [Introduction to meteorology](https://www.fmf.uni-lj.si/media/publishing/2023/09/12/10/39/33/Introduction_to_meteorology_Gregor_Skok_2023.pdf).
@@ -26,7 +26,7 @@ author_profile: true
   * <ins>Lecture</ins>: **Clouds, Climate Modelling and Climate Change: How cloudy will our future be?** within subject **[Selected Topics in Contemporary Physics](https://www.fmf.uni-lj.si/en/study-mathematics/programmes/3mafi/2024/7003223/courses/576/)**
     * <ins>Content</ins>: Introduction to the Earth's atmosphere – overview of various cloud phenomena and processes from the micro- to the global scale. Earth's radiation budget and climate change, impact of clouds on Earth's climate, aerosol-cloud-climate interactions, cloud-radiative effects, cloud feedbacks. Climate / Earth system modelling, high-resolution atmospheric (cloud) modelling. Recent progress / achievements in the field of clouds and climate science, assessment of feedbacks in different cloud regimes following the latest IPCC report.
 
-  ![Clouds Puzzle](/images/clouds_puzzle_photo_NCrnivec.png)<br/>
+      ![Clouds Puzzle](/images/clouds_puzzle_photo_NCrnivec.png)<br/>
 
   * <ins>Lecture</ins>: **Global Climate Modelling** within subject **[Climate Change](https://podnebnespremembe.fmf.uni-lj.si/)**
     * <ins>Content</ins>: As outlined below on this page.
