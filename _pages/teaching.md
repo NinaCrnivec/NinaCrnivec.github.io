@@ -11,6 +11,7 @@ author_profile: true
   * <ins>Subject</ins>: [**Atmospheric Numerical Modelling**](https://www.fmf.uni-lj.si/en/study-physics/programmes/2fiz/2024/7000785/courses/669/)
 
      ![UCLA-LES](/images/Crnivec_and_Mayer_2019_Fig2top.png)<br/>
+     
      <em><font color="Grey">Shallow cumulus cloud field evolving into stratocumulus deck as simulated with the University of California, Los Angeles, large-eddy simulation (UCLA-LES) (figure courtesy of Črnivec and Mayer, 2019)</font></em><br/>
 
   * <ins>Subject</ins>: [**Meteorological Observations and Instruments**](https://www.fmf.uni-lj.si/en/study-physics/programmes/1fiz/2024/7002912/courses/1274/)
@@ -27,6 +28,7 @@ author_profile: true
     * <ins>Content</ins>: Introduction to the Earth's atmosphere – overview of various cloud phenomena and processes from the micro- to the global scale. Earth's radiation budget and climate change, impact of clouds on Earth's climate, aerosol-cloud-climate interactions, cloud-radiative effects, cloud feedbacks. Climate / Earth system modelling, high-resolution atmospheric (cloud) modelling. Recent progress / achievements in the field of clouds and climate science, assessment of feedbacks in different cloud regimes following the latest IPCC report.
 
       ![Clouds Puzzle](/images/clouds_puzzle_photo_NCrnivec.png)<br/>
+      
       <em><font color="Grey">How clouds will change as climate warms, and how this change in cloudiness will – in turn – affect our climate, remains one of the hardest puzzles in atmospheric science (photo: N. Črnivec)</font></em><br/>
 
   * <ins>Lecture</ins>: **Global Climate Modelling** within subject **[Climate Change](https://podnebnespremembe.fmf.uni-lj.si/)**
