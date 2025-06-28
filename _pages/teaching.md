@@ -17,8 +17,9 @@ author_profile: true
   * <ins>Subject</ins>: [**Meteorological Observations and Instruments**](https://www.fmf.uni-lj.si/en/study-physics/programmes/1fiz/2024/7002912/courses/1274/)
     * <ins>Content</ins>: This subject covers a wide array of meteorological observations and instruments, encompassing both in-situ and remote sensing measurement techniques. Principle of measurement and sources of errors are discussed. Various types of meteorological stations, metadata, data quality control, and data homogenization are explained. Instruments and observations introduced in this subject include thermometer, hygrometer, psychrometer, barometer, anemometer, rain gauge, disdrometer, heliograph, radiometer, ceilometer; classic observations of clouds and other meteorological phenomena at synoptic weather stations, visibility; soil observations, snow measurement, evaporation and evapotranspiration measurement. Direct upper-air measurements with weather balloons and airplanes (WMO AMDAR system). Atmospheric remote sensing (passive, active). Meteorological radar (including Doppler and dual polarization measurement techniques), lidar, sodar. Exploitation of GNSS/GPS signals for meteorological applications. Meteorological satellites (geostationary versus polar orbit) including an overview of major satellite missions of NASA (such as CloudSat, CALIPSO, PACE) and ESA (Aeolus, EarthCARE). Overview of important field campaigns (such as NASA HS3, EUREC4A, NOAA ATOMIC, NASA/ESA JATAC, ORCHESTRA).
       
-      ![Radar Lisca](/images/OgledRadar_Lisca_NCrnivec.png)<br/>
-      <em><font color="Grey">Visiting meteorological radar at Lisca (personal archive)</font></em><br/>
+     ![Lisca](/photos/MOI_Lisca.png)<br/>
+      
+     <em><font color="Grey">Visiting weather radar and meteorological station at Lisca, Slovenia (photo collage credit: L. Likar, N. Črnivec)</font></em><br/>
 
   * <ins>Subject</ins>: **Meteorology**
     * <ins>Content</ins>: [Introduction to meteorology](https://www.fmf.uni-lj.si/media/publishing/2023/09/12/10/39/33/Introduction_to_meteorology_Gregor_Skok_2023.pdf).
