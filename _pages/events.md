@@ -9,6 +9,8 @@ author_profile: true
 * European Geosciences Union General Assembly, Vienna, Austria, 2025: [Session CL4-9: "New developments in Earth system modelling: model evaluation, benchmarking, and constraining"](https://meetingorganizer.copernicus.org/EGU25/session/52390). Convener: B. Hassler. Co-conveners: L. Brunner, C. Bishop, **N. Črnivec**, C. O'Reilly, R. Séférian, R. Swaminathan.
 
 ## Presentations
+* European Meteorological Society Annual Meeting, Ljubljana, Slovenia (09/2025, upcoming)<br/>
+**Črnivec, N.**, A. Katzenberger, E. Galytska, K. Gemmell, J. S. Perez-Carrasquilla, P. Puthukulangara, C. Leclerc, I. Roy, A. Varuolo-Clarke, M. Tošić: "Developing guidelines for working with climate multi-model ensembles in CMIP7" (talk) 
 * [Red Bull Basement Slovenia Conference](https://www.redbull.com/si-sl/events/red-bull-basement-slovenia/ljubljana-delavnica), University of Ljubljana, Ljubljana, Slovenia (05/2024)<br/>
 **Črnivec, N.**: "Researching clouds for more accurate weather and climate prediction" (talk)
 * WCRP Fresh Eyes on CMIP Data Analysis Work Group Meeting, virtual (03/2024)<br/>
