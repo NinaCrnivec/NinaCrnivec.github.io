@@ -33,6 +33,8 @@ I regularly participate in science outreach activities exploiting diverse commun
 
 * Interview for "Planet TV" about my research work at Columbia University and NASA GISS elucidating how clouds shape our climate (10/2024)
 
+![PlanetTV](/photos/JutroNaPlanetu_NC.png)
+
 * Interview at "Cafe Slamič" about my research experience and science communication, Ljubljana (09/2024)
   
 * Interview for "Podcast Po(L)polni" (04/2024)
