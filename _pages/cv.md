@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+![Clouds over NYC skyline](/photos/NYC_skyline_NCrnivec.jpg)
+
 ## Work Experience
 
 * **Assistant Professor**, Atmospheric Science Group, Faculty of mathematics and physics, University of Ljubljana, Ljubljana, Slovenia (2024 – present)<br/> 
@@ -98,6 +100,7 @@ See [Events tab](https://ninacrnivec.github.io/events/)
 * Member of [Association of Slovenes Educated Abroad ("Društvo VTIS")](https://www.drustvovtis.si/) (2018 – present)
 * Member of American Geophysical Union (2021 – 2023)
 * [Member of Slovenian female experts network She Knows ("Ona Ve")](https://onave.si/dr-nina-crnivec/) striving to increase the presence of women in media and general decision making process (2022 – present)
+
 
 
 
