@@ -21,25 +21,30 @@ The course finally gives an overview of how cloud microphysics is represented in
 
     ![UCLA-LES](/images/Crnivec_and_Mayer_2019_Fig2top.png)<br/>
      
-    <em><font color="Grey">Shallow cumulus cloud field evolving into stratocumulus deck as simulated with the University of California, Los Angeles, large-eddy simulation (UCLA-LES) (figure courtesy of Črnivec and Mayer, 2019)</font></em><br/>
+    <em><font color="Grey">Shallow cumulus cloud field evolving into stratocumulus deck as simulated with the University of California, Los Angeles, large-eddy simulation (UCLA-LES) (figure courtesy of Črnivec and Mayer, 2019).</font></em><br/>
 
   * <ins>Subject</ins>: [**Meteorological Observations and Instruments**](https://www.fmf.uni-lj.si/en/study-physics/programmes/1fiz/2024/7002912/courses/1274/)
     * <ins>Content</ins>: This subject covers a wide array of meteorological observations and instruments, encompassing both in-situ and remote sensing measurement techniques. Principle of measurement and sources of errors are discussed. Various types of meteorological stations, metadata, data quality control, and data homogenization are explained. Instruments and observations introduced in this subject include thermometer, hygrometer, psychrometer, barometer, anemometer, rain gauge, disdrometer, heliograph, radiometer, ceilometer; classic observations of clouds and other meteorological phenomena at synoptic weather stations, visibility; soil observations, snow measurement, evaporation and evapotranspiration measurement. Direct upper-air measurements with weather balloons and airplanes (WMO AMDAR system). Atmospheric remote sensing (passive, active). Meteorological radar (including Doppler and dual polarization measurement techniques), lidar, sodar. Exploitation of GNSS/GPS signals for meteorological applications. Meteorological satellites (geostationary versus polar orbit) including an overview of major satellite missions of NASA (such as CloudSat, CALIPSO, PACE) and ESA (Aeolus, EarthCARE). Overview of important field campaigns (such as NASA HS3, EUREC4A, NOAA ATOMIC, NASA/ESA JATAC, ORCESTRA).
       
     ![Lisca](/photos/MOI_Lisca.png)<br/>
       
-    <em><font color="Grey">Visiting weather radar and meteorological station at Lisca, Slovenia (photo collage credit: L. Likar, N. Črnivec)</font></em><br/>
+    <em><font color="Grey">Visiting weather radar and meteorological station at Lisca, Slovenia (photo collage credit: L. Likar, N. Črnivec).</font></em><br/>
 
   * <ins>Subject</ins>: **Meteorology**
     * <ins>Content</ins>: This subject closely follows classic [Introduction to meteorology](https://www.fmf.uni-lj.si/media/publishing/2023/09/12/10/39/33/Introduction_to_meteorology_Gregor_Skok_2023.pdf) textbook, it combines theory with multiple practical examples / exercises, and covers a broad range of topics: Composition of the atmosphere, characteristic layers of the atmosphere, international standard atmosphere. Meteorological variables, weather, and climate. Ideal gas law, humidity, change of atmospheric pressure with altitude, thermodynamic energy equation. Temperature change of ascending / descending air, convection, static stability, examples of very stable layers in the atmosphere, convective (in)stability of the atmosphere. Cloud formation, cloud classification, fog, precipitation, thunderstorms. Scalar fields, isolines, and gradients. Advection. Forces and momentum equation, balanced flow winds, the surface (friction) layer and turbulence, influence of friction on balanced flow winds. Weather fronts. Local winds. The continuity equation. Solar and terrestrial radiation, passage of radiation through the atmosphere, energy of solar radiation at the Earth's surface. Equilibrium planetary temperature and the greenhouse effect, global warming, climate change. General circulation of the atmosphere. Meteorological measurements, numerical weather prediction.<br/>
   * <ins>Subject</ins>: **Air & Air Pollution** (meteorological part)
     * <ins>Content</ins>: This subject consists of chemical and meteorological part. The latter introduces basic meteorology concepts required to understand the transport, dispersion and (wet) deposition of air pollutants, before addressing topics such as advection-diffusion equation, plume rise, analytical Gaussian plume models for point- and line-emission sources, numerical Eulerian and Lagrangian approaches to air pollution modelling.<br/>
+
+  ![plume](/photos/Rauch_BMayer.png)<br/>
+      
+  <em><font color="Grey"> Sequence illustrating smoke plume rise and dispersion under different atmospheric conditions (photos credit: Prof. Dr. Bernhard Mayer).</font></em><br/>
+
   * <ins>Lecture</ins>: **Clouds, Climate Modelling and Climate Change: How cloudy will our future be?** within subject **[Selected Topics in Contemporary Physics](https://www.fmf.uni-lj.si/en/study-mathematics/programmes/3mafi/2024/7003223/courses/576/)**
     * <ins>Content</ins>: Introduction to the Earth's atmosphere – overview of various cloud phenomena and processes from the micro- to the global scale. Earth's radiation budget and climate change, impact of clouds on Earth's climate, aerosol-cloud-climate interactions, cloud-radiative effects, cloud feedbacks. Climate / Earth system modelling, high-resolution atmospheric (cloud) modelling. Recent progress / achievements in the field of clouds and climate science, assessment of feedbacks in different cloud regimes following the latest IPCC report.
 
       ![Clouds Puzzle](/images/clouds_puzzle_photo_NCrnivec.png)<br/>
       
-      <em><font color="Grey">How clouds will change as climate warms, and how this change in cloudiness will – in turn – affect our climate, remains one of the hardest puzzles in atmospheric science (photo: N. Črnivec)</font></em><br/>
+      <em><font color="Grey">How clouds will change as climate warms, and how this change in cloudiness will – in turn – affect our climate, remains one of the hardest puzzles in atmospheric science (photo: N. Črnivec).</font></em><br/>
 
   * <ins>Lecture</ins>: **Global Climate Modelling** within subject **[Climate Change](https://podnebnespremembe.fmf.uni-lj.si/)**
     * <ins>Content</ins>: As outlined below on this page.<br/>
@@ -57,7 +62,7 @@ Set of lectures within interdisciplinary subject **Fundamentals of Environmental
     * <ins>Content</ins>: Mesoscale shallow and deep moist convection, ordinary thunderstorms versus supercells / mesocyclones, hail, thunderstorm electrification, thunderstorm outbursts and gust front evolution, tornadoes, waterspouts. Synoptic mid-latitude weather systems (cyclones, anticyclones) and winds (geostrophic and gradient wind balance, realistic near-surface flow), weather fronts, typical cloud development along warm and cold fronts, general (planetary) circulation. Numerical weather prediction (governing equations, physical schemes, initial condition ensemble, forecast uncertainty sources), high-resolution atmospheric modeling.
   * <ins>Lecture</ins>: **Air Pollution and Climate Change**
     * <ins>Content</ins>: Air pollutants and their natural and anthropogenic sources, particulate matter, tropospheric versus stratospheric ozone, greenhouse gases. Solar and terrestrial radiation, absorption spectra of atmospheric gases, Earth's radiative balance versus imbalance (greenhouse effect), indicators of climate and environmental change, Nobel Prize in Physics for climate science / modeling groundwork. Multiple climate system components and their interactions, impact of aerosols on clouds and climate, cloud feedbacks, climate tipping points, future climate change at global scale and in Slovenia, action to address climate crisis in Slovenia.
-
+      
 * **Invited lecturer**, University of Ljubljana, virtual (2022)<br/>
   * <ins>Lecture</ins>: **Radiative Transfer Modeling in a Cloudy Atmosphere** (audience: bachelor and master students of Meteorology and Physics, host: Dr. Žiga Zaplotnik)
     * <ins>Content</ins>: The lecture covers basic principles of radiative transfer theory (absorption, scattering, emission), radiative heating rates in clear-sky versus cloudy atmosphere, three-dimensional Monte Carlo radiation modeling and Independent Column Approximation, two-stream methodology, traditional (plane-parallel) and state-of-the-art representation of subgrid cloud structure in radiation schemes of weather and climate models (e.g., Tripleclouds).
