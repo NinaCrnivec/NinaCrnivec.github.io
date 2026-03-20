@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+<font color="DarkCyan"><b><i> Submitted / In review</i></b></font>
+
+* Rao, Y. et al. including **N. Črnivec**: Broadening the Impact of CMIP with Fresh Eyes. To be submitted to _PLOS Climate_.
+
+* Katzenberger, A., J. S. Perez-Carrasquilla, K. Gemmell, E. Galytska, C. Leclerc, P. Punya, I. Roy, A. Varuolo-Clarke, M. Tošić and **N. Črnivec**: Developing Guidelines for Working with Multi-Model Ensembles in CMIP. _EGUsphere_ [preprint](https://doi.org/10.5194/egusphere-2025-4744), 2025.<br/> 
+
 <font color="DarkCyan"><b><i>Peer-reviewed scientific publications</i></b></font>
 
 * Cesana, G., A. Ackerman, **N. Črnivec**, R. Pincus and H. Chepfer: An observation-based method to assess tropical stratocumulus and shallow cumulus clouds and feedbacks in CMIP6 and CMIP5 models. _Environmental Research Communications_, 5, 045001, [https://doi.org/10.1088/2515-7620/acc78a](https://doi.org/10.1088/2515-7620/acc78a), 2023.
