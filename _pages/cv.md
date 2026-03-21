@@ -68,7 +68,7 @@ Third academic year abroad at Technical University of Berlin, Germany (2011 – 
 
 See [Publications tab](https://ninacrnivec.github.io/publications/)
   
-## Teaching, Mentoring & Leadership
+## Teaching & Mentoring
 
 See [Teaching tab](https://ninacrnivec.github.io/teaching/)
   
