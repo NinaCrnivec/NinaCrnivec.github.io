@@ -14,7 +14,8 @@ author_profile: true
   * <ins>Upcoming event</ins>: We are organizing a webinar about CMIP / climate data analysis tools to be held in summer or early autumn. The interactive workshop will consist of both theoretical introduction and practical session with hands-on examples on how to use various climate data analysis tools at a beginner, intermediate and advanced level. _More information coming soon!_
 
 ![WCRP CMIP Tools for using Climate Data](/images/WCRP_CMIP_DA_Tools_NC.png)
-
+<br/>
+<br/>
 
 * **Co-lead of the ["RESCCCUE – REminding Slovenian authorities Climate Change Crisis requires Urgent Effort"](https://www.emetsoc.org/wp-content/uploads/2020/06/oc2020_RESCCCUE_project-description.pdf) project team, awarded European Meteorological Society Outreach and Communication Award (2020)** <br/>
 
