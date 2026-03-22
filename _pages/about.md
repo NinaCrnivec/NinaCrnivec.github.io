@@ -12,7 +12,9 @@ Hi, and welcome to my website! I am an Assistant Professor of Meteorology at the
 
 I'm interested in a wide variety of atmospheric phenomena shaping Earth’s weather and climate. My research focuses on shallow clouds, solar and terrestrial radiation, cloud-radiative interactions and feedbacks, as well as tropical cyclone dynamics. To study these challenging topics I use mathematical theory, observations and a hierarchy of numerical models ranging from detailed radiative transfer and cloud-resolving models to global climate models. 
 
-Within the World Climate Research Programme's [Fresh Eyes on Coupled Model Intercomparison Project](https://wcrp-cmip.org/fresh-eyes-on-cmip/) initiative I'm currently steering a worldwide group of early-career researchers striving to advance data analysis tools for the next generation of climate models. I'm also engaged in science outreach activities and communicating climate change on board of the [RESCCCUE](https://www.emetsoc.org/oc2020-for-rescccue-slovenia/) team.
+Within the World Climate Research Programme's [Fresh Eyes on Coupled Model Intercomparison Project](https://wcrp-cmip.org/fresh-eyes-on-cmip/) initiative I'm currently steering a worldwide group of early-career researchers striving to advance data analysis tools for the next generation of climate models. 
+
+I'm also engaged in science outreach activities and communicating climate change on board of the [RESCCCUE](https://www.emetsoc.org/oc2020-for-rescccue-slovenia/) team.
 
 If you share any of these research interests and concerns, and would want to chat or collaborate with me, feel free to reach out to me.
 
