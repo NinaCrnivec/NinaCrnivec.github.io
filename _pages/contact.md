@@ -14,3 +14,6 @@ Jadranska 19
 
 📧 **Email:** [nina.crnivec@fmf.uni-lj.si](mailto:nina.crnivec@fmf.uni-lj.si)
 
+## Opportunities
+
+Prospective PhD students and postdoctoral researchers are encouraged to get in touch to discuss potential projects and funding opportunities (e.g. national programs, EU fellowships such as Marie Skłodowska-Curie).
