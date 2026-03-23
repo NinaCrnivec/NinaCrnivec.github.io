@@ -16,7 +16,7 @@ Within the World Climate Research Programme's [Fresh Eyes on Coupled Model Inter
 
 I'm also engaged in science outreach activities and communicating climate change on board of the [RESCCCUE](https://www.emetsoc.org/oc2020-for-rescccue-slovenia/) team.
 
-If you share any of these research interests and concerns, and would want to chat or collaborate with me, feel free to reach out to me.
+If you share any of these research interests and concerns, and would want to chat or collaborate with me, feel free to [reach out to me](https://ninacrnivec.github.io/contact/).
 
 Research Interests
 ------
