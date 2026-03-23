@@ -16,4 +16,8 @@ Jadranska 19
 
 ## Opportunities
 
+I welcome motivated students and researchers interested in cloud physics, radiative transfer, and broader topics in weather and climate.
+
 Prospective PhD students and postdoctoral researchers are encouraged to get in touch to discuss potential projects and funding opportunities (e.g. national programs, EU fellowships such as Marie Skłodowska-Curie).
+
+A background in meteorology, physics, climate science, or a related field, as well as experience in programming, is beneficial.
