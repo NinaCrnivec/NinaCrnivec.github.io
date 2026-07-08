@@ -9,10 +9,10 @@ author_profile: true
 
 * Rao, Y. et al. including **N. Črnivec**: Broadening the Impact of CMIP with Fresh Eyes. To be submitted to _PLOS Climate_.
 
-* Katzenberger, A., J. S. Perez-Carrasquilla, K. Gemmell, E. Galytska, C. Leclerc, P. Punya, I. Roy, A. Varuolo-Clarke, M. Tošić and **N. Črnivec**: Developing Guidelines for Working with Multi-Model Ensembles in CMIP. _EGUsphere_ [preprint](https://doi.org/10.5194/egusphere-2025-4744), 2025.<br/> 
-
 <font color="DarkCyan"><b><i>Peer-reviewed scientific publications</i></b></font>
 
+* Katzenberger, A., J. S. Perez-Carrasquilla, K. Gemmell, E. Galytska, C. Leclerc, P. Punya, I. Roy, A. Varuolo-Clarke, M. Tošić and **N. Črnivec**: Developing Guidelines for Working with Multi-Model Ensembles in CMIP. _Earth System Dynamics_, 17, 495–532, [https://esd.copernicus.org/articles/17/495/2026/](https://esd.copernicus.org/articles/17/495/2026/), 2026. _Selected as Highlight paper_<br/>
+  
 * Cesana, G., A. Ackerman, **N. Črnivec**, R. Pincus and H. Chepfer: An observation-based method to assess tropical stratocumulus and shallow cumulus clouds and feedbacks in CMIP6 and CMIP5 models. _Environmental Research Communications_, 5, 045001, [https://doi.org/10.1088/2515-7620/acc78a](https://doi.org/10.1088/2515-7620/acc78a), 2023.
 
 * **Črnivec, N.**, G. Cesana and R. Pincus: Evaluating the representation of tropical stratocumulus and shallow cumulus clouds as well as their radiative effects in CMIP6 models using satellite observations. _Journal of Geophysical Research – Atmospheres_, 128, e2022JD038437, [https://doi.org/10.1029/2022JD038437](https://doi.org/10.1029/2022JD038437), 2023.<br/>
