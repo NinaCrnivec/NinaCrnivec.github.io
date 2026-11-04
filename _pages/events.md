@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Meeting organizer:
+* European Geosciences Union General Assembly, Vienna, Austria, 2027: [Session CL5.2: "Climate analysis tools and tutorials: applications and challenges"](https://meetingorganizer.copernicus.org/EGU27/session/60254). Convener: B. Hassler. Co-conveners: E. Galytska, **N. Črnivec**, B. Dingley, A. Prasad. 
 * European Geosciences Union General Assembly, Vienna, Austria, 2025: [Session CL4-9: "New developments in Earth system modelling: model evaluation, benchmarking, and constraining"](https://meetingorganizer.copernicus.org/EGU25/session/52390). Convener: B. Hassler. Co-conveners: L. Brunner, C. Bishop, **N. Črnivec**, C. O'Reilly, R. Séférian, R. Swaminathan.
 
 ## Presentations
