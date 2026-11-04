@@ -15,7 +15,7 @@ redirect_from:
 
 * **Assistant Professor**, Atmospheric Science Group, Faculty of mathematics and physics, University of Ljubljana, Ljubljana, Slovenia (2024 – present)<br/> 
 
-* **Invited lecturer**, University of Nova Gorica, Vipava, Slovenia (2024)<br/> 
+* **Invited lecturer**, University of Nova Gorica, Vipava, Slovenia (2024 – 2025)<br/> 
 <ins>Subject</ins>: Fundamentals of Environmental Science (Host: Dr. Erika Jež)<br/>
 
 * **Invited lecturer**, University of Ljubljana, Ljubljana, Slovenia (2024)<br/> 
@@ -94,7 +94,8 @@ See [Events tab](https://ninacrnivec.github.io/events/)
 ## Other Professional Activities
 * Co-lead of the [WCRP's Fresh Eyes on CMIP](https://wcrp-cmip.org/fresh-eyes-on-cmip/) Data Analysis Work Group (2023 – present)
 * [Topic Editor for European Geosciences Union's journal Geoscientific Model Development](https://www.geoscientific-model-development.net/editorial_board.html) (2023 – 2025)
-* Reviewer for journal Geoscientific Model Development (2021 – present)
+* Reviewer for research grant proposals: U.S. National Science Foundation (2026)
+* Reviewer for scientific journal articles: EGU Geoscientific Model Development (2021)
 * Member of [NASA / international Intercomparison of 3D Radiation Codes (I3RC) community](https://earth.gsfc.nasa.gov/climate/model/i3rc) (2021 – present)
 * Member of [Slovenian Meteorological Society](http://www.smd.v-izdelavi.si/domov/) (2019 – present)
 * Member of [Association of Slovenes Educated Abroad ("Društvo VTIS")](https://www.drustvovtis.si/) (2018 – present)
